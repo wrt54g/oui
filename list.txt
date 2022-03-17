@@ -1,0 +1,2432 @@
+40:f5:20 Espressif Inc.
+b4:75:0e Belkin International Inc.
+00:11:32 Synology Incorporated
+18:e8:29 Ubiquiti Networks Inc.
+fc:ec:da Ubiquiti Networks Inc.
+e0:63:da Ubiquiti Networks Inc.
+44:07:0b Google, Inc.
+e4:5f:01 Raspberry Pi Trading Ltd
+18:69:d8 Tuya Smart Inc.
+f4:cf:a2 Espressif Inc.
+e8:48:b8 TP-Link Corporation Limited
+84:e3:42 Tuya Smart Inc.
+84:0d:8e Espressif Inc.
+c4:4f:33 Espressif Inc.
+ac:84:c6 TP-LINK TECHNOLOGIES CO.,LTD.
+f8:84:79 Yaojin Technology(Shenzhen)Co.,Ltd
+10:52:1c Espressif Inc.
+dc:a6:32 Raspberry Pi Trading Ltd
+d0:97:fe Realme Chongqing Mobile Telecommunications Corp.,Ltd.
+24:62:ab Espressif Inc.
+90:b1:1c Dell Inc.
+80:4e:70 Samsung Electronics Co.,Ltd
+84:d8:1b TP-LINK TECHNOLOGIES CO.,LTD.
+ec:fa:bc Espressif Inc.
+bc:dd:c2 Espressif Inc.
+cc:32:e5 TP-LINK TECHNOLOGIES CO.,LTD.
+74:83:c2 Ubiquiti Networks Inc.
+88:f7:c7 Technicolor CH USA Inc.
+34:31:c4 AVM GmbH
+3c:84:6a TP-LINK TECHNOLOGIES CO.,LTD.
+bc:30:d9 Arcadyan Corporation
+54:fa:3e Samsung Electronics Co.,Ltd
+5c:a3:9d SAMSUNG ELECTRO MECHANICS CO., LTD.
+d8:5d:4c TP-LINK TECHNOLOGIES CO.,LTD.
+7c:ff:4d AVM Audiovisuelles Marketing und Computersysteme GmbH
+54:83:3a Zyxel Communications Corporation
+e4:c3:2a TP-LINK TECHNOLOGIES CO.,LTD.
+64:cc:22 Arcadyan Corporation
+4c:1b:86 Arcadyan Corporation
+84:1e:a3 Sagemcom Broadband SAS
+28:ee:52 TP-LINK TECHNOLOGIES CO.,LTD.
+d4:76:ea zte corporation
+60:8d:26 Arcadyan Corporation
+a4:ce:da Arcadyan Corporation
+d8:b6:b7 Comtrend Corporation
+ac:22:05 Compal Broadband Networks, Inc.
+78:54:2e D-Link International
+68:02:b8 Compal Broadband Networks, Inc.
+40:3f:8c TP-LINK TECHNOLOGIES CO.,LTD.
+34:2c:c4 Compal Broadband Networks, Inc.
+1c:3b:f3 TP-LINK TECHNOLOGIES CO.,LTD.
+50:d4:f7 TP-LINK TECHNOLOGIES CO.,LTD.
+f8:04:2e SAMSUNG ELECTRO-MECHANICS(THAILAND)
+38:43:7d Compal Broadband Networks, Inc.
+44:fe:3b Arcadyan Corporation
+b0:4e:26 TP-LINK TECHNOLOGIES CO.,LTD.
+bc:cf:4f Zyxel Communications Corporation
+d4:63:fe Arcadyan Corporation
+14:91:82 Belkin International Inc.
+00:54:af Continental Automotive Systems Inc.
+8c:68:c8 zte corporation
+00:1f:df Nokia Danmark A/S
+50:13:95 Sichuan AI-Link Technology Co., Ltd.
+64:05:e4 ALPSALPINE CO .,LTD
+58:16:d7 ALPSALPINE CO,.LTD
+00:15:83 IVT corporation
+60:14:66 zte corporation
+00:27:15 Rebound Telecom. Co., Ltd
+ac:83:f3 AMPAK Technology, Inc.
+10:4e:89 Garmin International
+14:8f:21 Garmin International
+e8:de:27 TP-LINK TECHNOLOGIES CO.,LTD.
+00:25:42 Pittasoft
+b8:c6:aa Earda Technologies co Ltd
+48:d8:90 FN-LINK TECHNOLOGY LIMITED
+c4:e9:84 TP-LINK TECHNOLOGIES CO.,LTD.
+7c:25:da FN-LINK TECHNOLOGY LIMITED
+b0:02:47 AMPAK Technology, Inc.
+b0:95:75 TP-LINK TECHNOLOGIES CO.,LTD.
+9c:80:df Arcadyan Technology Corporation
+40:4a:03 Zyxel Communications Corporation
+e0:b9:e5 Technicolor Delivery Technologies Belgium NV
+00:14:bf Cisco-Linksys, LLC
+00:02:61 Tilgin AB
+9c:b7:0d Liteon Technology Corporation
+00:18:f6 Thomson Telecom Belgium
+00:13:49 Zyxel Communications Corporation
+00:1b:2f NETGEAR
+34:e8:94 TP-LINK TECHNOLOGIES CO.,LTD.
+78:d2:94 NETGEAR
+00:1d:7e Cisco-Linksys, LLC
+00:50:7f DrayTek Corp.
+00:1d:aa DrayTek Corp.
+00:13:e0 Murata Manufacturing Co., Ltd.
+2c:f4:32 Espressif Inc.
+50:02:91 Espressif Inc.
+00:5f:67 TP-Link Corporation Limited
+40:16:3b Samsung Electronics Co.,Ltd
+94:53:30 Hon Hai Precision Ind. Co.,Ltd.
+8c:79:f5 Samsung Electronics Co.,Ltd
+84:a4:66 Samsung Electronics Co.,Ltd
+c0:97:27 SAMSUNG ELECTRO-MECHANICS(THAILAND)
+5c:c1:d7 Samsung Electronics Co.,Ltd
+c0:28:8d Logitech, Inc
+00:12:6f Rayson Technology Co., Ltd.
+b4:fb:e4 Ubiquiti Networks Inc.
+8c:89:a5 Micro-Star INT'L CO., LTD
+74:da:88 TP-LINK TECHNOLOGIES CO.,LTD.
+f8:0f:f9 Google, Inc.
+80:20:fd Samsung Electronics Co.,Ltd
+bc:7a:bf Samsung Electronics Co.,Ltd
+00:50:bf Metalligence Technology Corp.
+d0:df:9a Liteon Technology Corporation
+00:21:6a Intel Corporate
+1c:65:9d Liteon Technology Corporation
+a4:12:32 GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+c0:e4:34 AzureWave Technology Inc.
+bc:e9:2f HP Inc.
+00:0f:cb 3Com Ltd
+f4:3e:61 SHENZHEN GONGJIN ELECTRONICS CO.,LT
+00:25:9c Cisco-Linksys, LLC
+48:f8:b3 Cisco-Linksys, LLC
+00:00:b4 Edimax Technology Co. Ltd.
+38:94:ed NETGEAR
+c8:d7:19 Cisco-Linksys, LLC
+00:00:23 ABB INDUSTRIAL SYSTEMS AB
+48:02:2a B-Link Electronic Limited
+00:0f:a3 Alpha Networks Inc.
+00:1e:8c ASUSTek COMPUTER INC.
+e8:2a:ea Intel Corporate
+ec:5c:68 CHONGQING FUGUI ELECTRONICS CO.,LTD.
+d0:22:be SAMSUNG ELECTRO-MECHANICS(THAILAND)
+ac:a2:13 Shenzhen Bilian electronic CO.,LTD
+08:00:27 PCS Systemtechnik GmbH
+d8:0d:17 TP-LINK TECHNOLOGIES CO.,LTD.
+00:1e:c9 Dell Inc.
+78:32:1b D-Link International
+00:24:01 D-Link Corporation
+90:94:e4 D-Link International
+00:01:89 Refraction Technology, Inc.
+d8:f1:5b Espressif Inc.
+58:94:6b Intel Corporate
+0c:84:dc Hon Hai Precision Ind. Co.,Ltd.
+10:bf:48 ASUSTek COMPUTER INC.
+b8:27:eb Raspberry Pi Foundation
+48:3f:da Espressif Inc.
+8c:85:80 Smart Innovation LLC
+00:0c:f6 Sitecom Europe BV
+f0:85:c1 SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.
+f4:a9:97 CANON INC.
+48:5a:3f WISOL
+00:10:a7 UNEX TECHNOLOGY CORPORATION
+4c:11:ae Espressif Inc.
+00:ad:24 D-Link International
+f4:92:bf Ubiquiti Networks Inc.
+f0:9f:c2 Ubiquiti Networks Inc.
+00:50:56 VMware, Inc.
+b8:cb:29 Dell Inc.
+00:0c:29 VMware, Inc.
+00:04:20 Slim Devices, Inc.
+1c:c1:de Hewlett Packard
+54:05:db LCFC(HeFei) Electronics Technology co., ltd
+98:fa:9b LCFC(HeFei) Electronics Technology co., ltd
+d0:50:99 ASRock Incorporation
+6c:4b:90 LiteON
+bc:5f:f4 ASRock Incorporation
+80:2a:a8 Ubiquiti Networks Inc.
+44:d9:e7 Ubiquiti Networks Inc.
+00:00:74 RICOH COMPANY LTD.
+e4:f7:a1 Datafox GmbH
+20:67:7c Hewlett Packard Enterprise
+78:8a:20 Ubiquiti Networks Inc.
+d0:81:7a Apple, Inc.
+10:8e:e0 Samsung Electronics Co.,Ltd
+18:60:24 Hewlett Packard
+48:0b:b2 IEEE Registration Authority
+a0:d3:c1 Hewlett Packard
+78:28:ca Sonos, Inc.
+f0:18:98 Apple, Inc.
+e0:5a:9f IEEE Registration Authority
+6c:c7:ec SAMSUNG ELECTRO-MECHANICS(THAILAND)
+d4:e6:b7 Samsung Electronics Co.,Ltd
+64:89:f1 Samsung Electronics Co.,Ltd
+2c:44:fd Hewlett Packard
+c0:10:b1 HMD Global Oy
+7c:71:76 Wuxi iData Technology Company Ltd.
+a0:fb:c5 Apple, Inc.
+04:0e:3c HP Inc.
+9c:7b:ef Hewlett Packard
+10:62:e5 Hewlett Packard
+44:85:00 Intel Corporate
+88:e9:fe Apple, Inc.
+08:62:66 ASUSTek COMPUTER INC.
+d8:fc:93 Intel Corporate
+ac:af:b9 Samsung Electronics Co.,Ltd
+c8:d9:d2 Hewlett Packard
+00:19:98 SATO CORPORATION
+04:b4:29 Samsung Electronics Co.,Ltd
+00:0e:b0 Solutions Radio BV
+60:c7:98 Verifone
+a4:60:11 Verifone
+88:51:fb Hewlett Packard
+c4:82:3f Fujian Newland Auto-ID Tech. Co,.Ltd.
+9c:93:4e Xerox Corporation
+d4:be:d9 Dell Inc.
+78:d7:5f Apple, Inc.
+d4:61:9d Apple, Inc.
+a0:8c:fd Hewlett Packard
+4c:66:41 SAMSUNG ELECTRO-MECHANICS(THAILAND)
+f0:ef:86 Google, Inc.
+b0:2a:43 Google, Inc.
+00:f6:20 Google, Inc.
+b0:6e:bf ASUSTek COMPUTER INC.
+88:f0:31 Cisco Systems, Inc
+24:18:1d SAMSUNG ELECTRO-MECHANICS(THAILAND)
+a0:c9:a0 Murata Manufacturing Co., Ltd.
+f0:d7:aa Motorola Mobility LLC, a Lenovo Company
+14:01:52 Samsung Electronics Co.,Ltd
+18:e7:28 Cisco Systems, Inc
+a8:db:03 SAMSUNG ELECTRO-MECHANICS(THAILAND)
+d8:c4:6a Murata Manufacturing Co., Ltd.
+58:20:b1 Hewlett Packard
+ac:1f:6b Super Micro Computer, Inc.
+14:49:bc DrayTek Corp.
+a8:47:4a Hon Hai Precision Ind. Co.,Ltd.
+d0:ff:98 HUAWEI TECHNOLOGIES CO.,LTD
+38:f9:d3 Apple, Inc.
+14:f4:2a Samsung Electronics Co.,Ltd
+08:71:90 Intel Corporate
+00:26:3e Trapeze Networks
+88:e0:f3 Juniper Networks
+a4:5e:60 Apple, Inc.
+c8:34:8e Intel Corporate
+b4:69:21 Intel Corporate
+34:2e:b7 Intel Corporate
+c4:06:83 HUAWEI TECHNOLOGIES CO.,LTD
+b4:ae:2b Microsoft
+30:35:ad Apple, Inc.
+0c:2f:b0 Samsung Electronics Co.,Ltd
+bc:83:85 Microsoft Corporation
+7c:2a:31 Intel Corporate
+c4:b9:cd Cisco Systems, Inc
+7c:2e:dd Samsung Electronics Co.,Ltd
+18:d2:76 HUAWEI TECHNOLOGIES CO.,LTD
+d0:d7:83 HUAWEI TECHNOLOGIES CO.,LTD
+0c:8d:db Cisco Meraki
+14:c2:13 Apple, Inc.
+d8:3b:bf Intel Corporate
+d4:e6:b7 Samsung Electronics Co.,Ltd
+8c:b8:4a SAMSUNG ELECTRO-MECHANICS(THAILAND)
+8c:f5:a3 SAMSUNG ELECTRO-MECHANICS(THAILAND)
+3c:dc:bc Samsung Electronics Co.,Ltd
+c4:93:00 8Devices
+ac:92:32 HUAWEI TECHNOLOGIES CO.,LTD
+90:dd:5d Apple, Inc.
+cc:03:d9 Cisco Meraki
+00:17:88 Philips Lighting BV
+d0:17:c2 ASUSTek COMPUTER INC.
+20:cf:30 ASUSTek COMPUTER INC.
+9c:5c:8e ASUSTek COMPUTER INC.
+60:45:cb ASUSTek COMPUTER INC.
+88:ac:c0 Zyxel Communications Corporation
+24:65:11 AVM GmbH
+48:d3:43 ARRIS Group, Inc.
+f0:ab:54 MITSUMI ELECTRIC CO.,LTD.
+34:2d:0d Samsung Electronics Co.,Ltd
+9c:e0:63 Samsung Electronics Co.,Ltd
+dc:66:72 Samsung Electronics Co.,Ltd
+88:bd:45 Samsung Electronics Co.,Ltd
+c0:bd:c8 Samsung Electronics Co.,Ltd
+a4:6c:f1 Samsung Electronics Co.,Ltd
+14:9f:3c Samsung Electronics Co.,Ltd
+94:fb:29 Zebra Technologies Inc.
+00:b5:d0 Samsung Electronics Co.,Ltd
+68:e7:c2 Samsung Electronics Co.,Ltd
+b4:74:43 Samsung Electronics Co.,Ltd
+98:29:a6 COMPAL INFORMATION (KUNSHAN) CO., LTD.
+a0:cb:fd Samsung Electronics Co.,Ltd
+4c:dd:31 Samsung Electronics Co.,Ltd
+dc:cf:96 Samsung Electronics Co.,Ltd
+84:55:a5 Samsung Electronics Co.,Ltd
+d0:7f:a0 Samsung Electronics Co.,Ltd
+c0:d3:c0 Samsung Electronics Co.,Ltd
+3c:05:18 Samsung Electronics Co.,Ltd
+30:c7:ae Samsung Electronics Co.,Ltd
+78:4b:87 Murata Manufacturing Co., Ltd.
+80:7b:3e Samsung Electronics Co.,Ltd
+34:23:ba SAMSUNG ELECTRO-MECHANICS(THAILAND)
+0c:e0:dc Samsung Electronics Co.,Ltd
+a8:34:6a Samsung Electronics Co.,Ltd
+f0:ee:10 Samsung Electronics Co.,Ltd
+70:28:8b Samsung Electronics Co.,Ltd
+d4:ae:05 Samsung Electronics Co.,Ltd
+7c:39:53 zte corporation
+34:da:b7 zte corporation
+00:4a:77 zte corporation
+ac:64:62 zte corporation
+74:a7:8e zte corporation
+00:31:92 TP-Link Corporation Limited
+9c:c7:a6 AVM GmbH
+e8:df:70 AVM Audiovisuelles Marketing und Computersysteme GmbH
+38:10:d5 AVM Audiovisuelles Marketing und Computersysteme GmbH
+c8:0e:14 AVM Audiovisuelles Marketing und Computersysteme GmbH
+bc:05:43 AVM GmbH
+2c:91:ab AVM Audiovisuelles Marketing und Computersysteme GmbH
+44:4e:6d AVM Audiovisuelles Marketing und Computersysteme GmbH
+f0:b0:14 AVM Audiovisuelles Marketing und Computersysteme GmbH
+cc:ce:1e AVM Audiovisuelles Marketing und Computersysteme GmbH
+98:9b:cb AVM Audiovisuelles Marketing und Computersysteme GmbH
+74:31:70 Arcadyan Technology Corporation
+e4:75:dc Arcadyan Corporation
+38:d8:2f zte corporation
+8c:c5:b4 Sagemcom Broadband SAS
+84:9c:a6 Arcadyan Technology Corporation
+6c:ba:b8 Sagemcom Broadband SAS
+b0:bb:e5 Sagemcom Broadband SAS
+b8:50:01 Extreme Networks, Inc.
+48:29:52 Sagemcom Broadband SAS
+f8:77:b8 Samsung Electronics Co.,Ltd
+64:1c:b0 Samsung Electronics Co.,Ltd
+e8:ea:6a StarTech.com
+c0:b8:83 Intel Corporate
+a4:4c:c8 Dell Inc.
+b0:35:9f Intel Corporate
+00:24:9b Action Star Enterprise Co., Ltd.
+38:63:bb Hewlett Packard
+00:95:69 LSD Science and Technology Co.,Ltd.
+ac:cf:23 Hi-flying electronics technology Co.,Ltd
+bc:54:f9 Drogoo Technology Co., Ltd.
+34:ea:e7 Shanghai High-Flying Electronics Technology Co., Ltd
+00:02:6f Senao International Co., Ltd.
+18:a6:f7 TP-LINK TECHNOLOGIES CO.,LTD.
+78:96:82 zte corporation
+3c:28:6d Google, Inc.
+70:3a:cb Google, Inc.
+7c:2e:bd Google, Inc.
+b0:e4:d5 Google, Inc.
+e4:f0:42 Google, Inc.
+88:3d:24 Google, Inc.
+58:cb:52 Google, Inc.
+54:67:51 Compal Broadband Networks, Inc.
+d8:07:b6 TP-LINK TECHNOLOGIES CO.,LTD.
+c4:04:15 NETGEAR
+00:e0:20 TECNOMEN OY
+80:3f:5d Winstars Technology Ltd
+04:a1:51 NETGEAR
+d8:47:32 TP-LINK TECHNOLOGIES CO.,LTD.
+e8:94:f6 TP-LINK TECHNOLOGIES CO.,LTD.
+a0:63:91 NETGEAR
+28:c6:8e NETGEAR
+58:ef:68 Belkin International Inc.
+64:d1:a3 Sitecom Europe BV
+70:4f:57 TP-LINK TECHNOLOGIES CO.,LTD.
+c0:ff:d4 NETGEAR
+b0:b9:8a NETGEAR
+a4:2b:b0 TP-LINK TECHNOLOGIES CO.,LTD.
+e8:fc:af NETGEAR
+44:94:fc NETGEAR
+84:1b:5e NETGEAR
+ec:08:6b TP-LINK TECHNOLOGIES CO.,LTD.
+14:59:c0 NETGEAR
+68:ff:7b TP-LINK TECHNOLOGIES CO.,LTD.
+10:fe:ed TP-LINK TECHNOLOGIES CO.,LTD.
+14:cc:20 TP-LINK TECHNOLOGIES CO.,LTD.
+10:da:43 NETGEAR
+c0:25:e9 TP-LINK TECHNOLOGIES CO.,LTD.
+08:36:c9 NETGEAR
+08:bd:43 NETGEAR
+68:89:75 nuoxc
+04:a2:22 Arcadyan Corporation
+2c:30:33 NETGEAR
+74:ac:b9 Ubiquiti Networks Inc.
+e0:75:0a ALPSALPINE CO,.LTD
+00:10:18 Broadcom
+28:56:c1 Harman/Becker Automotive Systems GmbH
+00:1c:df Belkin International Inc.
+5c:50:15 Cisco Systems, Inc
+d4:4d:a4 Murata Manufacturing Co., Ltd.
+00:c8:8b Cisco Systems, Inc
+80:e0:1d Cisco Systems, Inc
+bc:67:1c Cisco Systems, Inc
+24:de:c6 Aruba, a Hewlett Packard Enterprise Company
+38:bc:01 HUAWEI TECHNOLOGIES CO.,LTD
+a4:c6:4f HUAWEI TECHNOLOGIES CO.,LTD
+d8:9d:67 Hewlett Packard
+1c:6a:7a Cisco Systems, Inc
+88:c3:97 Beijing Xiaomi Mobile Software Co., Ltd
+64:a2:f9 OnePlus Technology (Shenzhen) Co., Ltd
+c0:8c:71 Motorola Mobility LLC, a Lenovo Company
+20:39:56 HMD Global Oy
+44:27:f3 70mai Co.,Ltd.
+6c:02:e0 HP Inc.
+00:26:7e PARROT SA
+00:10:1c OHM TECHNOLOGIES INTL, LLC
+00:60:34 ROBERT BOSCH GmbH
+50:64:2b XIAOMI Electronics,CO.,LTD
+48:0f:cf Hewlett Packard
+d0:15:a6 Aruba, a Hewlett Packard Enterprise Company
+34:ce:00 XIAOMI Electronics,CO.,LTD
+50:85:69 Samsung Electronics Co.,Ltd
+ac:7a:4d ALPSALPINE CO,.LTD
+d4:53:83 Murata Manufacturing Co., Ltd.
+30:c3:d9 ALPSALPINE CO,.LTD
+74:95:ec ALPSALPINE CO,.LTD
+b4:ec:02 ALPSALPINE CO,.LTD
+70:74:14 Murata Manufacturing Co., Ltd.
+cc:f9:57 u-blox AG
+1c:c6:3c Arcadyan Technology Corporation
+40:b0:76 ASUSTek COMPUTER INC.
+90:5c:44 Compal Broadband Networks, Inc.
+e4:fb:5d HUAWEI TECHNOLOGIES CO.,LTD
+94:6a:b0 Arcadyan Corporation
+18:83:bf Arcadyan Technology Corporation
+98:da:c4 TP-LINK TECHNOLOGIES CO.,LTD.
+88:dc:96 EnGenius Technologies, Inc.
+a4:6c:2a Cisco Systems, Inc
+c8:d1:2a Comtrend Corporation
+e0:c9:7a Apple, Inc.
+10:7b:44 ASUSTek COMPUTER INC.
+04:92:26 ASUSTek COMPUTER INC.
+e8:1c:ba Fortinet, Inc.
+ac:86:74 Open Mesh, Inc.
+24:79:2a Ruckus Wireless
+38:37:8b HUAWEI TECHNOLOGIES CO.,LTD
+00:68:eb HP Inc.
+60:5b:b4 AzureWave Technology Inc.
+5c:93:a2 Liteon Technology Corporation
+e8:9e:b4 Hon Hai Precision Ind. Co.,Ltd.
+ac:89:95 AzureWave Technology Inc.
+5c:96:56 AzureWave Technology Inc.
+80:ea:23 Wistron Neweb Corporation
+b0:05:94 Liteon Technology Corporation
+74:29:af Hon Hai Precision Ind. Co.,Ltd.
+2c:33:7a Hon Hai Precision Ind. Co.,Ltd.
+ec:0e:c4 Hon Hai Precision Ind. Co.,Ltd.
+e8:61:7e Liteon Technology Corporation
+00:71:cc Hon Hai Precision Ind. Co.,Ltd.
+f8:da:0c Hon Hai Precision Ind. Co.,Ltd.
+d0:66:7b Samsung Electronics Co.,Ltd
+e4:e0:c5 Samsung Electronics Co.,Ltd
+a0:0b:ba SAMSUNG ELECTRO MECHANICS CO., LTD.
+c4:30:18 MCS Logic Inc.
+5c:83:8f Cisco Systems, Inc
+50:56:bf Samsung Electronics Co.,Ltd
+78:ab:bb Samsung Electronics Co.,Ltd
+00:16:a4 Ezurio Ltd
+c8:2e:47 Suzhou SmartChip Semiconductor Co., LTD
+8c:c8:cd Samsung Electronics Co.,Ltd
+1c:5a:3e Samsung Electronics Co.,Ltd
+4c:09:d4 Arcadyan Technology Corporation
+e0:10:7f Ruckus Wireless
+38:ff:36 Ruckus Wireless
+18:b1:69 Sonicwall
+c0:ea:e4 Sonicwall
+2c:b8:ed SonicWall
+00:17:c5 SonicWALL
+00:24:8c ASUSTek COMPUTER INC.
+cc:cc:cc Silicon Laboratories
+c4:41:1e Belkin International Inc.
+b0:38:29 Siliconware Precision Industries Co., Ltd.
+e8:c1:d7 Philips
+04:78:63 Shanghai MXCHIP Information Technology Co., Ltd.
+e4:3e:d7 Arcadyan Corporation
+0c:1c:57 Texas Instruments
+d0:05:2a Arcadyan Corporation
+48:8d:36 Arcadyan Corporation
+08:26:97 Zyxel Communications Corporation
+70:9f:2d zte corporation
+30:d3:2d devolo AG
+00:10:02 ACTIA
+a0:04:60 NETGEAR
+cc:40:d0 NETGEAR
+9c:3d:cf NETGEAR
+e4:f4:c6 NETGEAR
+74:44:01 NETGEAR
+20:e5:2a NETGEAR
+a0:21:b7 NETGEAR
+00:16:0a SWEEX Europe BV
+1c:3a:de Samsung Electronics Co.,Ltd
+18:82:8c Arcadyan Corporation
+0c:8e:29 Arcadyan Corporation
+38:ea:a7 Hewlett Packard
+08:d0:9f Cisco Systems, Inc
+28:6d:cd Beijing Winner Microelectronics Co.,Ltd.
+68:c6:3a Espressif Inc.
+cc:50:e3 Espressif Inc.
+c8:2b:96 Espressif Inc.
+84:cc:a8 Espressif Inc.
+5c:cf:7f Espressif Inc.
+68:bc:0c Cisco Systems, Inc
+f0:92:1c Hewlett Packard
+30:ff:f6 HangZhou KuoHeng Technology Co.,ltd
+f0:99:19 Garmin International
+00:0b:6a Asiarock Technology Limited
+3c:71:bf Espressif Inc.
+b4:e6:2d Espressif Inc.
+30:ae:a4 Espressif Inc.
+60:01:94 Espressif Inc.
+e0:98:06 Espressif Inc.
+dc:4f:22 Espressif Inc.
+d4:38:9c Sony Corporation
+84:c7:ea Sony Corporation
+38:78:62 Sony Corporation
+58:48:22 Sony Corporation
+b4:52:7e Sony Corporation
+00:1d:0d Sony Interactive Entertainment Inc.
+00:24:8d Sony Interactive Entertainment Inc.
+a8:e3:ee Sony Interactive Entertainment Inc.
+38:18:4c Sony Home Entertainment&Sound Products Inc
+a0:9d:c1 China Dragon Technology Limited
+00:15:77 Allied Telesis, Inc.
+00:90:3e N.V. PHILIPS INDUSTRIAL ACTIVITIES
+c4:ea:1d Technicolor Delivery Technologies Belgium NV
+c8:93:46 MXCHIP Company Limited
+40:70:4a Power Idea Technology Limited
+00:c0:b7 AMERICAN POWER CONVERSION CORP
+40:a5:ef Shenzhen Four Seas Global Link Network Technology Co., Ltd.
+bc:54:2f Intel Corporate
+50:8f:4c Xiaomi Communications Co Ltd
+9c:2e:a1 Xiaomi Communications Co Ltd
+d0:9c:7a Xiaomi Communications Co Ltd
+04:b1:67 Xiaomi Communications Co Ltd
+d8:63:75 Xiaomi Communications Co Ltd
+28:6c:07 XIAOMI Electronics,CO.,LTD
+00:1d:e0 Intel Corporate
+08:3a:2f Guangzhou Juan Intelligent Tech Joint Stock Co.,Ltd
+a8:6d:aa Intel Corporate
+18:56:80 Intel Corporate
+18:1d:ea Intel Corporate
+00:e1:8c Intel Corporate
+80:7d:3a Espressif Inc.
+84:f3:eb Espressif Inc.
+18:81:0e Apple, Inc.
+00:19:9d Vizio, Inc
+f0:ad:4e Globalscale Technologies, Inc.
+00:00:0c Cisco Systems, Inc
+34:97:f6 ASUSTek COMPUTER INC.
+00:0b:5d FUJITSU LIMITED
+00:09:5b NETGEAR
+00:20:af 3COM
+00:e0:29 STANDARD MICROSYSTEMS CORP.
+1c:87:2c ASUSTek COMPUTER INC.
+7c:5c:f8 Intel Corporate
+00:03:f4 NetBurner
+94:9a:a9 Microsoft Corporation
+00:15:5d Microsoft Corporation
+a0:88:69 Intel Corporate
+9c:d3:6d NETGEAR
+68:f7:28 LCFC(HeFei) Electronics Technology co., ltd
+5c:93:a2 Liteon Technology Corporation
+00:26:6c INVENTEC CORPORATION
+cc:2d:e0 Routerboard.com
+5c:49:79 AVM Audiovisuelles Marketing und Computersysteme GmbH
+b0:be:76 TP-LINK TECHNOLOGIES CO.,LTD.
+f4:06:8d devolo AG
+bc:f2:af devolo AG
+00:16:da Futronic Technology Co. Ltd.
+cc:b2:55 D-Link International
+00:06:36 Jedai Broadband Networks
+00:06:38 Sungjin C&C Co., Ltd.
+00:06:37 Toptrend-Meta Information (ShenZhen) Inc.
+00:06:39 Newtec
+9c:a3:a9 Guangzhou Juan Optical and Electronical Tech Joint Stock Co., Ltd
+48:a4:93 TAIYO YUDEN CO.,LTD
+d4:ca:6e u-blox AG
+ec:43:f6 Zyxel Communications Corporation
+0c:dd:24 Intel Corporate
+00:08:2f Cisco Systems, Inc
+1c:de:a7 Cisco Systems, Inc
+38:1c:1a Cisco Systems, Inc
+90:1a:4f EM Microelectronic
+8c:de:e6 Samsung Electronics Co.,Ltd
+98:b8:bc Samsung Electronics Co.,Ltd
+94:7b:e7 Samsung Electronics Co.,Ltd
+90:b1:44 Samsung Electronics Co.,Ltd
+c8:d7:b0 Samsung Electronics Co.,Ltd
+28:02:d8 Samsung Electronics Co.,Ltd
+cc:46:4e Samsung Electronics Co.,Ltd
+30:ab:6a SAMSUNG ELECTRO-MECHANICS(THAILAND)
+c0:d3:03 Samsung Electronics Co.,Ltd
+d0:03:df Samsung Electronics Co.,Ltd
+b8:bc:5b Samsung Electronics Co.,Ltd
+a4:30:7a Samsung Electronics Co.,Ltd
+1c:15:1f HUAWEI TECHNOLOGIES CO.,LTD
+74:59:09 HUAWEI TECHNOLOGIES CO.,LTD
+04:8c:9a Huawei Device Co., Ltd.
+30:a1:fa HUAWEI TECHNOLOGIES CO.,LTD
+c4:9f:4c HUAWEI TECHNOLOGIES CO.,LTD
+38:47:bc HUAWEI TECHNOLOGIES CO.,LTD
+04:79:70 HUAWEI TECHNOLOGIES CO.,LTD
+88:40:3b HUAWEI TECHNOLOGIES CO.,LTD
+84:24:8d Zebra Technologies Inc
+1c:b9:c4 Ruckus Wireless
+00:0c:e6 Fortinet Inc.
+74:67:f7 Extreme Networks, Inc.
+94:e0:d6 China Dragon Technology Limited
+00:05:b5 Broadcom Technologies
+cc:79:cf SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.
+e0:76:d0 AMPAK Technology, Inc.
+ec:3d:fd SHENZHEN BILIAN ELECTRONIC CO.，LTD
+7c:a7:b0 SHENZHEN BILIAN ELECTRONIC CO.，LTD
+14:6b:9c SHENZHEN BILIAN ELECTRONIC CO.，LTD
+44:33:4c Shenzhen Bilian electronic CO.,LTD
+0c:8c:24 SHENZHEN BILIAN ELECTRONIC CO.，LTD
+10:a4:be SHENZHEN BILIAN ELECTRONIC CO.，LTD
+08:ea:40 SHENZHEN BILIAN ELECTRONIC CO.，LTD
+28:f3:66 Shenzhen Bilian electronic CO.,LTD
+20:32:33 SHENZHEN BILIAN ELECTRONIC CO.，LTD
+e0:b9:4d SHENZHEN BILIAN ELECTRONIC CO.，LTD
+a0:9f:10 SHENZHEN BILIAN ELECTRONIC CO.，LTD
+74:ee:2a SHENZHEN BILIAN ELECTRONIC CO.，LTD
+3c:33:00 Shenzhen Bilian electronic CO.,LTD
+38:01:46 SHENZHEN BILIAN ELECTRONIC CO.，LTD
+c4:3a:35 FN-LINK TECHNOLOGY LIMITED
+80:5e:4f FN-LINK TECHNOLOGY LIMITED
+18:bb:26 FN-LINK TECHNOLOGY LIMITED
+d4:d2:d6 FN-LINK TECHNOLOGY LIMITED
+48:46:c1 FN-LINK TECHNOLOGY LIMITED
+24:18:c6 HUNAN FN-LINK TECHNOLOGY LIMITED
+30:4a:26 Shenzhen Trolink Technology CO, LTD
+1c:bf:ce Shenzhen Century Xinyang Technology Co., Ltd
+d0:5b:a8 zte corporation
+cc:d5:39 Cisco Systems, Inc
+58:97:1e Cisco Systems, Inc
+24:01:c7 Cisco Systems, Inc
+84:78:ac Cisco Systems, Inc
+68:86:a7 Cisco Systems, Inc
+d8:38:fc Ruckus Wireless
+8c:0c:90 Ruckus Wireless
+b0:b8:67 Hewlett Packard Enterprise
+4c:5e:0c Routerboard.com
+d4:ca:6d Routerboard.com
+00:0c:42 Routerboard.com
+e4:8d:8c Routerboard.com
+64:d1:54 Routerboard.com
+6c:3b:6b Routerboard.com
+04:f0:21 Compex Systems Pte Ltd
+00:0e:8e SparkLAN Communications, Inc.
+30:99:35 zte corporation
+3c:d9:2b Hewlett Packard
+00:03:52 Colubris Networks
+00:24:a8 ProCurve Networking by HP
+10:b1:f8 HUAWEI TECHNOLOGIES CO.,LTD
+84:3a:4b Intel Corporate
+98:e7:f4 Hewlett Packard
+84:a9:3e Hewlett Packard
+80:2b:f9 Hon Hai Precision Ind. Co.,Ltd.
+c4:34:6b Hewlett Packard
+00:0c:41 Cisco-Linksys, LLC
+c0:c1:c0 Cisco-Linksys, LLC
+78:dd:12 Arcadyan Corporation
+00:22:6b Cisco-Linksys, LLC
+dc:ef:09 NETGEAR
+6c:fd:b9 Proware Technologies Co Ltd.
+00:23:69 Cisco-Linksys, LLC
+e0:51:63 Arcadyan Corporation
+00:1f:1f Edimax Technology Co. Ltd.
+d4:6e:0e TP-LINK TECHNOLOGIES CO.,LTD.
+24:f5:a2 Belkin International Inc.
+c4:71:54 TP-LINK TECHNOLOGIES CO.,LTD.
+48:5d:60 AzureWave Technology Inc.
+00:22:43 AzureWave Technology Inc.
+00:08:ca TwinHan Technology Co.,Ltd
+e0:b9:a5 AzureWave Technology Inc.
+74:f0:6d AzureWave Technology Inc.
+40:e2:30 AzureWave Technology Inc.
+74:c6:3b AzureWave Technology Inc.
+bc:85:56 Hon Hai Precision Ind. Co.,Ltd.
+00:25:d3 AzureWave Technology Inc.
+24:0a:64 AzureWave Technology Inc.
+74:de:2b Liteon Technology Corporation
+70:f1:a1 Liteon Technology Corporation
+ec:f4:51 Arcadyan Corporation
+50:e0:39 Zyxel Communications Corporation
+00:0e:58 Sonos, Inc.
+60:a4:b7 TP-Link Corporation Limited
+20:9a:7d Sagemcom Broadband SAS
+64:7c:34 Ubee Interactive Co., Limited
+30:b1:b5 Arcadyan Corporation
+f4:91:1e ZHUHAI EWPE INFORMATION TECHNOLOGY INC
+84:16:f9 TP-LINK TECHNOLOGIES CO.,LTD.
+1c:64:99 Comtrend Corporation
+bc:30:7e Wistron Neweb Corporation
+7c:dd:90 Shenzhen Ogemray Technology Co., Ltd.
+38:83:9a SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.
+84:20:96 SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.
+58:b3:fc SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.
+34:75:63 SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.
+c4:6e:7b SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.
+70:f1:1c Shenzhen Ogemray Technology Co.,Ltd
+c0:5e:79 SHENZHEN HUAXUN ARK TECHNOLOGIES CO.,LTD
+f4:28:53 Zioncom Electronics (Shenzhen) Ltd.
+5c:aa:fd Sonos, Inc.
+94:9f:3e Sonos, Inc.
+48:50:73 Microsoft Corporation
+b4:e1:c4 Microsoft Mobile Oy
+60:38:e0 Belkin International Inc.
+98:f4:ab Espressif Inc.
+20:df:b9 Google, Inc.
+24:fd:5b SmartThings, Inc.
+60:e3:27 TP-LINK TECHNOLOGIES CO.,LTD.
+00:40:10 SONIC SYSTEMS, INC.
+00:40:11 ANDOVER CONTROLS CORPORATION
+00:40:12 WINDATA, INC.
+a0:f3:c1 TP-LINK TECHNOLOGIES CO.,LTD.
+dc:9f:db Ubiquiti Networks Inc.
+08:96:d7 AVM GmbH
+20:e8:82 zte corporation
+0c:80:63 TP-LINK TECHNOLOGIES CO.,LTD.
+c0:4a:00 TP-LINK TECHNOLOGIES CO.,LTD.
+48:ee:0c D-Link International
+00:18:8b Dell Inc.
+f0:1f:af Dell Inc.
+ec:f4:bb Dell Inc.
+2c:ea:7f Dell Inc.
+70:85:c2 ASRock Incorporation
+a8:a1:59 ASRock Incorporation
+00:25:22 ASRock Incorporation
+00:90:a9 WESTERN DIGITAL
+9c:6b:72 Realme Chongqing MobileTelecommunications Corp Ltd
+00:11:d9 TiVo
+ac:c1:ee Xiaomi Communications Co Ltd
+10:d7:b0 Sagemcom Broadband SAS
+00:24:c4 Cisco Systems, Inc
+ec:6c:9a Arcadyan Corporation
+70:4c:a5 Fortinet, Inc.
+88:03:55 Arcadyan Technology Corporation
+d4:68:4d Ruckus Wireless
+00:15:fa Cisco Systems, Inc
+38:0e:4d Cisco Systems, Inc
+00:20:a6 Proxim Wireless
+18:cc:18 Intel Corporate
+60:09:c3 u-blox AG
+2c:41:a1 Bose Corporation
+04:52:c7 Bose Corporation
+30:45:11 Texas Instruments
+28:11:a5 Bose Corporation
+4c:87:5d Bose Corporation
+a8:1b:6a Texas Instruments
+80:35:c1 Xiaomi Communications Co Ltd
+14:49:e0 SAMSUNG ELECTRO-MECHANICS(THAILAND)
+54:88:0e SAMSUNG ELECTRO-MECHANICS(THAILAND)
+bc:8c:cd SAMSUNG ELECTRO-MECHANICS(THAILAND)
+d0:60:8c zte corporation
+00:14:5c Intronics B.V.
+e4:95:6e IEEE Registration Authority
+48:a6:b8 Sonos, Inc.
+34:7e:5c Sonos, Inc.
+e4:9e:12 FREEBOX SAS
+00:25:ca LS Research, LLC
+00:1e:2a NETGEAR
+00:1e:c8 Rapid Mobile (Pty) Ltd
+00:1e:c7 2Wire Inc
+bc:0f:2b FORTUNE TECHGROUP CO.,LTD
+00:24:d7 Intel Corporate
+00:24:d8 IlSung Precision
+dc:a9:71 Intel Corporate
+3c:6a:a7 Intel Corporate
+d4:6a:6a Hon Hai Precision Ind. Co.,Ltd.
+54:35:30 Hon Hai Precision Ind. Co.,Ltd.
+a4:db:30 Liteon Technology Corporation
+4c:bb:58 Chicony Electronics Co., Ltd.
+54:27:1e AzureWave Technology Inc.
+b8:be:f4 devolo AG
+14:b9:68 HUAWEI TECHNOLOGIES CO.,LTD
+00:15:6d Ubiquiti Networks Inc.
+e0:91:f5 NETGEAR
+5c:f6:dc Samsung Electronics Co.,Ltd
+dc:a4:ca Apple, Inc.
+6c:70:9f Apple, Inc.
+90:72:40 Apple, Inc.
+64:a5:c3 Apple, Inc.
+e8:8d:28 Apple, Inc.
+5c:96:9d Apple, Inc.
+a8:c0:ea Pepwave Limited
+04:fe:a1 Fihonest communication co.,Ltd
+18:b4:30 Nest Labs Inc.
+7c:96:d2 Fihonest communication co.,Ltd
+7c:69:f6 Cisco Systems, Inc
+14:d6:4d D-Link International
+3c:1e:04 D-Link International
+c0:a0:bb D-Link International
+dc:02:8e zte corporation
+8c:fe:74 Ruckus Wireless
+18:48:ca Murata Manufacturing Co., Ltd.
+a8:10:87 Texas Instruments
+50:33:8b Texas Instruments
+80:29:94 Technicolor CH USA Inc.
+c8:3a:35 Tenda Technology Co., Ltd.
+2c:4c:c6 Murata Manufacturing Co., Ltd.
+bc:9f:e4 Aruba, a Hewlett Packard Enterprise Company
+dc:15:c8 AVM Audiovisuelles Marketing und Computersysteme GmbH
+dc:6d:cd GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+b8:c9:b5 GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+94:54:ce GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+88:03:e9 GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+f0:67:28 GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+9c:5f:5a GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+94:f6:d6 Apple, Inc.
+68:fe:f7 Apple, Inc.
+44:47:cc Hangzhou Hikvision Digital Technology Co.,Ltd.
+b8:2a:72 Dell Inc.
+80:fa:5b CLEVO CO.
+50:cc:f8 SAMSUNG ELECTRO MECHANICS CO., LTD.
+c4:85:08 Intel Corporate
+00:90:f5 CLEVO CO.
+c0:3f:d5 Elitegroup Computer Systems Co.,Ltd.
+6c:f0:49 GIGA-BYTE TECHNOLOGY CO.,LTD.
+24:4b:fe ASUSTek COMPUTER INC.
+00:25:90 Super Micro Computer, Inc.
+24:5e:be QNAP Systems, Inc.
+00:27:0e Intel Corporate
+b8:ae:ed Elitegroup Computer Systems Co.,Ltd.
+04:d9:f5 ASUSTek COMPUTER INC.
+94:c6:91 EliteGroup Computer Systems Co., LTD
+d8:8c:79 Google, Inc.
+3c:7c:3f ASUSTek COMPUTER INC.
+c4:9d:ed Microsoft Corporation
+68:72:51 Ubiquiti Networks Inc.
+18:5e:0f Intel Corporate
+00:27:10 Intel Corporate
+b4:ad:a3 Guangzhou Shiyuan Electronic Technology Company Limited
+a4:ae:12 Hon Hai Precision Ind. Co., Ltd.
+44:d8:78 Hui Zhou Gaoshengda Technology Co.,LTD
+f8:4f:ad Hui Zhou Gaoshengda Technology Co.,LTD
+ac:67:84 Google, Inc.
+28:16:ad Intel Corporate
+a0:99:9b Apple, Inc.
+04:ea:56 Intel Corporate
+88:78:73 Intel Corporate
+20:79:18 Intel Corporate
+bc:e1:43 Apple, Inc.
+ec:63:d7 Intel Corporate
+b0:df:3a Samsung Electronics Co.,Ltd
+28:c6:3f Intel Corporate
+20:16:b9 Intel Corporate
+08:d4:0c Intel Corporate
+1c:4d:70 Intel Corporate
+7c:94:2a HUAWEI TECHNOLOGIES CO.,LTD
+18:f4:6a Hon Hai Precision Ind. Co.,Ltd.
+b4:0e:de Intel Corporate
+3c:58:c2 Intel Corporate
+a8:91:3d Apple, Inc.
+24:24:0e Apple, Inc.
+64:64:9b Juniper Networks
+b0:6f:e0 Samsung Electronics Co.,Ltd
+a4:55:90 Xiaomi Communications Co Ltd
+10:2c:6b AMPAK Technology, Inc.
+b4:f6:1c Apple, Inc.
+78:72:5d Cisco Systems, Inc
+8c:83:e1 Samsung Electronics Co.,Ltd
+0c:70:4a HUAWEI TECHNOLOGIES CO.,LTD
+34:a3:95 Apple, Inc.
+dc:a5:f4 Cisco Systems, Inc
+00:17:c8 KYOCERA Display Corporation
+d0:f8:8c Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
+38:6a:77 Samsung Electronics Co.,Ltd
+bc:54:51 Samsung Electronics Co.,Ltd
+5c:f7:e6 Apple, Inc.
+10:e7:c6 Hewlett Packard
+54:e4:3a Apple, Inc.
+f4:39:09 Hewlett Packard
+38:80:df Motorola Mobility LLC, a Lenovo Company
+9c:8d:7c ALPSALPINE CO,.LTD
+00:00:45 FORD AEROSPACE & COMM. CORP.
+6c:62:6d Micro-Star INT'L CO., LTD
+f8:16:54 Intel Corporate
+f8:94:c2 Intel Corporate
+b8:8a:60 Intel Corporate
+e0:9d:31 Intel Corporate
+b8:9a:2a Intel Corporate
+88:de:a9 Roku, Inc.
+ac:d0:74 Espressif Inc.
+d8:a0:1d Espressif Inc.
+7c:9e:bd Espressif Inc.
+24:6f:28 Espressif Inc.
+a0:20:a6 Espressif Inc.
+a4:cf:12 Espressif Inc.
+a4:7b:9d Espressif Inc.
+18:fe:34 Espressif Inc.
+5c:dc:96 Arcadyan Technology Corporation
+6c:72:20 D-Link International
+00:14:2f Savvius
+00:14:2b Edata Communication Inc.
+00:14:2c Koncept International, Inc.
+00:24:2c Hon Hai Precision Ind. Co.,Ltd.
+00:24:2f Micron
+00:24:2a Hittite Microwave Corporation
+00:24:2e Datastrip Inc.
+00:25:2e Cisco SPVTG
+00:20:f5 PANDATEL AG
+00:20:f6 NET TEK AND KARLNET, INC.
+00:20:f7 CYBERDATA CORPORATION
+00:20:b7 NAMAQUA COMPUTERWARE
+00:50:b7 BOSER TECHNOLOGY CO., LTD.
+00:50:bb CMS TECHNOLOGIES
+18:e2:c2 Samsung Electronics Co.,Ltd
+a8:3e:0e HMD Global Oy
+58:c9:35 Chiun Mai Communication Systems, Inc
+cc:2d:21 Tenda Technology Co.,Ltd.Dongguan branch
+d8:32:14 Tenda Technology Co.,Ltd.Dongguan branch
+e8:65:d4 Tenda Technology Co.,Ltd.Dongguan branch
+b0:df:c1 Tenda Technology Co.,Ltd.Dongguan branch
+b4:9c:df Apple, Inc.
+00:1d:c9 GainSpan Corp.
+00:18:0a Cisco Meraki
+2c:95:7f zte corporation
+88:25:2c Arcadyan Technology Corporation
+88:e0:34 Shinwa industries(China) ltd.
+00:04:4b NVIDIA
+00:1b:66 Sennheiser electronic GmbH & Co. KG
+7c:64:56 Samsung Electronics Co.,Ltd
+f4:fe:fb Samsung Electronics Co.,Ltd
+00:14:53 ADVANTECH TECHNOLOGIES CO.,LTD
+00:14:55 Coder Electronics Corporation
+00:00:00 Spoofed MAC Address or Xerox
+00:14:50 Heim Systems GmbH
+00:24:50 Cisco Systems, Inc
+00:04:50 DMD Computers SRL
+00:00:49 APRICOT COMPUTERS, LTD
+00:01:49 TDT AG
+00:01:48 X-traWeb Inc.
+00:01:47 Zhone Technologies
+00:00:47 NICOLET INSTRUMENTS CORP.
+00:00:60 Kontron Europe GmbH
+00:00:10 SYTEK INC.
+00:00:90 MICROCOM
+00:0c:90 Octasic Inc.
+00:0c:91 Riverhead Networks Inc.
+00:0b:91 Aglaia Gesellschaft für Bildverarbeitung und Kommunikation mbH
+00:24:91 Samsung Electronics Co.,Ltd
+00:21:49 China Daheng Group ,Inc.
+00:21:59 Juniper Networks
+00:21:55 Cisco Systems, Inc
+00:21:54 D-TACQ Solutions Ltd
+00:21:51 Millinet Co., Ltd.
+00:21:52 General Satellite Research & Development Limited
+00:21:60 Hidea Solutions Co. Ltd.
+10:30:25 Apple, Inc.
+00:24:51 Cisco Systems, Inc
+00:20:30 ANALOG & DIGITAL SYSTEMS
+0c:b2:b7 Texas Instruments
+4c:3f:d3 Texas Instruments
+e8:4f:25 Murata Manufacturing Co., Ltd.
+00:1e:a4 Nokia Danmark A/S
+00:1f:ff Respironics, Inc.
+e4:04:39 TomTom Software Ltd
+90:03:b7 PARROT SA
+00:01:cc Japan Total Design Communication Co., Ltd.
+40:f3:08 Murata Manufacturing Co., Ltd.
+00:9d:6b Murata Manufacturing Co., Ltd.
+00:12:f3 connectBlue AB
+00:20:c0 PULSE ELECTRONICS, INC.
+00:30:c0 Lara Technology, Inc.
+00:00:cc DENSAN CO., LTD.
+6c:3b:e5 Hewlett Packard
+2c:d0:5a Liteon Technology Corporation
+a4:34:d9 Intel Corporate
+6c:6a:77 Intel Corporate
+00:bb:c1 CANON INC.
+88:57:ee BUFFALO.INC
+30:9c:23 Micro-Star INTL CO., LTD.
+00:01:55 Promise Technology, Inc.
+34:17:eb Dell Inc.
+00:1d:09 Dell Inc.
+48:ba:4e Hewlett Packard
+8c:ec:4b Dell Inc.
+f8:db:88 Dell Inc.
+d0:67:e5 Dell Inc.
+4c:60:de NETGEAR
+74:5e:1c PIONEER CORPORATION
+e4:7c:f9 Samsung Electronics Co.,Ltd
+6c:ad:f8 AzureWave Technology Inc.
+b0:a7:37 Roku, Inc.
+6c:88:14 Intel Corporate
+30:05:5c Brother industries, LTD.
+f0:23:b9 IEEE Registration Authority
+48:d6:d5 Google, Inc.
+d8:5d:e2 Hon Hai Precision Ind. Co.,Ltd.
+68:27:37 Samsung Electronics Co.,Ltd
+2c:54:91 Microsoft Corporation
+3c:df:a9 ARRIS Group, Inc.
+60:a4:4c ASUSTek COMPUTER INC.
+68:3a:1e Cisco Meraki
+3c:37:86 NETGEAR
+00:14:fd Thecus Technology Corp.
+70:f0:96 Cisco Systems, Inc
+b0:e8:92 Seiko Epson Corporation
+10:4f:a8 Sony Corporation
+00:0e:08 Cisco-Linksys, LLC
+00:15:0c AVM GmbH
+00:1c:7a Perfectone Netware Company Ltd
+00:13:10 Cisco-Linksys, LLC
+78:7b:8a Apple, Inc.
+e8:ab:fa Shenzhen Reecam Tech.Ltd.
+00:0d:c5 EchoStar Global B.V.
+00:0d:c8 AirMagnet, Inc
+00:0d:c1 SafeWeb Inc
+00:0d:c0 Spagat AS
+00:17:62 Solar Technology, Inc.
+00:18:62 Seagate Technology
+00:18:61 Ooma, Inc.
+00:18:60 SIM Technology Group Shanghai Simcom Ltd.,
+8c:8d:28 Intel Corporate
+00:00:f1 MAGNA COMPUTER CORPORATION
+fc:f1:36 Samsung Electronics Co.,Ltd
+78:bd:bc Samsung Electronics Co.,Ltd
+24:e8:53 LG Innotek
+fc:58:fa Shen Zhen Shi Xin Zhong Xin Technology Co.,Ltd.
+20:3d:bd LG Innotek
+60:6b:bd Samsung Electronics Co.,Ltd
+10:d0:7a AMPAK Technology, Inc.
+70:cf:49 Intel Corporate
+e4:57:40 ARRIS Group, Inc.
+b4:b5:2f Hewlett Packard
+ac:44:f2 YAMAHA CORPORATION
+f4:f2:6d TP-LINK TECHNOLOGIES CO.,LTD.
+00:a0:de YAMAHA CORPORATION
+50:7e:5d Arcadyan Technology Corporation
+00:00:ce MEGADATA CORP.
+00:10:ce VOLAMP, LTD.
+00:10:cb FACIT K.K.
+00:10:c1 OI ELECTRIC CO.,LTD
+00:00:ca Telco Systems, Inc.
+30:23:03 Belkin International Inc.
+b8:a3:86 D-Link International
+c4:6e:1f TP-LINK TECHNOLOGIES CO.,LTD.
+ec:8a:4c zte corporation
+f4:03:21 BeNeXt B.V.
+d0:49:7c OnePlus Technology (Shenzhen) Co., Ltd
+a0:36:9f Intel Corporate
+00:20:4a PRONET GMBH
+b8:2c:a0 Resideo
+0c:c4:7a Super Micro Computer, Inc.
+54:60:09 Google, Inc.
+14:ab:c5 Intel Corporate
+10:5b:ad Mega Well Limited
+3c:2a:f4 Brother Industries, LTD.
+e0:4f:43 Universal Global Scientific Industrial Co., Ltd.
+3c:8c:f8 TRENDnet, Inc.
+00:40:7f FLIR Systems
+b0:77:ac ARRIS Group, Inc.
+60:5f:8d eero inc.
+40:2f:86 LG Innotek
+c4:49:bb MITSUMI ELECTRIC CO.,LTD.
+54:22:f8 zte corporation
+b4:c2:6a Garmin International
+e0:0e:e1 We Corporation Inc.
+88:57:1d Seongji Industry Company
+80:32:53 Intel Corporate
+b4:6b:fc Intel Corporate
+2c:dc:ad Wistron Neweb Corporation
+24:a4:3c Ubiquiti Networks Inc.
+54:8d:5a Intel Corporate
+1c:4b:d6 AzureWave Technology Inc.
+e8:6a:64 LCFC(HeFei) Electronics Technology co., ltd
+0c:47:3d Hitron Technologies. Inc
+a0:1b:29 Sagemcom Broadband SAS
+40:f2:01 Sagemcom Broadband SAS
+2c:4d:54 ASUSTek COMPUTER INC.
+64:66:b3 TP-LINK TECHNOLOGIES CO.,LTD.
+00:09:b0 Onkyo Corporation
+00:d0:2d Resideo
+f4:5c:89 Apple, Inc.
+50:dc:e7 Amazon Technologies Inc.
+00:1d:bc Nintendo Co., Ltd.
+04:18:d6 Ubiquiti Networks Inc.
+64:6e:69 Liteon Technology Corporation
+bc:98:df Motorola Mobility LLC, a Lenovo Company
+28:c2:dd AzureWave Technology Inc.
+80:00:0b Intel Corporate
+78:67:d7 Apple, Inc.
+e8:b1:fc Intel Corporate
+3c:95:09 Liteon Technology Corporation
+dc:0c:5c Apple, Inc.
+28:c6:07 XIAOMI Electronics,CO.,LTD
+3c:a0:67 Liteon Technology Corporation
+2c:fd:a1 ASUSTek COMPUTER INC.
+ec:1f:72 SAMSUNG ELECTRO-MECHANICS(THAILAND)
+10:08:b1 Hon Hai Precision Ind. Co.,Ltd.
+6c:71:d9 AzureWave Technology Inc.
+70:77:81 Hon Hai Precision Ind. Co.,Ltd.
+40:98:ad Apple, Inc.
+d0:37:45 TP-LINK TECHNOLOGIES CO.,LTD.
+c8:ff:28 Liteon Technology Corporation
+b0:19:c6 Apple, Inc.
+0c:8b:fd Intel Corporate
+00:90:0b LANNER ELECTRONICS, INC.
+3c:ec:ef Super Micro Computer, Inc.
+00:50:58 Sangoma Technologies
+8c:3a:7e Universal Electronics, Inc.
+88:5b:dd Extreme Networks, Inc.
+4c:38:d8 ARRIS Group, Inc.
+ac:f8:cc ARRIS Group, Inc.
+40:0d:10 ARRIS Group, Inc.
+88:d2:74 zte corporation
+14:60:80 zte corporation
+b8:69:f4 Routerboard.com
+48:8f:5a Routerboard.com
+8c:ae:4c Plugable Technologies
+6c:aa:b3 Ruckus Wireless
+d8:30:62 Apple, Inc.
+84:18:3a Ruckus Wireless
+64:13:6c zte corporation
+ec:8c:a2 Ruckus Wireless
+94:9b:2c Extreme Networks, Inc.
+34:a8:4e Cisco Systems, Inc
+0c:85:25 Cisco Systems, Inc
+0c:61:cf Texas Instruments
+f4:60:e2 Xiaomi Communications Co Ltd
+00:03:42 Nortel Networks
+f0:98:9d Apple, Inc.
+00:02:3e Selta Telematica S.p.a
+e0:dc:ff Xiaomi Communications Co Ltd
+b0:f1:ec AMPAK Technology, Inc.
+84:34:97 Hewlett Packard
+6c:c2:17 Hewlett Packard
+0c:62:a6 Hui Zhou Gaoshengda Technology Co.,LTD
+1c:1e:e3 Hui Zhou Gaoshengda Technology Co.,LTD
+10:3d:0a Hui Zhou Gaoshengda Technology Co.,LTD
+2c:d9:74 Hui Zhou Gaoshengda Technology Co.,LTD
+b0:ce:18 Zhejiang shenghui lighting co.,Ltd
+e4:67:1e SHEN ZHEN NUO XIN CHENG TECHNOLOGY co., Ltd.
+0c:91:60 Hui Zhou Gaoshengda Technology Co.,LTD
+98:d8:63 Shanghai High-Flying Electronics Technology Co., Ltd
+f0:fe:6b Shanghai High-Flying Electronics Technology Co., Ltd
+60:c5:a8 Beijing LT Honway Technology Co.,Ltd
+1c:f2:9a Google, Inc.
+00:0a:f5 Airgo Networks, Inc.
+00:04:f2 Polycom
+64:16:7f Polycom
+00:15:65 XIAMEN YEALINK NETWORK TECHNOLOGY CO.,LTD
+80:5e:c0 YEALINK(XIAMEN) NETWORK TECHNOLOGY CO.,LTD.
+18:31:bf ASUSTek COMPUTER INC.
+8c:59:73 Zyxel Communications Corporation
+3c:77:e6 Hon Hai Precision Ind. Co.,Ltd.
+ac:d1:b8 Hon Hai Precision Ind. Co.,Ltd.
+8c:57:9b Wistron Neweb Corporation
+e0:37:bf Wistron Neweb Corporation
+00:17:ab Nintendo Co., Ltd.
+a0:af:bd Intel Corporate
+1c:5c:f2 Apple, Inc.
+8c:45:00 Murata Manufacturing Co., Ltd.
+dc:90:88 HUAWEI TECHNOLOGIES CO.,LTD
+e8:93:09 Samsung Electronics Co.,Ltd
+dc:fb:48 Intel Corporate
+38:de:ad Intel Corporate
+fc:44:82 Intel Corporate
+80:a5:89 AzureWave Technology Inc.
+04:d6:aa SAMSUNG ELECTRO-MECHANICS(THAILAND)
+a8:88:08 Apple, Inc.
+ac:07:5f HUAWEI TECHNOLOGIES CO.,LTD
+ac:bd:70 Huawei Device Co., Ltd.
+40:a3:cc Intel Corporate
+58:6c:25 Intel Corporate
+c8:58:c0 Intel Corporate
+78:fd:94 Apple, Inc.
+00:30:48 Super Micro Computer, Inc.
+28:c0:da Juniper Networks
+3c:94:d5 Juniper Networks
+f8:c0:01 Juniper Networks
+cc:e1:7f Juniper Networks
+84:b5:9c Juniper Networks
+28:8a:1c Juniper Networks
+3c:8a:b0 Juniper Networks
+00:90:8f AUDIO CODES LTD.
+00:18:4d NETGEAR
+00:17:f2 Apple, Inc.
+00:0e:7f Hewlett Packard
+00:12:fb Samsung Electronics Co.,Ltd
+04:1e:64 Apple, Inc.
+00:13:a0 ALGOSYSTEM Co., Ltd.
+00:12:fa THX LTD
+00:22:3d JumpGen Systems, LLC
+00:22:4d MITAC INTERNATIONAL CORP.
+d4:21:22 Sercomm Corporation.
+d0:57:7b Intel Corporate
+98:86:5d Nokia Shanghai Bell Co., Ltd.
+bc:6c:21 Apple, Inc.
+c8:14:51 HUAWEI TECHNOLOGIES CO.,LTD
+c8:69:cd Apple, Inc.
+00:05:cd D&M Holdings Inc.
+8c:29:37 Apple, Inc.
+a4:91:b1 Technicolor Delivery Technologies Belgium NV
+98:90:96 Dell Inc.
+38:8b:59 Google, Inc.
+00:13:a9 Sony Corporation
+00:12:3f Dell Inc.
+fc:ee:e6 FORMIKE ELECTRONIC CO., LTD
+f8:d1:11 TP-LINK TECHNOLOGIES CO.,LTD.
+00:1b:fe Zavio Inc.
+68:57:2d Tuya Smart Inc.
+ec:1a:59 Belkin International Inc.
+00:11:20 Cisco Systems, Inc
+e0:98:61 Motorola Mobility LLC, a Lenovo Company
+00:21:9b Dell Inc.
+00:50:ba D-Link Corporation
+00:10:12 PROCESSOR SYSTEMS (I) PVT LTD
+00:10:10 INITIO CORPORATION
+00:15:7f ChuanG International Holding CO.,LTD.
+00:15:7b Leuze electronic GmbH + Co. KG
+00:15:7c Dave Networks, Inc.
+00:15:7e Weidmüller Interface GmbH & Co. KG
+00:10:90 CIMETRICS, INC.
+00:10:99 InnoMedia, Inc.
+78:e3:b5 Hewlett Packard
+b8:ac:6f Dell Inc.
+78:e4:00 Hon Hai Precision Ind. Co.,Ltd.
+e0:41:36 MitraStar Technology Corp.
+58:23:8c Technicolor CH USA Inc.
+00:1e:e5 Cisco-Linksys, LLC
+00:26:24 Thomson Inc.
+00:71:c2 PEGATRON CORPORATION
+00:13:56 FLIR Radiation Inc
+00:00:22 VISUAL TECHNOLOGY INC.
+00:40:8c AXIS COMMUNICATIONS AB
+ac:cc:8e Axis Communications AB
+ec:71:db Shenzhen Baichuan Digital Technology Co., Ltd.
+00:0e:5e Raisecom Technology
+00:24:23 AzureWave Technologies (Shanghai) Inc.
+54:8c:a0 Liteon Technology Corporation
+2c:aa:8e Wyze Labs Inc
+a4:da:22 IEEE Registration Authority
+b0:41:1d ITTIM Technologies
+20:59:a0 Paragon Technologies Inc.
+ac:22:0b ASUSTek COMPUTER INC.
+b0:c0:90 Chicony Electronics Co., Ltd.
+00:12:16 ICP Internet Communication Payment AG
+1c:1b:0d GIGA-BYTE TECHNOLOGY CO.,LTD.
+00:1c:a2 ADB Broadband Italia
+00:a0:c9 Intel Corporation
+00:1b:44 SanDisk Corporation
+00:06:5b Dell Inc.
+88:1f:a1 Apple, Inc.
+8c:c8:4b CHONGQING FUGUI ELECTRONICS CO.,LTD.
+00:07:5f VCS Video Communication Systems AG
+00:50:b6 GOOD WAY IND. CO., LTD.
+00:14:78 TP-LINK TECHNOLOGIES CO.,LTD.
+00:0e:97 Ultracker Technology CO., Inc
+28:10:7b D-Link International
+8c:85:90 Apple, Inc.
+f0:25:b7 SAMSUNG ELECTRO-MECHANICS(THAILAND)
+30:8c:fb Dropcam
+00:23:43 TEM AG
+40:2c:f4 Universal Global Scientific Industrial Co., Ltd.
+c8:33:4b Apple, Inc.
+00:16:b6 Cisco-Linksys, LLC
+00:90:4c Epigram, Inc.
+c4:98:80 Apple, Inc.
+74:85:2a PEGATRON CORPORATION
+ac:23:3f Shenzhen Minew Technologies Co., Ltd.
+f0:b3:1e Universal Electronics, Inc.
+00:1a:6b Universal Global Scientific Industrial Co., Ltd.
+6c:0b:84 Universal Global Scientific Industrial Co., Ltd.
+44:39:c4 Universal Global Scientific Industrial Co., Ltd.
+00:10:c6 Universal Global Scientific Industrial Co., Ltd.
+fc:e8:92 Hangzhou Lancable Technology Co.,Ltd
+84:c5:a6 Intel Corporate
+00:06:5a Strix Systems
+00:3a:99 Cisco Systems, Inc
+00:03:47 Intel Corporation
+5c:0e:8b Extreme Networks, Inc.
+00:a0:57 LANCOM Systems GmbH
+5c:fc:66 Cisco Systems, Inc
+00:10:e7 Breezecom, Ltd.
+00:16:e6 GIGA-BYTE TECHNOLOGY CO.,LTD.
+00:7e:56 China Dragon Technology Limited
+00:0f:f8 Cisco Systems, Inc
+00:90:96 ASKEY COMPUTER CORP
+08:76:ff Thomson Telecom Belgium
+00:3a:98 Cisco Systems, Inc
+bc:f1:f2 Cisco Systems, Inc
+00:1c:f0 D-Link Corporation
+80:1f:02 Edimax Technology Co. Ltd.
+90:f6:52 TP-LINK TECHNOLOGIES CO.,LTD.
+94:f6:65 Ruckus Wireless
+78:c4:0e H&D Wireless
+cc:7b:35 zte corporation
+00:03:e6 Entone, Inc.
+00:0a:eb TP-LINK TECHNOLOGIES CO.,LTD.
+c0:06:c3 TP-Link Corporation Limited
+00:00:9f AMERISTAR TECHNOLOGIES INC.
+00:01:9f ReadyNet
+00:01:9e ESS Technology, Inc.
+00:11:9f Nokia Danmark A/S
+00:11:6f Netforyou Co., LTD.
+00:11:0f netplat,Inc.
+00:11:0c Atmark Techno, Inc.
+00:12:6e Seidel Elektronik GmbH Nfg.KG
+00:12:6c Visonic Technologies 1993 Ltd.
+00:12:6a OPTOELECTRONICS Co., Ltd.
+00:12:6b Ascalade Communications Limited
+00:13:6b E-TEC
+00:13:6c TomTom
+00:13:6a Hach Lange Sarl
+00:13:6d Tentaculus AB
+00:13:6f PacketMotion, Inc.
+00:13:6e Techmetro Corp.
+00:13:61 Biospace Co., Ltd.
+00:13:62 ShinHeung Precision Co., Ltd.
+00:13:63 Verascape, Inc.
+00:13:64 Paradigm Technology Inc..
+00:13:65 Nortel Networks
+00:13:66 Neturity Technologies Inc.
+00:13:67 Narayon. Co., Ltd.
+00:13:68 Saab Danmark A/S
+00:13:69 Honda Electron Co., LED.
+00:13:70 Nokia Danmark A/S
+00:13:71 ARRIS Group, Inc.
+00:13:72 Dell Inc.
+00:13:73 BLwave Electronics Co., Ltd
+00:13:74 Atheros Communications, Inc.
+00:13:75 American Security Products Co.
+00:13:76 Tabor Electronics Ltd.
+00:13:77 Samsung Electronics Co.,Ltd
+00:13:78 Qsan Technology, Inc.
+00:13:79 PONDER INFORMATION INDUSTRIES LTD.
+00:13:80 Cisco Systems, Inc
+00:13:81 CHIPS & Systems, Inc.
+00:13:82 Cetacea Networks Corporation
+00:13:83 Application Technologies and Engineering Research Laboratory
+98:22:ef Liteon Technology Corporation
+08:57:00 TP-LINK TECHNOLOGIES CO.,LTD.
+20:6b:e7 TP-LINK TECHNOLOGIES CO.,LTD.
+00:0b:e7 COMFLUX TECHNOLOGY INC.
+00:1b:e7 Postek Electronics Co., Ltd.
+00:12:12 PLUS Corporation
+00:02:12 SierraCom
+00:02:11 Nature Worldwide Technology Corp.
+50:bd:5f TP-LINK TECHNOLOGIES CO.,LTD.
+00:02:25 One Stop Systems
+00:25:02 NaturalPoint
+00:25:01 JSC "Supertel"
+00:6b:f1 Cisco Systems, Inc
+9c:6f:52 zte corporation
+00:15:d1 ARRIS Group, Inc.
+78:23:ae ARRIS Group, Inc.
+58:56:e8 ARRIS Group, Inc.
+d4:04:cd ARRIS Group, Inc.
+f0:4d:a2 Dell Inc.
+90:2b:34 GIGA-BYTE TECHNOLOGY CO.,LTD.
+f0:2f:74 ASUSTek COMPUTER INC.
+24:a1:60 Espressif Inc.
+00:1d:c1 Audinate Pty L
+68:db:f5 Amazon Technologies Inc.
+24:5a:4c Ubiquiti Networks Inc.
+cc:95:d7 Vizio, Inc
+f8:b1:56 Dell Inc.
+68:5b:35 Apple, Inc.
+00:1f:55 Honeywell Security (China) Co., Ltd.
+b8:76:3f Hon Hai Precision Ind. Co.,Ltd.
+34:12:f9 HUAWEI TECHNOLOGIES CO.,LTD
+fc:19:99 Xiaomi Communications Co Ltd
+50:eb:71 Intel Corporate
+38:ba:f8 Intel Corporate
+18:7e:b9 Apple, Inc.
+d8:9b:3b HUAWEI TECHNOLOGIES CO.,LTD
+dc:f7:56 Samsung Electronics Co.,Ltd
+10:63:c8 Liteon Technology Corporation
+50:f5:da Amazon Technologies Inc.
+fc:db:b3 Murata Manufacturing Co., Ltd.
+e4:aa:ea Liteon Technology Corporation
+a4:9b:4f HUAWEI TECHNOLOGIES CO.,LTD
+bc:4c:c4 Apple, Inc.
+dc:37:14 Apple, Inc.
+70:dd:a8 GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+5c:51:4f Intel Corporate
+40:74:e0 Intel Corporate
+00:0c:93 Xeline Co., Ltd.
+70:f3:95 Universal Global Scientific Industrial Co., Ltd.
+00:15:00 Intel Corporate
+38:00:25 Intel Corporate
+00:30:00 ALLWELL TECHNOLOGY CORP.
+00:00:30 VG LABORATORY SYSTEMS LTD
+00:07:e9 Intel Corporation
+a8:11:fc ARRIS Group, Inc.
+0c:ea:c9 ARRIS Group, Inc.
+20:82:6a GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+d8:37:3b Shenzhen Jingxun Software Telecommunication Technology Co.,Ltd
+00:07:3b Tenovis GmbH & Co KG
+00:17:3b Cisco Systems, Inc
+00:17:3a Cloudastructure Inc
+00:17:3e LeucotronEquipamentos Ltda.
+00:17:3f Belkin International Inc.
+00:10:c9 MITSUBISHI ELECTRONICS LOGISTIC SUPPORT CO.
+00:10:c8 COMMUNICATIONS ELECTRONICS SECURITY GROUP
+00:10:c7 DATA TRANSMISSION NETWORK
+00:10:c2 WILLNET, INC.
+e4:ce:8f Apple, Inc.
+00:23:12 Apple, Inc.
+00:23:11 Gloscom Co., Ltd.
+40:ef:4c Fihonest communication co.,Ltd
+78:44:05 FUJITU(HONG KONG) ELECTRONIC Co.,LTD.
+9c:df:03 Harman/Becker Automotive Systems GmbH
+a0:e9:db Ningbo FreeWings Technologies Co.,Ltd
+b8:d5:0b Sunitec Enterprise Co.,Ltd
+fc:a8:9a Sunitec Enterprise Co.,Ltd
+7c:d1:c3 Apple, Inc.
+9c:20:7b Apple, Inc.
+88:c6:26 Logitech, Inc
+00:9e:c8 Xiaomi Communications Co Ltd
+00:18:e4 YIGUANG
+94:d7:71 Samsung Electronics Co.,Ltd
+2c:b4:3a Apple, Inc.
+1c:e6:2b Apple, Inc.
+d0:8a:55 Skullcandy
+fc:62:b9 ALPSALPINE CO,.LTD
+d0:4f:7e Apple, Inc.
+40:b0:fa LG Electronics (Mobile Communications)
+84:25:db Samsung Electronics Co.,Ltda
+3c:f0:11 Intel Corporate
+50:e0:85 Intel Corporate
+e4:70:b8 Intel Corporate
+ac:e0:10 Liteon Technology Corporation
+00:28:f8 Intel Corporate
+d8:5d:e2 Hon Hai Precision Ind. Co.,Ltd.
+c0:56:27 Belkin International Inc.
+94:44:52 Belkin International Inc.
+08:86:3b Belkin International Inc.
+00:1d:86 Shinwa Industries(China) Ltd.
+80:19:34 Intel Corporate
+04:32:f4 Partron
+d8:0b:9a Samsung Electronics Co.,Ltd
+00:26:08 Apple, Inc.
+00:26:00 TEAC Australia Pty Ltd.
+00:26:10 Apacewave Technologies
+00:26:90 I DO IT
+00:26:80 SIL3 Pty.Ltd
+00:06:08 At-Sky SAS
+00:00:08 XEROX CORPORATION
+00:0c:e1 The Open Group
+54:bd:79 Samsung Electronics Co.,Ltd
+00:0d:79 Dynamic Solutions Co,.Ltd.
+00:00:79 NETWORTH INCORPORATED
+00:00:09 XEROX CORPORATION
+00:03:30 Imagenics, Co., Ltd.
+00:00:30 VG LABORATORY SYSTEMS LTD
+00:00:03 XEROX CORPORATION
+00:0c:f4 AKATSUKI ELECTRIC MFG.CO.,LTD.
+00:00:f4 Allied Telesis, Inc
+00:00:04 XEROX CORPORATION
+48:f9:25 Maestronic
+00:09:25 VSN Systemen BV
+00:00:25 RAMTEK CORP.
+00:00:05 XEROX CORPORATION
+48:a9:d2 Wistron Neweb Corporation
+bc:75:36 ALPSALPINE CO,.LTD
+00:00:02 XEROX CORPORATION
+00:02:2a Asound Electronic
+00:00:2a TRW - SEDD/INP
+00:00:0a OMRON TATEISI ELECTRONICS CO.
+00:0f:48 Polypix Inc.
+00:00:48 Seiko Epson Corporation
+00:1e:c1 3COM EUROPE LTD
+00:0a:0f Ilryung Telesys, Inc
+00:00:06 XEROX CORPORATION
+00:00:f6 APPLIED MICROSYSTEMS CORP.
+00:00:9a RC COMPUTER A/S
+00:09:9a ELMO COMPANY, LIMITED
+00:00:4a ADC CODENOLL TECHNOLOGY CORP.
+00:50:4a ELTECO A.S.
+34:64:a9 Hewlett Packard
+00:0c:a8 Garuda Networks Corporation
+00:00:a8 Stratus Technologies
+44:e5:17 Intel Corporate
+70:cd:0d Intel Corporate
+28:df:eb Intel Corporate
+e8:04:62 Cisco Systems, Inc
+00:1e:37 Universal Global Scientific Industrial Co., Ltd.
+00:00:c6 EON SYSTEMS
+00:02:b3 Intel Corporation
+00:02:b1 Anritsu, Ltd.
+00:02:b2 Cablevision
+00:02:b4 DAPHNE
+00:02:b5 Avnet, Inc.
+00:00:b5 DATABILITY SOFTWARE SYS. INC.
+00:12:b5 Vialta, Inc.
+00:22:b5 NOVITA
+00:02:b6 Acrosser Technology Co., Ltd.
+00:12:b6 Santa Barbara Infrared, Inc.
+00:22:b6 Superflow Technologies Group
+00:00:b6 MICRO-MATIC RESEARCH
+38:76:ca Shenzhen Smart Intelligent Technology Co.Ltd
+98:9e:63 Apple, Inc.
+00:19:7d Hon Hai Precision Ind. Co.,Ltd.
+28:e3:47 Liteon Technology Corporation
+00:1a:a0 Dell Inc.
+00:14:02 kk-electronic a/s
+00:24:02 Op-Tection GmbH
+00:04:02 Nexsan Technologies, Ltd.
+00:04:00 LEXMARK INTERNATIONAL, INC.
+00:24:73 3COM EUROPE LTD
+e0:40:07 Huawei Device Co., Ltd.
+c8:b5:ad Hewlett Packard Enterprise
+f8:0d:60 CANON INC.
+f8:e7:1e Ruckus Wireless
+00:1f:3c Intel Corporate
+40:49:0f Hon Hai Precision Ind. Co.,Ltd.
+a0:94:1a GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+34:29:12 HUAWEI TECHNOLOGIES CO.,LTD
+00:25:61 ProCurve Networking by HP
+04:54:53 Apple, Inc.
+10:f0:05 Intel Corporate
+20:89:84 COMPAL INFORMATION (KUNSHAN) CO., LTD.
+64:20:0c Apple, Inc.
+7c:8b:ca TP-LINK TECHNOLOGIES CO.,LTD.
+b0:e1:7e HUAWEI TECHNOLOGIES CO.,LTD
+a0:28:ed HMD Global Oy
+00:08:ed ST&T Instrument Corp.
+00:00:ed APRIL
+00:00:0d FIBRONICS LTD.
+e8:7f:95 Apple, Inc.
+b8:9f:09 Wistron Neweb Corporation
+90:06:28 Samsung Electronics Co.,Ltd
+98:de:d0 TP-LINK TECHNOLOGIES CO.,LTD.
+00:e0:4c REALTEK SEMICONDUCTOR CORP.
+00:00:4c NEC Corporation
+00:00:0b MATRIX CORPORATION
+e0:28:6d AVM Audiovisuelles Marketing und Computersysteme GmbH
+b8:e9:37 Sonos, Inc.
+40:cb:a8 HUAWEI TECHNOLOGIES CO.,LTD
+88:11:96 HUAWEI TECHNOLOGIES CO.,LTD
+b4:cd:27 HUAWEI TECHNOLOGIES CO.,LTD
+f4:bf:80 HUAWEI TECHNOLOGIES CO.,LTD
+24:2e:02 HUAWEI TECHNOLOGIES CO.,LTD
+f0:c4:2f Huawei Device Co., Ltd.
+f4:e3:fb HUAWEI TECHNOLOGIES CO.,LTD
+00:03:1b Cellvision Systems, Inc.
+3c:90:66 SmartRG, Inc.
+00:23:6a SmartRG Inc
+00:1e:42 Teltonika
+00:21:3e TomTom International BV
+00:08:c1 Avistar Communications Corporation
+00:00:c1 Madge Ltd.
+00:22:fb Intel Corporate
+14:cf:92 TP-LINK TECHNOLOGIES CO.,LTD.
+30:85:a9 ASUSTek COMPUTER INC.
+0c:72:2c TP-LINK TECHNOLOGIES CO.,LTD.
+ec:17:2f TP-LINK TECHNOLOGIES CO.,LTD.
+c8:6c:87 Zyxel Communications Corporation
+5c:7d:5e HUAWEI TECHNOLOGIES CO.,LTD
+0c:37:dc HUAWEI TECHNOLOGIES CO.,LTD
+00:07:40 BUFFALO.INC
+f8:1a:67 TP-LINK TECHNOLOGIES CO.,LTD.
+64:70:02 TP-LINK TECHNOLOGIES CO.,LTD.
+f4:ec:38 TP-LINK TECHNOLOGIES CO.,LTD.
+00:19:e0 TP-LINK TECHNOLOGIES CO.,LTD.
+5c:63:bf TP-LINK TECHNOLOGIES CO.,LTD.
+14:e6:e4 TP-LINK TECHNOLOGIES CO.,LTD.
+8c:21:0a TP-LINK TECHNOLOGIES CO.,LTD.
+ec:88:8f TP-LINK TECHNOLOGIES CO.,LTD.
+40:16:9f TP-LINK TECHNOLOGIES CO.,LTD.
+00:13:00 IT-FACTORY, INC.
+e0:05:c5 TP-LINK TECHNOLOGIES CO.,LTD.
+38:83:45 TP-LINK TECHNOLOGIES CO.,LTD.
+00:0c:43 Ralink Technology, Corp.
+6c:e8:73 TP-LINK TECHNOLOGIES CO.,LTD.
+1c:fa:68 TP-LINK TECHNOLOGIES CO.,LTD.
+00:1d:0f TP-LINK TECHNOLOGIES CO.,LTD.
+e0:30:05 Alcatel-Lucent Shanghai Bell Co., Ltd
+00:19:66 Asiarock Technology Limited
+00:08:01 HighSpeed Surfing Inc.
+00:0c:45 Animation Technologies Inc.
+00:1c:45 Chenbro Micom Co., Ltd.
+00:0a:45 Audio-Technica Corp.
+00:02:00 Net & Sys Co., Ltd.
+00:00:07 XEROX CORPORATION
+ac:81:12 Gemtek Technology Co., Ltd.
+20:16:d8 Liteon Technology Corporation
+64:5a:04 Chicony Electronics Co., Ltd.
+48:e2:44 Hon Hai Precision Ind. Co.,Ltd.
+78:45:61 CyberTAN Technology Inc.
+e8:39:df ASKEY COMPUTER CORP
+c8:3d:d4 CyberTAN Technology Inc.
+00:1d:60 ASUSTek COMPUTER INC.
+80:91:33 AzureWave Technology Inc.
+dc:85:de AzureWave Technology Inc.
+e4:c6:e6 Mophie, LLC
+74:d4:35 GIGA-BYTE TECHNOLOGY CO.,LTD.
+e4:e7:49 Hewlett Packard
+c8:f7:50 Dell Inc.
+30:f9:ed Sony Corporation
+3c:a1:0d Samsung Electronics Co.,Ltd
+94:0b:19 HUAWEI TECHNOLOGIES CO.,LTD
+00:0b:ff Berkeley Camera Engineering
+8c:87:3b Leica Camera AG
+a4:ad:b8 Vitec Group, Camera Dynamics Ltd
+00:1f:40 Speakercraft Inc.
+00:04:c6 YAMAHA MOTOR CO.,LTD
+00:1e:18 Radio Activity srl
+00:06:7c Cisco Systems, Inc
+00:90:ab Cisco Systems, Inc
+00:06:c1 Cisco Systems, Inc
+08:00:37 FUJIFILM Business Innovation Corp.
+1c:7d:22 FUJIFILM Business Innovation Corp.
+00:90:27 Intel Corporation
+00:e0:2c AST COMPUTER
+00:e0:c2 NECSY S.p.A.
+00:15:e9 D-Link Corporation
+00:04:23 Intel Corporation
+00:00:44 CASTELLE CORPORATION
+00:17:9a D-Link Corporation
+1c:bd:b9 D-Link International
+f8:e9:03 D-Link International
+00:21:91 D-Link Corporation
+80:86:d9 Samsung Electronics Co.,Ltd
+c0:c9:e3 TP-LINK TECHNOLOGIES CO.,LTD.
+94:b2:cc PIONEER CORPORATION
+24:79:f3 GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+2c:26:17 Oculus VR, LLC
+4c:50:f1 GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+fc:f5:c4 Espressif Inc.
+2c:27:9e IEEE Registration Authority
+00:71:47 Amazon Technologies Inc.
+68:54:fd Amazon Technologies Inc.
+6c:56:97 Amazon Technologies Inc.
+a4:38:cc Nintendo Co.,Ltd
+b4:7c:9c Amazon Technologies Inc.
+fc:65:de Amazon Technologies Inc.
+00:08:a2 ADI Engineering, Inc.
+00:0b:94 Digital Monitoring Products, Inc.
+68:1f:d8 Siemens Industry, Inc.
+64:eb:8c Seiko Epson Corporation
+f0:62:81 ProCurve Networking by HP
+84:4b:f5 Hon Hai Precision Ind. Co.,Ltd.
+84:2a:fd HP Inc.
+e8:d8:d1 HP Inc.
+80:ce:62 Hewlett Packard
+38:22:e2 HP Inc.
+48:5a:b6 Hon Hai Precision Ind. Co.,Ltd.
+d0:bf:9c Hewlett Packard
+40:b0:34 Hewlett Packard
+ac:18:26 Seiko Epson Corporation
+f8:d0:27 Seiko Epson Corporation
+00:26:ab Seiko Epson Corporation
+44:d2:44 Seiko Epson Corporation
+00:1b:a9 Brother industries, LTD.
+f4:81:39 CANON INC.
+18:0c:ac CANON INC.
+84:ba:3b CANON INC.
+60:12:8b CANON INC.
+88:87:17 CANON INC.
+00:1e:8f CANON INC.
+58:85:e9 Realme Chongqing MobileTelecommunications Corp Ltd
+70:5e:55 Realme Chongqing MobileTelecommunications Corp Ltd
+b0:d5:68 Shenzhen Cultraview Digital Technology Co., Ltd
+88:50:f6 Shenzhen Jingxun Software Telecommunication Technology Co.,Ltd
+84:13:9f zte corporation
+5c:41:5a Amazon.com, LLC
+70:35:09 Cisco Systems, Inc
+a0:76:4e Espressif Inc.
+e0:e2:e6 Espressif Inc.
+5c:49:fa Shenzhen Guowei Shidai Communication Equipement Co., Ltd
+78:21:84 Espressif Inc.
+ec:65:6e The Things Industries B.V.
+14:17:2a Fiberhome Telecommunication Technologies Co.,LTD
+18:58:80 Arcadyan Corporation
+c8:5c:cc Beijing Xiaomi Mobile Software Co., Ltd
+d4:05:de eero inc.
+c0:8b:05 HUAWEI TECHNOLOGIES CO.,LTD
+e8:a7:2f Microsoft Corporation
+a0:29:19 Dell Inc.
+30:7b:c9 SHENZHEN BILIAN ELECTRONIC CO.，LTD
+c4:8b:a3 Cisco Meraki
+14:61:02 Alps Alpine
+bc:6e:e2 Intel Corporate
+38:7a:0e Intel Corporate
+4c:44:5b Intel Corporate
+10:97:bd Espressif Inc.
+a0:0f:37 Cisco Systems, Inc
+00:df:1d Cisco Systems, Inc
+b4:5f:84 zte corporation
+04:20:84 zte corporation
+e0:9d:13 Samsung Electronics Co.,Ltd
+94:60:d5 Aruba, a Hewlett Packard Enterprise Company
+b0:1c:0c SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
+30:c6:f7 Espressif Inc.
+08:02:05 HUAWEI TECHNOLOGIES CO.,LTD
+78:67:0e Wistron Neweb Corporation
+c0:36:53 eero inc.
+94:02:30 Logitech
+c0:6b:55 Motorola Mobility LLC, a Lenovo Company
+34:b9:8d Xiaomi Communications Co Ltd
+b8:94:e7 Xiaomi Communications Co Ltd
+fc:1d:2a vivo Mobile Communication Co., Ltd.
+d0:9c:ae vivo Mobile Communication Co., Ltd.
+c0:47:54 vivo Mobile Communication Co., Ltd.
+20:3b:69 vivo Mobile Communication Co., Ltd.
+bc:3e:cb vivo Mobile Communication Co., Ltd.
+d4:ec:ab vivo Mobile Communication Co., Ltd.
+e4:f1:d4 vivo Mobile Communication Co., Ltd.
+6c:1e:d7 vivo Mobile Communication Co., Ltd.
+70:8f:47 vivo Mobile Communication Co., Ltd.
+54:0e:2d vivo Mobile Communication Co., Ltd.
+98:c8:b8 vivo Mobile Communication Co., Ltd.
+dc:91:66 Huawei Device Co., Ltd.
+34:6f:24 AzureWave Technology Inc.
+30:4f:00 GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+6c:3c:7c CANON INC.
+90:35:ea Silicon Laboratories
+a4:1a:3a TP-LINK TECHNOLOGIES CO.,LTD.
+4c:b9:ea iRobot Corporation
+dc:e5:5b Google, Inc.
+34:84:e4 Texas Instruments
+0c:02:bd Samsung Electronics Co.,Ltd
+90:b6:22 Samsung Electronics Co.,Ltd
+ac:6c:90 Samsung Electronics Co.,Ltd
+f0:70:4f Samsung Electronics Co.,Ltd
+24:fc:4e Juniper Networks
+b0:10:a0 Texas Instruments
+ac:4d:16 Texas Instruments
+bc:ce:25 Nintendo Co.,Ltd
+d8:1f:12 Tuya Smart Inc.
+c8:1c:fe Zebra Technologies Inc.
+20:32:c6 Apple, Inc.
+b0:6a:41 Google, Inc.
+0c:84:08 HUAWEI TECHNOLOGIES CO.,LTD
+64:5a:36 Apple, Inc.
+5c:52:30 Apple, Inc.
+1c:ed:6f AVM Audiovisuelles Marketing und Computersysteme GmbH
+d8:76:ae HUAWEI TECHNOLOGIES CO.,LTD
+f8:00:a1 HUAWEI TECHNOLOGIES CO.,LTD
+6c:71:d2 HUAWEI TECHNOLOGIES CO.,LTD
+1c:9e:cc Technicolor CH USA Inc.
+28:d2:44 LCFC(HeFei) Electronics Technology co., ltd
+a0:9f:7a D-Link Middle East FZCO
+90:09:d0 Synology Incorporated
+b4:20:46 eero inc.
+24:d7:eb Espressif Inc.
+00:e7:e3 zte corporation
+e8:6e:44 zte corporation
+a4:e1:1a Juniper Networks
+a0:d0:5b Samsung Electronics Co.,Ltd
+10:13:31 Technicolor Delivery Technologies Belgium NV
+58:bf:25 Espressif Inc.
+54:ef:33 SHENZHEN BILIAN ELECTRONIC CO.，LTD
+a0:31:db HUAWEI TECHNOLOGIES CO.,LTD
+b4:37:d8 D-Link (Shanghai) Limited Corp.
+78:dd:33 HUAWEI TECHNOLOGIES CO.,LTD
+60:53:75 HUAWEI TECHNOLOGIES CO.,LTD
+80:d2:e5 Nintendo Co.,Ltd
+f8:ce:72 Wistron Corporation
+9c:d5:7d Cisco Systems, Inc
+8c:d9:d6 Xiaomi Communications Co Ltd
+50:3d:c6 Xiaomi Communications Co Ltd
+b8:3b:cc Xiaomi Communications Co Ltd
+ec:94:d5 Juniper Networks
+d4:86:60 Arcadyan Corporation
+08:e7:e5 Huawei Device Co., Ltd.
+44:a6:42 Hangzhou Hikvision Digital Technology Co.,Ltd.
+50:9a:88 HUAWEI TECHNOLOGIES CO.,LTD
+08:5c:1b HUAWEI TECHNOLOGIES CO.,LTD
+64:6d:4e HUAWEI TECHNOLOGIES CO.,LTD
+64:a2:00 Xiaomi Communications Co Ltd
+94:17:00 Xiaomi Communications Co Ltd
+7c:2a:db Xiaomi Communications Co Ltd
+a0:44:5c HUAWEI TECHNOLOGIES CO.,LTD
+50:6f:0c Sagemcom Broadband SAS
+30:3f:bb Hewlett Packard Enterprise
+a0:18:42 Comtrend Corporation
+18:56:c3 Apple, Inc.
+1c:93:c4 Amazon Technologies Inc.
+7c:87:ce Espressif Inc.
+68:f3:8e Juniper Networks
+00:18:13 Sony Corporation
+40:2b:a1 Sony Corporation
+d0:4d:c6 Aruba, a Hewlett Packard Enterprise Company
+08:ff:44 Apple, Inc.
+44:f0:9e Apple, Inc.
+ac:49:db Apple, Inc.
+7c:1a:c0 HUAWEI TECHNOLOGIES CO.,LTD
+d8:6d:17 HUAWEI TECHNOLOGIES CO.,LTD
+f0:c4:78 HUAWEI TECHNOLOGIES CO.,LTD
+4c:d6:29 HUAWEI TECHNOLOGIES CO.,LTD
+68:81:e0 HUAWEI TECHNOLOGIES CO.,LTD
+00:21:9e Sony Corporation
+28:3f:69 Sony Corporation
+00:1e:dc Sony Corporation
+00:1d:28 Sony Corporation
+40:40:a7 Sony Corporation
+bc:6e:64 Sony Corporation
+44:74:6c Sony Corporation
+44:d4:e0 Sony Corporation
+84:00:d2 Sony Corporation
+30:39:26 Sony Corporation
+00:eb:2d Sony Corporation
+b4:52:7d Sony Corporation
+5c:0c:e6 Nintendo Co.,Ltd
+d0:c2:4e Samsung Electronics Co.,Ltd
+04:39:26 China Dragon Technology Limited
+54:77:87 Earda Technologies co Ltd
+e8:ed:d6 Fortinet, Inc.
+48:9e:bd HP Inc.
+88:fc:a6 devolo AG
+d8:a0:11 WiZ
+8c:64:a2 OnePlus Technology (Shenzhen) Co., Ltd
+98:f0:83 HUAWEI TECHNOLOGIES CO.,LTD
+94:90:10 HUAWEI TECHNOLOGIES CO.,LTD
+08:05:e2 Juniper Networks
+a4:78:06 Cisco Systems, Inc
+88:a0:be HUAWEI TECHNOLOGIES CO.,LTD
+28:fb:ae HUAWEI TECHNOLOGIES CO.,LTD
+cc:b5:d1 Beijing Xiaomi Mobile Software Co., Ltd
+0c:43:14 Silicon Laboratories
+78:d6:dc Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
+dc:03:98 LG Innotek
+c4:80:25 Huawei Device Co., Ltd.
+c8:9d:18 Huawei Device Co., Ltd.
+b8:14:5c Huawei Device Co., Ltd.
+50:8a:06 Tuya Smart Inc.
+ec:8a:c4 Amazon Technologies Inc.
+6c:94:66 Intel Corporate
+3c:19:5e Samsung Electronics Co.,Ltd
+8c:6a:8d Technicolor CH USA Inc.
+6c:fe:54 Intel Corporate
+08:6a:c5 Intel Corporate
+54:14:f3 Intel Corporate
+94:3c:c6 Espressif Inc.
+f0:2f:4b Apple, Inc.
+b4:fa:48 Apple, Inc.
+40:e6:4b Apple, Inc.
+ec:02:73 Aruba, a Hewlett Packard Enterprise Company
+a0:4a:5e Microsoft Corporation
+d4:77:98 Cisco Systems, Inc
+60:15:92 IEEE Registration Authority
+ec:2e:98 AzureWave Technology Inc.
+d4:a6:51 Tuya Smart Inc.
+94:3a:91 Amazon Technologies Inc.
+40:8c:1f GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+10:d5:61 Tuya Smart Inc.
+44:17:93 Espressif Inc.
+f0:b6:1e Intel Corporate
+38:1f:8d Tuya Smart Inc.
+10:5a:17 Tuya Smart Inc.
+4c:eb:d6 Espressif Inc.
+b0:60:88 Intel Corporate
+28:d0:ea Intel Corporate
+b0:4f:13 Dell Inc.
+7c:f6:66 Tuya Smart Inc.
+10:27:f5 TP-Link Corporation Limited
+30:83:98 Espressif Inc.
+70:89:76 Tuya Smart Inc.
+10:f6:05 Realme Chongqing Mobile Telecommunications Corp.,Ltd.
+bc:09:1b Intel Corporate
+10:96:93 Amazon Technologies Inc.
+34:af:b3 Amazon Technologies Inc.
+60:55:f9 Espressif Inc.
+14:18:c3 Intel Corporate
+6c:cd:d6 NETGEAR
+00:06:09 Crossport Systems
+00:18:f8 Cisco-Linksys, LLC
+00:22:d7 Nintendo Co., Ltd.
+00:18:39 Cisco-Linksys, LLC
+c8:b3:73 Cisco-Linksys, LLC
+00:21:29 Cisco-Linksys, LLC
+00:1c:10 Cisco-Linksys, LLC
+00:06:25 The Linksys Group, Inc.
+00:04:5a The Linksys Group, Inc.
+00:0f:66 Cisco-Linksys, LLC
+20:aa:4b Cisco-Linksys, LLC
+98:fc:11 Cisco-Linksys, LLC
+68:7f:74 Cisco-Linksys, LLC
+00:12:17 Cisco-Linksys, LLC
+58:6d:8f Cisco-Linksys, LLC
+00:1a:70 Cisco-Linksys, LLC
+00:19:f3 Cetis, Inc
+30:58:90 Frontier Silicon Ltd
+70:8b:cd ASUSTek COMPUTER INC.
+bc:64:4b ARRIS Group, Inc.
+00:22:61 Frontier Silicon Ltd
+00:80:54 FRONTIER TECHNOLOGIES CORP.
+00:1c:60 CSP Frontier Technologies,Inc.
+c4:29:96 Signify B.V.
+ec:b5:fa Philips Lighting BV
+d0:21:f9 Ubiquiti Networks Inc.
+70:a7:41 Ubiquiti Networks Inc.
+18:e2:9f vivo Mobile Communication Co., Ltd.
+14:ed:bb 2Wire Inc
+00:27:22 Ubiquiti Networks Inc.
+00:d7:8f Cisco Systems, Inc
+00:1e:ae Continental Automotive Systems Inc.
+50:2b:73 Tenda Technology Co.,Ltd.Dongguan branch
+48:4d:7e Dell Inc.
+44:6a:b7 ARRIS Group, Inc.
+24:20:c7 Sagemcom Broadband SAS
+c8:21:58 Intel Corporate
+b4:96:91 Intel Corporate
+70:1c:e7 Intel Corporate
+9c:2a:70 Hon Hai Precision Ind. Co.,Ltd.
+cc:b0:da Liteon Technology Corporation
+2c:0e:3d SAMSUNG ELECTRO-MECHANICS(THAILAND)
+9c:7d:a3 HUAWEI TECHNOLOGIES CO.,LTD
+14:a5:1a HUAWEI TECHNOLOGIES CO.,LTD
+04:75:03 HUAWEI TECHNOLOGIES CO.,LTD
+c8:f7:33 Intel Corporate
+fc:1a:11 vivo Mobile Communication Co., Ltd.
+54:5a:a6 Espressif Inc.
+a8:03:2a Espressif Inc.
+c4:dd:57 Espressif Inc.
+a0:d0:dc Amazon Technologies Inc.
+88:a4:c2 LCFC(Hefei) Electronics Technology Co., Ltd
+24:ce:33 Amazon Technologies Inc.
+94:b3:4f Ruckus Wireless
+38:38:4b vivo Mobile Communication Co., Ltd.
+64:6d:2f Apple, Inc.
+60:93:16 Apple, Inc.
+5c:96:66 Sony Interactive Entertainment Inc.
+7c:61:66 Amazon Technologies Inc.
+48:f8:db HUAWEI TECHNOLOGIES CO.,LTD
+d8:1e:dd GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+5c:76:95 Technicolor CH USA Inc.
+ac:f6:f7 LG Electronics (Mobile Communications)
+c0:2e:25 GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+d4:3f:cb ARRIS Group, Inc.
+f8:4d:33 Fiberhome Telecommunication Technologies Co.,LTD
+88:b2:91 Apple, Inc.
+c4:2a:d0 Apple, Inc.
+cc:d2:81 Apple, Inc.
+ac:8f:f8 Nokia
+94:f7:ad Juniper Networks
+08:97:98 COMPAL INFORMATION (KUNSHAN) CO., LTD.
+14:b4:57 Silicon Laboratories
+18:02:2d HUAWEI TECHNOLOGIES CO.,LTD
+54:86:bc Cisco Systems, Inc
+80:da:13 eero inc.
+50:ec:50 Beijing Xiaomi Mobile Software Co., Ltd
+ec:56:23 HUAWEI TECHNOLOGIES CO.,LTD
+88:f8:72 HUAWEI TECHNOLOGIES CO.,LTD
+f8:9a:78 HUAWEI TECHNOLOGIES CO.,LTD
+c4:e3:9f GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+c4:b3:6a Cisco Systems, Inc
+00:30:85 Cisco Systems, Inc
+6c:8b:d3 Cisco Systems, Inc
+70:f7:54 AMPAK Technology,Inc.
+80:20:da Sagemcom Broadband SAS
+c8:2c:2b IEEE Registration Authority
+08:60:83 zte corporation
+98:e7:43 Dell Inc.
+a4:45:19 Xiaomi Communications Co Ltd
+f8:08:4f Sagemcom Broadband SAS
+24:0a:c4 Espressif Inc.
+a8:06:00 Samsung Electronics Co.,Ltd
+90:97:d5 Espressif Inc.
+70:03:9f Espressif Inc.
+8c:ce:4e Espressif Inc.
+ec:c8:9c Hangzhou Hikvision Digital Technology Co.,Ltd.
+fc:66:cf Apple, Inc.
+b8:5f:98 Amazon Technologies Inc.
+a0:85:fc Microsoft Corporation
+24:9a:d8 YEALINK(XIAMEN) NETWORK TECHNOLOGY CO.,LTD.
+d8:5e:d3 GIGA-BYTE TECHNOLOGY CO.,LTD.
+00:e4:21 Sony Interactive Entertainment Inc.
+28:ef:01 Amazon Technologies Inc.
+4c:79:6e Intel Corporate
+98:ad:1d Huawei Device Co., Ltd.
+f0:9e:4a Intel Corporate
+f0:77:c3 Intel Corporate
+34:73:5a Dell Inc.
+00:08:0c VDA Group S.p.a.
+44:3e:07 Electrolux
+00:24:44 Nintendo Co., Ltd.
+00:24:6f Onda Communication spa
+00:1c:b2 BPT SPA
+78:45:58 Ubiquiti Networks Inc.
+1c:fe:2b Amazon Technologies Inc.
+cc:48:3a Dell Inc.
+c8:16:da Realme Chongqing Mobile Telecommunications Corp.,Ltd.
+ac:8b:a9 Ubiquiti Networks Inc.
+68:67:25 Espressif Inc.
+c4:03:a8 Intel Corporate
+f8:9e:94 Intel Corporate
+dc:2c:6e Routerboard.com
+0c:90:43 Realme Chongqing Mobile Telecommunications Corp.,Ltd.
+b0:f7:c4 Amazon Technologies Inc.
+4c:8d:53 HUAWEI TECHNOLOGIES CO.,LTD
+c0:d7:aa Arcadyan Corporation
+18:48:be Amazon Technologies Inc.
+00:1b:a0 Awox
+00:1b:d4 Cisco Systems, Inc
+00:1b:54 Cisco Systems, Inc
+f0:08:d1 Espressif Inc.
+b8:f0:09 Espressif Inc.
+e8:db:84 Espressif Inc.
+d0:55:09 Nintendo Co.,Ltd
+44:4f:8e WiZ
+90:f1:57 Garmin International
+fc:5c:45 Ruckus Wireless
+7c:b0:73 Realme Chongqing Mobile Telecommunications Corp.,Ltd.
+40:91:51 Espressif Inc.
+54:ce:82 zte corporation
+00:bd:3e Vizio, Inc
+c8:96:65 Microsoft Corporation
+44:ae:44 Huawei Device Co., Ltd.
+20:b0:01 Technicolor Delivery Technologies Belgium NV
+a4:b1:e9 Technicolor Delivery Technologies Belgium NV
+4c:02:20 Xiaomi Communications Co Ltd
+f4:ce:48 Extreme Networks, Inc.
+58:48:49 IEEE Registration Authority
+30:56:96 Infinix mobility limited
+7c:39:85 HUAWEI TECHNOLOGIES CO.,LTD
+8c:7a:3d Xiaomi Communications Co Ltd
+5c:d0:6e Xiaomi Communications Co Ltd
+9c:5a:81 Xiaomi Communications Co Ltd
+74:15:75 Xiaomi Communications Co Ltd
+9c:bc:f0 Xiaomi Communications Co Ltd
+50:98:39 Xiaomi Communications Co Ltd
+10:3f:44 Xiaomi Communications Co Ltd
+f0:57:a6 Intel Corporate
+20:d7:78 Texas Instruments
+1c:e6:39 HUAWEI TECHNOLOGIES CO.,LTD
+f0:b1:3f Huawei Device Co., Ltd.
+50:58:6f Huawei Device Co., Ltd.
+4c:2f:d7 Huawei Device Co., Ltd.
+d4:74:15 Huawei Device Co., Ltd.
+f0:2a:2b IEEE Registration Authority
+20:be:cd eero inc.
+04:ec:d8 Intel Corporate
+00:bf:af Hui Zhou Gaoshengda Technology Co.,LTD
+7c:c2:55 Super Micro Computer, Inc.
+c8:9e:43 NETGEAR
+60:dd:8e Intel Corporate
+e8:9f:6d Espressif Inc.
+48:55:19 Espressif Inc.
+f8:fc:e1 Amazon Technologies Inc.
+4c:03:4f Intel Corporate
+cc:81:2a vivo Mobile Communication Co., Ltd.
+9c:82:81 vivo Mobile Communication Co., Ltd.
+b8:d4:3e vivo Mobile Communication Co., Ltd.
+0c:60:46 vivo Mobile Communication Co., Ltd.
+8c:67:94 vivo Mobile Communication Co., Ltd.
+98:7e:e3 vivo Mobile Communication Co., Ltd.
+38:56:3d Microsoft Corporation
+14:49:20 HUAWEI TECHNOLOGIES CO.,LTD
+10:bc:97 vivo Mobile Communication Co., Ltd.
+70:b8:f6 Espressif Inc.
+a4:05:d6 ARRIS Group, Inc.
+dc:a6:33 ARRIS Group, Inc.
+ec:2a:72 Dell Inc.
+c4:4f:96 Alps Alpine
+fc:02:96 Xiaomi Communications Co Ltd
+f8:63:d9 ARRIS Group, Inc.
+d8:cf:bf Motorola Mobility LLC, a Lenovo Company
+48:2f:6b Aruba, a Hewlett Packard Enterprise Company
+94:0d:2d Universal Electronics, Inc.
+18:45:b3 IEEE Registration Authority
+60:e8:5b Texas Instruments
+54:af:97 TP-Link Corporation Limited
+14:55:94 Huawei Device Co., Ltd.
+08:c0:6c Huawei Device Co., Ltd.
+54:cf:8d HUAWEI TECHNOLOGIES CO.,LTD
+74:86:e2 Dell Inc.
+a8:8c:3e Microsoft Corporation
+f8:25:51 Seiko Epson Corporation
+7c:8a:e1 COMPAL INFORMATION (KUNSHAN) CO., LTD.
+68:4a:ae HUAWEI TECHNOLOGIES CO.,LTD
+7c:d6:61 Xiaomi Communications Co Ltd
+c4:f7:d5 Cisco Systems, Inc
+2c:4f:52 Cisco Systems, Inc
+7c:b5:9b TP-LINK TECHNOLOGIES CO.,LTD.
+b4:c4:fc Xiaomi Communications Co Ltd
+54:ec:2f Ruckus Wireless
+d0:57:94 Sagemcom Broadband SAS
+88:ef:16 ARRIS Group, Inc.
+ac:db:48 ARRIS Group, Inc.
+c8:a7:76 HUAWEI TECHNOLOGIES CO.,LTD
+a4:00:e2 HUAWEI TECHNOLOGIES CO.,LTD
+68:a0:3e HUAWEI TECHNOLOGIES CO.,LTD
+b8:c3:85 HUAWEI TECHNOLOGIES CO.,LTD
+b0:fd:0b IEEE Registration Authority
+98:b8:ba LG Electronics (Mobile Communications)
+50:c4:dd BUFFALO.INC
+b8:d5:26 Zyxel Communications Corporation
+3c:a5:81 vivo Mobile Communication Co., Ltd.
+34:e9:11 vivo Mobile Communication Co., Ltd.
+58:8a:5a Dell Inc.
+2c:3a:e8 Espressif Inc.
+3c:61:05 Espressif Inc.
+08:55:31 Routerboard.com
+84:30:95 Hon Hai Precision IND.CO.,LTD
+a4:cc:b9 Realme Chongqing Mobile Telecommunications Corp.,Ltd.
+bc:0f:9a D-Link International
+c4:5b:be Espressif Inc.
+bc:ff:4d Espressif Inc.
+34:ab:95 Espressif Inc.
+c8:7b:23 Bose Corporation
+a8:48:fa Espressif Inc.
+34:b4:72 Espressif Inc.
+c8:c9:a3 Espressif Inc.
+68:f0:d0 SkyBell Technologies Inc.
+8c:4b:14 Espressif Inc.
+d4:e8:53 Hangzhou Hikvision Digital Technology Co.,Ltd.
+90:38:0c Espressif Inc.
+d4:2c:46 BUFFALO.INC
+10:91:a8 Espressif Inc.
+b0:3c:dc Intel Corporate
+cc:5b:31 Nintendo Co.,Ltd
+58:cf:79 Espressif Inc.
+b4:45:06 Dell Inc.
+50:7c:6f Intel Corporate
+d8:bf:c0 Espressif Inc.
+8c:f8:c5 Intel Corporate
+40:e9:9b SAMSUNG ELECTRO-MECHANICS(THAILAND)
+08:7f:98 vivo Mobile Communication Co., Ltd.
+24:b2:de Espressif Inc.
+68:07:15 Intel Corporate
+3c:b6:b7 vivo Mobile Communication Co., Ltd.
+3c:07:71 Sony Corporation
+c4:64:13 Cisco Systems, Inc
+e8:e0:b7 Toshiba
+c4:27:95 Technicolor CH USA Inc.
+00:21:86 Universal Global Scientific Industrial Co., Ltd.
+64:9c:81 Qualcomm Inc.
+00:a0:c6 Qualcomm Inc.
+8c:aa:b5 Espressif Inc.
+7c:df:a1 Espressif Inc.
+ac:67:b2 Espressif Inc.
+0c:dc:7e Espressif Inc.
+a4:e5:7c Espressif Inc.
+20:ef:bd Roku, Inc
+ec:94:cb Espressif Inc.
+34:94:54 Espressif Inc.
+c8:5a:cf HP Inc.
+70:70:aa Amazon Technologies Inc.
+48:b4:23 Amazon Technologies Inc.
+00:0a:08 Alps Alpine
+40:ac:bf Hangzhou Hikvision Digital Technology Co.,Ltd.
+b0:33:66 vivo Mobile Communication Co., Ltd.
+e8:ca:c8 Hui Zhou Gaoshengda Technology Co.,LTD
+64:bf:6b HUAWEI TECHNOLOGIES CO.,LTD
+30:49:9e HUAWEI TECHNOLOGIES CO.,LTD
+9c:ec:61 Huawei Device Co., Ltd.
+88:c2:27 HUAWEI TECHNOLOGIES CO.,LTD
+80:54:d9 HUAWEI TECHNOLOGIES CO.,LTD
+94:a9:a8 Texas Instruments
+74:70:69 Huawei Device Co., Ltd.
+14:fb:70 Huawei Device Co., Ltd.
+84:d3:d5 Huawei Device Co., Ltd.
+7c:c2:25 Samsung Electronics Co.,Ltd
+fc:29:e3 Infinix mobility limited
+60:26:aa Cisco Systems, Inc
+5c:31:92 Cisco Systems, Inc
+94:de:b8 Silicon Laboratories
+04:0d:84 Silicon Laboratories
+48:02:86 Realme Chongqing Mobile Telecommunications Corp.,Ltd.
+d8:4a:2b zte corporation
+d0:f9:9b zte corporation
+a4:43:8c ARRIS Group, Inc.
+d4:35:38 Beijing Xiaomi Mobile Software Co., Ltd
+4c:19:5d Sagemcom Broadband SAS
+d4:13:f8 Peplink International Ltd.
+10:ce:02 Amazon Technologies Inc.
+54:f8:2a u-blox AG
+10:b3:d5 Cisco Systems, Inc
+dc:df:d6 zte corporation
+d8:53:9a Juniper Networks
+30:a2:c2 Huawei Device Co., Ltd.
+ac:a8:8e SHARP Corporation
+98:41:5c Nintendo Co.,Ltd
+70:54:25 ARRIS Group, Inc.
+28:33:34 Huawei Device Co., Ltd.
+80:78:71 ASKEY COMPUTER CORP
+4c:b1:cd Ruckus Wireless
+ac:b3:b5 HUAWEI TECHNOLOGIES CO.,LTD
+08:3a:88 Universal Global Scientific Industrial Co., Ltd.
+08:31:8b HUAWEI TECHNOLOGIES CO.,LTD
+30:b5:c2 TP-LINK TECHNOLOGIES CO.,LTD.
+f4:b5:2f Juniper Networks
+70:62:b8 D-Link International
+90:ae:1b TP-LINK TECHNOLOGIES CO.,LTD.
+b8:a4:4f Axis Communications AB
+d4:69:a5 Miura Systems Ltd.
+20:c0:6d SHENZHEN SPACETEK TECHNOLOGY CO.,LTD
+48:86:e8 Microsoft Corporation
+40:d2:8a Nintendo Co., Ltd.
+80:ba:ac TeleAdapt Ltd
+8c:56:c5 Nintendo Co., Ltd.
+88:b6:27 Gembird Europe BV
+fc:cf:62 IBM Corp
+e8:b4:70 IEEE Registration Authority
+c4:fe:5b GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+00:0c:c7 Intelligent Computer Solutions Inc.
+00:00:c7 ARIX CORPORATION
+00:00:c8 ALTOS COMPUTER SYSTEMS
+00:0e:ee Muco Industrie BV
+00:00:ee NETWORK DESIGNERS, LTD.
+00:00:0e FUJITSU LIMITED
+a4:f0:5e GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+38:2c:4a ASUSTek COMPUTER INC.
+f0:79:59 ASUSTek COMPUTER INC.
+a0:40:a0 NETGEAR
+00:01:e3 Siemens AG
+00:03:6b Cisco Systems, Inc
+00:04:0d Avaya Inc
+00:0f:e2 Hangzhou H3C Technologies Co., Limited
+00:60:b9 NEC Platforms, Ltd
+00:d0:1e PINGTEL CORP.
+00:e0:75 Verilink Corporation
+00:e0:bb NBX CORPORATION
+00:19:77 Extreme Networks, Inc.
+00:03:b5 Entra Technology Co.
+00:10:fa Apple, Inc.
+08:60:6e ASUSTek COMPUTER INC.
+30:07:4d SAMSUNG ELECTRO-MECHANICS(THAILAND)
+9c:1c:12 Aruba, a Hewlett Packard Enterprise Company
+80:89:17 TP-LINK TECHNOLOGIES CO.,LTD.
+20:a6:cd Hewlett Packard Enterprise
+70:3a:0e Aruba, a Hewlett Packard Enterprise Company
+7c:57:3c Aruba, a Hewlett Packard Enterprise Company
+00:4e:35 Hewlett Packard Enterprise
+9c:8c:d8 Hewlett Packard Enterprise
+90:4c:81 Hewlett Packard Enterprise
+f4:f5:d8 Google, Inc.
+7c:d9:5c Google, Inc.
+00:02:7d Cisco Systems, Inc
+00:02:b9 Cisco Systems, Inc
+00:02:4a Cisco Systems, Inc
+ec:c8:82 Cisco Systems, Inc
+5c:57:c8 Nokia Corporation
+50:c5:8d Juniper Networks
+c8:4c:75 Cisco Systems, Inc
+1c:17:d3 Cisco Systems, Inc
+a8:b1:d4 Cisco Systems, Inc
+a4:0c:c3 Cisco Systems, Inc
+18:ef:63 Cisco Systems, Inc
+7c:ed:8d Microsoft
+a4:5c:27 Nintendo Co., Ltd.
+20:d6:07 Nokia Corporation
+58:bc:27 Cisco Systems, Inc
+d4:cb:af Nokia Corporation
+5c:d9:98 D-Link Corporation
+58:8d:09 Cisco Systems, Inc
+08:3a:f2 Espressif Inc.
+94:b9:7e Espressif Inc.
+e8:68:e7 Espressif Inc.
+4c:75:25 Espressif Inc.
+9c:9c:1f Espressif Inc.
+98:cd:ac Espressif Inc.
+80:8a:f7 Nanoleaf
+78:e3:6d Espressif Inc.
+b0:55:08 HUAWEI TECHNOLOGIES CO.,LTD
+80:5e:0c YEALINK(XIAMEN) NETWORK TECHNOLOGY CO.,LTD.
+10:c3:7b ASUSTek COMPUTER INC.
+70:5a:0f Hewlett Packard
+00:08:9b ICP Electronics Inc.
+3c:8d:20 Google, Inc.
+ec:a8:6b Elitegroup Computer Systems Co.,Ltd.
+d0:c5:d3 AzureWave Technology Inc.
+98:48:27 TP-LINK TECHNOLOGIES CO.,LTD.
+0c:54:15 Intel Corporate
+b4:b6:86 Hewlett Packard
+88:d7:f6 ASUSTek COMPUTER INC.
+70:4d:7b ASUSTek COMPUTER INC.
+00:0e:e0 Mcharge
+00:1e:e0 Urmet SpA
+00:05:61 nac Image Technology, Inc.
+00:15:61 JJPlus Corporation
+00:00:61 GATEWAY COMMUNICATIONS
+00:09:61 Switchgear and Instrumentation Ltd
+00:09:60 YOZAN Inc.
+00:19:60 DoCoMo Systems, Inc.
+00:19:6f SensoPart GmbH
+00:19:6d Raybit Systems Korea, Inc
+00:19:6c ETROVISION TECHNOLOGY
+00:19:6b Danpex Corporation
+00:19:6a MikroM GmbH
+00:16:74 EuroCB (Phils.), Inc.
+00:16:73 Bury GmbH & Co. KG
+00:16:70 SKNET Corporation
+00:16:71 Symphox Information Co.
+00:04:56 Cambium Networks Limited
+00:12:34 Camille Bauer
+00:23:45 Sony Corporation
+00:14:56 Edge Products
+00:20:00 LEXMARK INTERNATIONAL, INC.
+00:19:99 Fujitsu Technology Solutions GmbH
+00:16:50 Kratos EPD
+00:01:65 AirSwitch Corporation
+00:01:00 EQUIP'TRANS
+00:02:76 Primax Electronics Ltd.
+00:03:25 Arima Computer Corp.
+00:19:34 TRENDON TOUCH TECHNOLOGY CORP.
+00:00:37 OXFORD METRICS LIMITED
+00:05:94 HMS Industrial Networks
+00:05:83 ImageCom Limited
+00:04:82 Medialogic Corp.
+00:04:92 Hive Internet, Ltd.
+00:06:94 Mobillian Corporation
+00:00:55 COMMISSARIAT A L`ENERGIE ATOM.
+00:01:52 CHROMATEK INC.
+00:02:91 Open Network Co., Ltd.
+00:01:72 TechnoLand Co., LTD.
+00:11:72 COTRON CORPORATION
+94:18:82 Hewlett Packard Enterprise
+28:f0:76 Apple, Inc.
+a0:ce:c8 CE LINK LIMITED
+14:98:77 Apple, Inc.
+00:04:10 Spinnaker Networks, Inc.
+00:04:11 Inkra Networks, Inc.
+00:00:16 DU PONT PIXEL SYSTEMS .
+00:00:15 DATAPOINT CORPORATION
+70:d3:13 HUAWEI TECHNOLOGIES CO.,LTD
+cc:bb:fe HUAWEI TECHNOLOGIES CO.,LTD
+9c:1d:36 HUAWEI TECHNOLOGIES CO.,LTD
+50:29:f5 GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+00:72:04 Samsung Electronics Co., Ltd. ARTIK
+28:31:66 vivo Mobile Communication Co., Ltd.
+30:0a:60 IEEE Registration Authority
+a4:d9:31 Apple, Inc.
+bc:fe:d9 Apple, Inc.
+80:82:23 Apple, Inc.
+a0:28:33 IEEE Registration Authority
+cc:08:fb TP-LINK TECHNOLOGIES CO.,LTD.
+8c:61:a3 ARRIS Group, Inc.
+00:aa:6e Cisco Systems, Inc
+20:ad:56 Continental Automotive Systems Inc.
+1c:24:cd Askey Computer Corp.
+a4:50:46 Xiaomi Communications Co Ltd
+d4:d9:19 GoPro
+f4:dd:9e GoPro
+00:b8:b3 Cisco Systems, Inc
+d4:32:60 GoPro
+38:81:d7 Texas Instruments
+18:04:ed Texas Instruments
+68:d7:9a Ubiquiti Networks Inc.
+60:22:32 Ubiquiti Networks Inc.
+84:f7:03 Espressif Inc.
+00:03:97 FireBrick Limited
+00:02:16 Cisco Systems, Inc
+00:01:13 OLYMPUS CORPORATION
+00:01:12 Shark Multimedia Inc.
+00:00:41 ICE CORPORATION
+00:00:75 Nortel Networks
+00:00:50 RADISYS CORPORATION
+00:00:56 DR. B. STRUCK
+00:03:28 Mace Group, Inc.
+00:00:28 PRODIGY SYSTEMS CORPORATION
+dc:71:44 SAMSUNG ELECTRO MECHANICS CO., LTD.
+70:2e:22 zte corporation
+e4:0c:fd GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+00:18:45 Pulsar-Telecom LLC.
+00:18:23 Delta Electronics, Inc.
+00:06:11 Zeus Wireless, Inc.
+00:18:24 Kimaldi Electronics, S.L.
+00:20:21 ALGORITHMS SOFTWARE PVT. LTD.
+00:20:20 MEGATRON COMPUTER INDUSTRIES PTY, LTD.
+00:19:90 ELM DATA Co., Ltd.
+00:19:80 Gridpoint Systems
+00:18:25 <Private MAC Vendor>
+00:20:19 OHLER GMBH
+00:20:18 CIS TECHNOLOGY INC.
+00:20:17 ORBOTECH
+00:20:16 SHOWA ELECTRIC WIRE & CABLE CO
+00:20:15 ACTIS COMPUTER SA
+00:20:14 GLOBAL VIEW CO., LTD.
+00:20:13 DIVERSIFIED TECHNOLOGY, INC.
+00:20:12 CAMTRONICS MEDICAL SYSTEMS
+00:20:11 CANOPUS CO., LTD.
+00:20:10 JEOL SYSTEM TECHNOLOGY CO. LTD
+00:20:09 PACKARD BELL ELEC., INC.
+00:09:41 Allied Telesis R&D Center K.K.
+00:18:26 Cale Access AB
+00:18:27 NEC UNIFIED SOLUTIONS NEDERLAND B.V.
+00:18:28 e2v technologies (UK) ltd.
+00:1a:dc Nokia Danmark A/S
+00:25:65 Vizimax Inc.
+84:98:66 Samsung Electronics Co.,Ltd
+ac:c3:58 Continental Automotive Czech Republic s.r.o.
+4c:ea:ae GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+c4:93:d9 Samsung Electronics Co.,Ltd
+b4:31:61 Realme Chongqing Mobile Telecommunications Corp.,Ltd.
+ec:65:cc Panasonic Automotive Systems Company of America
+c0:3c:59 Intel Corporate
+28:37:37 Apple, Inc.
+8c:3b:ad NETGEAR
+00:22:3f NETGEAR
+c8:5b:76 LCFC(HeFei) Electronics Technology co., ltd
+50:7b:9d LCFC(HeFei) Electronics Technology co., ltd
+68:05:ca Intel Corporate
+64:6c:b2 Samsung Electronics Co.,Ltd
+68:05:71 Samsung Electronics Co.,Ltd
+14:b4:84 Samsung Electronics Co.,Ltd
+a4:3d:78 GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+a8:57:4e TP-LINK TECHNOLOGIES CO.,LTD.
+98:ff:d0 Lenovo Mobile Communication Technology Ltd.
+f8:54:b8 Amazon Technologies Inc.
+10:b3:c6 Cisco Systems, Inc
+10:b3:d6 Cisco Systems, Inc
+58:96:30 Technicolor CH USA Inc.
+a0:df:15 HUAWEI TECHNOLOGIES CO.,LTD
+04:b1:a1 Samsung Electronics Co.,Ltd
+a8:5e:45 ASUSTek COMPUTER INC.
+c4:ad:34 Routerboard.com
+7c:d5:66 Amazon Technologies Inc.
+5c:e5:0c Beijing Xiaomi Mobile Software Co., Ltd
+a4:08:01 Amazon Technologies Inc.
+18:e7:77 vivo Mobile Communication Co., Ltd.
+6c:d9:4c vivo Mobile Communication Co., Ltd.
+64:2c:0f vivo Mobile Communication Co., Ltd.
+30:af:ce vivo Mobile Communication Co., Ltd.
+dc:8c:1b vivo Mobile Communication Co., Ltd.
+d4:63:de vivo Mobile Communication Co., Ltd.
+2c:f1:bb zte corporation
+54:1f:8d zte corporation
+a8:5b:f7 Aruba, a Hewlett Packard Enterprise Company
+fc:5f:49 Zhejiang Dahua Technology Co., Ltd.
+d0:94:66 Dell Inc.
+94:65:9c Intel Corporate
+78:24:af ASUSTek COMPUTER INC.
+50:3e:aa TP-LINK TECHNOLOGIES CO.,LTD.
+08:2e:5f Hewlett Packard
+00:08:19 Banksys
+00:19:0f Advansus Corp.
+e4:b9:7a Dell Inc.
+00:26:73 RICOH COMPANY,LTD.
+90:b6:86 Murata Manufacturing Co., Ltd.
+00:07:32 AAEON Technology Inc.
+ec:22:80 D-Link International
+2c:b0:5d NETGEAR
+90:32:4b Hon Hai Precision Ind. Co.,Ltd.
+34:15:13 Texas Instruments
+d8:31:34 Roku, Inc
+c8:3a:6b Roku, Inc
+74:da:38 Edimax Technology Co. Ltd.
+48:5b:39 ASUSTek COMPUTER INC.
+7c:e9:d3 Hon Hai Precision Ind. Co.,Ltd.
+c4:17:fe Hon Hai Precision Ind. Co.,Ltd.
+e0:cc:f8 Xiaomi Communications Co Ltd
+00:0b:82 Grandstream Networks, Inc.
+30:e4:db Cisco Systems, Inc
+00:1b:38 COMPAL INFORMATION (KUNSHAN) CO., LTD.
+54:b8:0a D-Link International
+2c:e4:12 Sagemcom Broadband SAS
