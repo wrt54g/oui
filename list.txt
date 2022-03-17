@@ -2430,3 +2430,4 @@ e0:cc:f8 Xiaomi Communications Co Ltd
 00:1b:38 COMPAL INFORMATION (KUNSHAN) CO., LTD.
 54:b8:0a D-Link International
 2c:e4:12 Sagemcom Broadband SAS
+44:09:b8 Salcomp (Shenzhen) CO., LTD.
