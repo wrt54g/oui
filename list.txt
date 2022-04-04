@@ -2435,3 +2435,8 @@ e0:cc:f8 Xiaomi Communications Co Ltd
 00:07:01 RACAL-DATACOM
 00:07:02 Varex Imaging
 00:07:03 CSEE Transport
+00:07:04 ALPSALPINE CO,.LTD
+00:07:05 Endress & Hauser GmbH & Co
+00:18:00 UNIGRAND LTD
+00:04:04 Makino Milling Machine Co., Ltd.
+00:07:06 Sanritz Corporation
