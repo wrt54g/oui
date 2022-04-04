@@ -2431,3 +2431,4 @@ e0:cc:f8 Xiaomi Communications Co Ltd
 54:b8:0a D-Link International
 2c:e4:12 Sagemcom Broadband SAS
 44:09:b8 Salcomp (Shenzhen) CO., LTD.
+00:06:59 EAL (Apeldoorn) B.V.
