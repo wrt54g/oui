@@ -2433,3 +2433,4 @@ e0:cc:f8 Xiaomi Communications Co Ltd
 44:09:b8 Salcomp (Shenzhen) CO., LTD.
 00:06:59 EAL (Apeldoorn) B.V.
 00:07:01 RACAL-DATACOM
+00:07:02 Varex Imaging
