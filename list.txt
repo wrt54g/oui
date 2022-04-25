@@ -2445,3 +2445,4 @@ e8:b7:48 Cisco Systems, Inc
 14:7d:da Apple, Inc.
 bc:14:85 Samsung Electronics Co.,Ltd
 14:d1:69 HUAWEI TECHNOLOGIES CO.,LTD
+10:32:7e Huawei Device Co., Ltd.
