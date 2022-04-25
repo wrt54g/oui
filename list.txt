@@ -2444,3 +2444,4 @@ e8:b7:48 Cisco Systems, Inc
 2c:fd:ab Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
 14:7d:da Apple, Inc.
 bc:14:85 Samsung Electronics Co.,Ltd
+14:d1:69 HUAWEI TECHNOLOGIES CO.,LTD
