@@ -2442,3 +2442,4 @@ e0:cc:f8 Xiaomi Communications Co Ltd
 00:07:06 Sanritz Corporation
 e8:b7:48 Cisco Systems, Inc
 2c:fd:ab Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
+14:7d:da Apple, Inc.
