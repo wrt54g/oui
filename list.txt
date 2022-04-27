@@ -2455,3 +2455,4 @@ ec:1b:bd Silicon Laboratories
 bc:33:ac Silicon Laboratories
 54:0f:57 Silicon Laboratories
 00:12:4b Texas Instruments
+78:05:41 Queclink Wireless Solutions Co., Ltd
