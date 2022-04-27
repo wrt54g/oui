@@ -2449,3 +2449,4 @@ bc:14:85 Samsung Electronics Co.,Ltd
 84:2e:14 Silicon Laboratories
 00:15:8d Jennic Ltd
 00:0d:6f Ember Corporation
+60:a4:23 Silicon Laboratories
