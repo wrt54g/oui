@@ -2452,3 +2452,4 @@ bc:14:85 Samsung Electronics Co.,Ltd
 60:a4:23 Silicon Laboratories
 00:21:2e dresden-elektronik
 ec:1b:bd Silicon Laboratories
+bc:33:ac Silicon Laboratories
