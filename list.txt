@@ -2447,3 +2447,4 @@ bc:14:85 Samsung Electronics Co.,Ltd
 14:d1:69 HUAWEI TECHNOLOGIES CO.,LTD
 10:32:7e Huawei Device Co., Ltd.
 84:2e:14 Silicon Laboratories
+00:15:8d Jennic Ltd
