@@ -2468,3 +2468,4 @@ cc:86:ec Silicon Laboratories
 5c:02:72 Silicon Laboratories
 00:0b:57 Silicon Laboratories
 08:6b:d7 Silicon Laboratories
+50:32:5f Silicon Laboratories
