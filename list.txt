@@ -2461,3 +2461,4 @@ cc:86:ec Silicon Laboratories
 04:cd:15 Silicon Laboratories
 54:ef:44 Lumi United Technology Co., Ltd
 28:6d:97 SAMJIN Co., Ltd.
+4c:c9:5e Samsung Electronics Co.,Ltd
