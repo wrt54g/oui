@@ -2459,3 +2459,4 @@ bc:33:ac Silicon Laboratories
 28:2c:02 IEEE Registration Authority
 cc:86:ec Silicon Laboratories
 04:cd:15 Silicon Laboratories
+54:ef:44 Lumi United Technology Co., Ltd
