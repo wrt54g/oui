@@ -2472,3 +2472,4 @@ cc:86:ec Silicon Laboratories
 90:fd:9f Silicon Laboratories
 74:a3:4a ZIMI CORPORATION
 88:0f:10 Huami Information Technology Co.,Ltd.
+f8:5e:a0 Intel Corporate
