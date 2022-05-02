@@ -2479,3 +2479,4 @@ d0:cf:5e Energy Micro AS
 f8:a2:d6 Liteon Technology Corporation
 00:0d:b9 PC Engines GmbH
 00:a0:98 NetApp
+34:20:03 Shenzhen Feitengyun Technology Co.,LTD
