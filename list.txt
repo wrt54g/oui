@@ -2483,3 +2483,4 @@ f8:a2:d6 Liteon Technology Corporation
 4c:0b:be Microsoft
 80:72:15 SKY UK LIMITED
 84:9a:40 Hangzhou Hikvision Digital Technology Co.,Ltd.
+50:9a:4c Dell Inc.
