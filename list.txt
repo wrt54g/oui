@@ -2476,3 +2476,4 @@ f8:5e:a0 Intel Corporate
 d0:cf:5e Energy Micro AS
 34:e1:d1 IEEE Registration Authority
 74:86:7a Dell Inc.
+f8:a2:d6 Liteon Technology Corporation
