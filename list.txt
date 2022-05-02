@@ -2474,3 +2474,4 @@ cc:86:ec Silicon Laboratories
 88:0f:10 Huami Information Technology Co.,Ltd.
 f8:5e:a0 Intel Corporate
 d0:cf:5e Energy Micro AS
+34:e1:d1 IEEE Registration Authority
