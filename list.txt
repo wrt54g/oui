@@ -2458,3 +2458,4 @@ bc:33:ac Silicon Laboratories
 78:05:41 Queclink Wireless Solutions Co., Ltd
 28:2c:02 IEEE Registration Authority
 cc:86:ec Silicon Laboratories
+04:cd:15 Silicon Laboratories
