@@ -2463,3 +2463,4 @@ cc:86:ec Silicon Laboratories
 28:6d:97 SAMJIN Co., Ltd.
 4c:c9:5e Samsung Electronics Co.,Ltd
 44:5c:e9 Samsung Electronics Co.,Ltd
+80:6d:71 Amazon Technologies Inc.
