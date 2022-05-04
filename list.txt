@@ -2489,3 +2489,4 @@ f8:a2:d6 Liteon Technology Corporation
 3c:6a:2c IEEE Registration Authority
 80:4b:50 Silicon Laboratories
 84:ba:20 Silicon Laboratories
+00:3c:84 Silicon Laboratories
