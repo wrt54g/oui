@@ -2491,3 +2491,4 @@ f8:a2:d6 Liteon Technology Corporation
 84:ba:20 Silicon Laboratories
 00:3c:84 Silicon Laboratories
 58:9e:c6 Gigaset Communications GmbH
+fc:04:1c GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
