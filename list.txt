@@ -2521,3 +2521,4 @@ d0:53:49 Liteon Technology Corporation
 1c:23:2c Samsung Electronics Co.,Ltd
 9c:28:f7 Xiaomi Communications Co Ltd
 e0:d0:83 Samsung Electronics Co.,Ltd
+70:97:41 Arcadyan Corporation
