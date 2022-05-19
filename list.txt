@@ -2494,3 +2494,4 @@ f8:a2:d6 Liteon Technology Corporation
 fc:04:1c GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 00:a2:ee Cisco Systems, Inc
 04:e5:98 Xiaomi Communications Co Ltd
+08:c5:e1 SAMSUNG ELECTRO-MECHANICS(THAILAND)
