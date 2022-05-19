@@ -2499,3 +2499,4 @@ f4:63:1f HUAWEI TECHNOLOGIES CO.,LTD
 00:23:c1 Securitas Direct AB
 ec:89:14 HUAWEI TECHNOLOGIES CO.,LTD
 f0:a3:b2 Hui Zhou Gaoshengda Technology Co.,LTD
+54:3a:d6 Samsung Electronics Co.,Ltd
