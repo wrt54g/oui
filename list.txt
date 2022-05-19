@@ -2515,3 +2515,4 @@ cc:d3:c1 Vestel Elektronik San ve Tic. A.S.
 50:32:37 Apple, Inc.
 f8:4d:89 Apple, Inc.
 94:ee:9f HMD Global Oy
+ec:be:5f Vestel Elektronik San ve Tic. A.S.
