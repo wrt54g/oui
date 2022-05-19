@@ -2520,3 +2520,4 @@ d8:a3:5c Samsung Electronics Co.,Ltd
 d0:53:49 Liteon Technology Corporation
 1c:23:2c Samsung Electronics Co.,Ltd
 9c:28:f7 Xiaomi Communications Co Ltd
+e0:d0:83 Samsung Electronics Co.,Ltd
