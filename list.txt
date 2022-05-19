@@ -2519,3 +2519,4 @@ ec:be:5f Vestel Elektronik San ve Tic. A.S.
 d8:a3:5c Samsung Electronics Co.,Ltd
 d0:53:49 Liteon Technology Corporation
 1c:23:2c Samsung Electronics Co.,Ltd
+9c:28:f7 Xiaomi Communications Co Ltd
