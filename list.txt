@@ -2512,3 +2512,4 @@ e0:e6:2e TCT mobile ltd
 cc:d3:c1 Vestel Elektronik San ve Tic. A.S.
 64:79:f0 Intel Corporate
 80:30:49 Liteon Technology Corporation
+50:32:37 Apple, Inc.
