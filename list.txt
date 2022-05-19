@@ -2502,3 +2502,4 @@ f0:a3:b2 Hui Zhou Gaoshengda Technology Co.,LTD
 54:3a:d6 Samsung Electronics Co.,Ltd
 48:27:ea Samsung Electronics Co.,Ltd
 64:6c:80 CHONGQING FUGUI ELECTRONICS CO.,LTD.
+f4:c2:48 Samsung Electronics Co.,Ltd
