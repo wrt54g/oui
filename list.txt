@@ -2505,3 +2505,4 @@ f0:a3:b2 Hui Zhou Gaoshengda Technology Co.,LTD
 f4:c2:48 Samsung Electronics Co.,Ltd
 50:8e:49 Xiaomi Communications Co Ltd
 1c:30:08 Hui Zhou Gaoshengda Technology Co.,LTD
+94:be:46 Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
