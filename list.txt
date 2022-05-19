@@ -2508,3 +2508,4 @@ f4:c2:48 Samsung Electronics Co.,Ltd
 94:be:46 Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
 7c:27:bc Hui Zhou Gaoshengda Technology Co.,LTD
 8c:c5:e1 ShenZhen Konka Telecommunication Technology Co.,Ltd
+e0:e6:2e TCT mobile ltd
