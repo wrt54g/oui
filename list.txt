@@ -2510,3 +2510,4 @@ f4:c2:48 Samsung Electronics Co.,Ltd
 8c:c5:e1 ShenZhen Konka Telecommunication Technology Co.,Ltd
 e0:e6:2e TCT mobile ltd
 cc:d3:c1 Vestel Elektronik San ve Tic. A.S.
+64:79:f0 Intel Corporate
