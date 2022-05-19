@@ -2517,3 +2517,4 @@ f8:4d:89 Apple, Inc.
 94:ee:9f HMD Global Oy
 ec:be:5f Vestel Elektronik San ve Tic. A.S.
 d8:a3:5c Samsung Electronics Co.,Ltd
+d0:53:49 Liteon Technology Corporation
