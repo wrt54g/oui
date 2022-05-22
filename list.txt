@@ -2525,3 +2525,4 @@ e0:d0:83 Samsung Electronics Co.,Ltd
 00:17:23 Summit Data Communications
 fc:53:9e Shanghai Wind Technologies Co.,Ltd
 f8:28:19 Liteon Technology Corporation
+fc:ab:90 HUAWEI TECHNOLOGIES CO.,LTD
