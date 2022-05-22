@@ -2561,3 +2561,4 @@ e4:a4:71 Intel Corporate
 a0:a8:cd Intel Corporate
 ac:f1:08 LG Innotek
 f8:1f:32 Motorola Mobility LLC, a Lenovo Company
+94:e4:ba Huawei Device Co., Ltd.
