@@ -2563,3 +2563,4 @@ ac:f1:08 LG Innotek
 f8:1f:32 Motorola Mobility LLC, a Lenovo Company
 94:e4:ba Huawei Device Co., Ltd.
 88:d0:39 Tonly Technology Co. Ltd
+cc:2f:71 Intel Corporate
