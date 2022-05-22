@@ -2529,3 +2529,4 @@ fc:ab:90 HUAWEI TECHNOLOGIES CO.,LTD
 88:29:9c Samsung Electronics Co.,Ltd
 dc:bf:e9 Motorola Mobility LLC, a Lenovo Company
 f4:a5:9d Huawei Device Co., Ltd.
+e0:aa:96 Samsung Electronics Co.,Ltd
