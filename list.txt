@@ -2541,3 +2541,4 @@ f0:d5:bf Intel Corporate
 3c:06:30 Apple, Inc.
 94:08:53 Liteon Technology Corporation
 50:ed:3c Apple, Inc.
+08:aa:55 Motorola Mobility LLC, a Lenovo Company
