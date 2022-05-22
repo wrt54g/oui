@@ -2527,3 +2527,4 @@ fc:53:9e Shanghai Wind Technologies Co.,Ltd
 f8:28:19 Liteon Technology Corporation
 fc:ab:90 HUAWEI TECHNOLOGIES CO.,LTD
 88:29:9c Samsung Electronics Co.,Ltd
+dc:bf:e9 Motorola Mobility LLC, a Lenovo Company
