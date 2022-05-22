@@ -2532,3 +2532,4 @@ f4:a5:9d Huawei Device Co., Ltd.
 e0:aa:96 Samsung Electronics Co.,Ltd
 58:20:59 Xiaomi Communications Co Ltd
 5c:5f:67 Intel Corporate
+2c:ae:2b Samsung Electronics Co.,Ltd
