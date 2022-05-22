@@ -2538,3 +2538,4 @@ d4:ab:cd Hui Zhou Gaoshengda Technology Co.,LTD
 b0:be:83 Apple, Inc.
 3c:7a:aa China Dragon Technology Limited
 f0:d5:bf Intel Corporate
+3c:06:30 Apple, Inc.
