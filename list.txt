@@ -246,7 +246,6 @@ d0:d7:83 HUAWEI TECHNOLOGIES CO.,LTD
 0c:8d:db Cisco Meraki
 14:c2:13 Apple, Inc.
 d8:3b:bf Intel Corporate
-d4:e6:b7 Samsung Electronics Co.,Ltd
 8c:b8:4a SAMSUNG ELECTRO-MECHANICS(THAILAND)
 8c:f5:a3 SAMSUNG ELECTRO-MECHANICS(THAILAND)
 3c:dc:bc Samsung Electronics Co.,Ltd
