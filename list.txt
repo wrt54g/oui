@@ -2559,3 +2559,4 @@ f0:51:36 TCT mobile ltd
 e4:a4:71 Intel Corporate
 00:87:01 Samsung Electronics Co.,Ltd
 a0:a8:cd Intel Corporate
+ac:f1:08 LG Innotek
