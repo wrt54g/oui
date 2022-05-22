@@ -2554,3 +2554,4 @@ b8:57:d8 Samsung Electronics Co.,Ltd
 f0:51:36 TCT mobile ltd
 3c:9c:0f Intel Corporate
 64:cb:e9 LG Innotek
+58:b1:0f Samsung Electronics Co.,Ltd
