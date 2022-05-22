@@ -2534,3 +2534,4 @@ e0:aa:96 Samsung Electronics Co.,Ltd
 5c:5f:67 Intel Corporate
 2c:ae:2b Samsung Electronics Co.,Ltd
 d4:ab:cd Hui Zhou Gaoshengda Technology Co.,LTD
+60:f8:1d Apple, Inc.
