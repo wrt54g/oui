@@ -2544,3 +2544,4 @@ f0:d5:bf Intel Corporate
 08:aa:55 Motorola Mobility LLC, a Lenovo Company
 a0:10:81 Samsung Electronics Co.,Ltd
 dc:b7:2e Xiaomi Communications Co Ltd
+04:4a:6c HUAWEI TECHNOLOGIES CO.,LTD
