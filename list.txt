@@ -2547,3 +2547,4 @@ dc:b7:2e Xiaomi Communications Co Ltd
 84:b8:b8 Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
 08:78:08 Samsung Electronics Co.,Ltd
 e8:5a:8b Xiaomi Communications Co Ltd
+e0:b6:55 Beijing Xiaomi Electronics Co., Ltd.
