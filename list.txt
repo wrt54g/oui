@@ -2542,3 +2542,4 @@ f0:d5:bf Intel Corporate
 94:08:53 Liteon Technology Corporation
 50:ed:3c Apple, Inc.
 08:aa:55 Motorola Mobility LLC, a Lenovo Company
+a0:10:81 Samsung Electronics Co.,Ltd
