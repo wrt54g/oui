@@ -2536,3 +2536,4 @@ e0:aa:96 Samsung Electronics Co.,Ltd
 d4:ab:cd Hui Zhou Gaoshengda Technology Co.,LTD
 60:f8:1d Apple, Inc.
 b0:be:83 Apple, Inc.
+3c:7a:aa China Dragon Technology Limited
