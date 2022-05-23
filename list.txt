@@ -2594,3 +2594,4 @@ e4:f8:9c Intel Corporate
 8c:86:1e Apple, Inc.
 d4:54:8b Intel Corporate
 98:8d:46 Intel Corporate
+84:1b:77 Intel Corporate
