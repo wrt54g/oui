@@ -2569,3 +2569,4 @@ cc:2f:71 Intel Corporate
 6c:06:d6 Huawei Device Co., Ltd.
 80:d2:1d AzureWave Technology Inc.
 24:6f:8c Huawei Device Co., Ltd.
+a8:a1:98 TCT mobile ltd
