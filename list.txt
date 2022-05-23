@@ -2573,3 +2573,4 @@ a8:a1:98 TCT mobile ltd
 18:93:7f AMPAK Technology, Inc.
 40:aa:56 China Dragon Technology Limited
 90:0f:0c CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+20:f4:78 Xiaomi Communications Co Ltd
