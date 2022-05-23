@@ -2575,3 +2575,4 @@ a8:a1:98 TCT mobile ltd
 90:0f:0c CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
 20:f4:78 Xiaomi Communications Co Ltd
 90:e8:68 AzureWave Technology Inc.
+90:f1:aa Samsung Electronics Co.,Ltd
