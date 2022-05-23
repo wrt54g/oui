@@ -2578,3 +2578,4 @@ a8:a1:98 TCT mobile ltd
 90:f1:aa Samsung Electronics Co.,Ltd
 24:92:0e Samsung Electronics Co.,Ltd
 08:cc:27 Motorola Mobility LLC, a Lenovo Company
+e0:d4:64 Intel Corporate
