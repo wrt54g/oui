@@ -2602,3 +2602,4 @@ dc:0b:34 LG Electronics (Mobile Communications)
 2c:59:8a LG Electronics (Mobile Communications)
 88:ad:d2 Samsung Electronics Co.,Ltd
 8c:ea:48 Samsung Electronics Co.,Ltd
+cc:9f:7a Chiun Mai Communication Systems, Inc
