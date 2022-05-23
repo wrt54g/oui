@@ -2568,3 +2568,4 @@ cc:2f:71 Intel Corporate
 88:bf:e4 HUAWEI TECHNOLOGIES CO.,LTD
 6c:06:d6 Huawei Device Co., Ltd.
 80:d2:1d AzureWave Technology Inc.
+24:6f:8c Huawei Device Co., Ltd.
