@@ -2589,3 +2589,4 @@ b4:6d:83 Intel Corporate
 44:d7:91 HUAWEI TECHNOLOGIES CO.,LTD
 3c:22:fb Apple, Inc.
 f4:4e:e3 Intel Corporate
+e4:f8:9c Intel Corporate
