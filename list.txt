@@ -2587,3 +2587,4 @@ b4:6d:83 Intel Corporate
 30:a9:de LG Innotek
 64:e7:d8 Samsung Electronics Co.,Ltd
 44:d7:91 HUAWEI TECHNOLOGIES CO.,LTD
+3c:22:fb Apple, Inc.
