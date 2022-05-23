@@ -2571,3 +2571,4 @@ cc:2f:71 Intel Corporate
 24:6f:8c Huawei Device Co., Ltd.
 a8:a1:98 TCT mobile ltd
 18:93:7f AMPAK Technology, Inc.
+40:aa:56 China Dragon Technology Limited
