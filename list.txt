@@ -2566,3 +2566,4 @@ f8:1f:32 Motorola Mobility LLC, a Lenovo Company
 cc:2f:71 Intel Corporate
 1c:d6:be Wistron Neweb Corporation
 88:bf:e4 HUAWEI TECHNOLOGIES CO.,LTD
+6c:06:d6 Huawei Device Co., Ltd.
