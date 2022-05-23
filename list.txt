@@ -2596,3 +2596,4 @@ d4:54:8b Intel Corporate
 98:8d:46 Intel Corporate
 84:1b:77 Intel Corporate
 30:f7:72 Hon Hai Precision Ind. Co.,Ltd.
+dc:0b:34 LG Electronics (Mobile Communications)
