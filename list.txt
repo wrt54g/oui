@@ -2599,3 +2599,4 @@ d4:54:8b Intel Corporate
 dc:0b:34 LG Electronics (Mobile Communications)
 00:45:e2 CyberTAN Technology Inc.
 28:7f:cf Intel Corporate
+2c:59:8a LG Electronics (Mobile Communications)
