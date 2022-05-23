@@ -2590,3 +2590,4 @@ b4:6d:83 Intel Corporate
 3c:22:fb Apple, Inc.
 f4:4e:e3 Intel Corporate
 e4:f8:9c Intel Corporate
+0c:25:76 LONGCHEER TELECOMMUNICATION LIMITED
