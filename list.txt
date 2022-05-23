@@ -2583,3 +2583,4 @@ e0:d4:64 Intel Corporate
 e0:0a:f6 Liteon Technology Corporation
 ac:57:75 HMD Global Oy
 88:b4:a6 Motorola Mobility LLC, a Lenovo Company
+b4:6d:83 Intel Corporate
