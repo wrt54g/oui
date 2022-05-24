@@ -2610,3 +2610,4 @@ cc:9f:7a Chiun Mai Communication Systems, Inc
 34:88:5d Logitech Far East
 00:12:ab WiLife, Inc.
 00:07:61 29530
+d0:03:4b Apple, Inc.
