@@ -2637,3 +2637,4 @@ d4:9a:20 Apple, Inc.
 d8:a2:5e Apple, Inc.
 04:0c:ce Apple, Inc.
 b8:3e:59 Roku, Inc.
+5c:0a:5b SAMSUNG ELECTRO MECHANICS CO., LTD.
