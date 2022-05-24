@@ -2615,3 +2615,4 @@ d0:03:4b Apple, Inc.
 40:cb:c0 Apple, Inc.
 00:1b:63 Apple, Inc.
 18:3d:a2 Intel Corporate
+00:19:b9 Dell Inc.
