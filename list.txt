@@ -2612,3 +2612,4 @@ cc:9f:7a Chiun Mai Communication Systems, Inc
 00:07:61 29530
 d0:03:4b Apple, Inc.
 00:11:00 Schneider Electric
+40:cb:c0 Apple, Inc.
