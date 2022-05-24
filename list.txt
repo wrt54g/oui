@@ -2606,3 +2606,4 @@ cc:9f:7a Chiun Mai Communication Systems, Inc
 3c:a6:f6 Apple, Inc.
 90:3a:72 Ruckus Wireless
 00:18:4d NETGEAR
+04:21:44 Sunitec Enterprise Co.,Ltd
