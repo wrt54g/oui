@@ -2638,3 +2638,4 @@ d8:a2:5e Apple, Inc.
 04:0c:ce Apple, Inc.
 b8:3e:59 Roku, Inc.
 5c:0a:5b SAMSUNG ELECTRO MECHANICS CO., LTD.
+94:50:89 SimonsVoss Technologies GmbH
