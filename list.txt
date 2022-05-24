@@ -2625,3 +2625,4 @@ a8:9f:ba Samsung Electronics Co.,Ltd
 00:17:e2 ARRIS Group, Inc.
 f4:ce:46 Hewlett Packard
 00:26:55 Hewlett Packard
+00:19:e3 Apple, Inc.
