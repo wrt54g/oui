@@ -2608,3 +2608,4 @@ cc:9f:7a Chiun Mai Communication Systems, Inc
 00:18:4d NETGEAR
 04:21:44 Sunitec Enterprise Co.,Ltd
 34:88:5d Logitech Far East
+00:12:ab WiLife, Inc.
