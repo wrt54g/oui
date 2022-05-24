@@ -2622,3 +2622,4 @@ b8:c7:5d Apple, Inc.
 28:cf:da Apple, Inc.
 48:60:bc Apple, Inc.
 a8:9f:ba Samsung Electronics Co.,Ltd
+00:17:e2 ARRIS Group, Inc.
