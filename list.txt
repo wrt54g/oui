@@ -2645,3 +2645,4 @@ b8:3e:59 Roku, Inc.
 14:4f:8a Intel Corporate
 ec:9b:f3 SAMSUNG ELECTRO-MECHANICS(THAILAND)
 fc:fc:48 Apple, Inc.
+ac:9b:0a Sony Corporation
