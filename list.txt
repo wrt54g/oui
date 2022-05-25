@@ -2646,3 +2646,4 @@ b8:3e:59 Roku, Inc.
 ec:9b:f3 SAMSUNG ELECTRO-MECHANICS(THAILAND)
 fc:fc:48 Apple, Inc.
 ac:9b:0a Sony Corporation
+b0:9f:ba Apple, Inc.
