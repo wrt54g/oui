@@ -2650,3 +2650,4 @@ b0:9f:ba Apple, Inc.
 7c:c5:37 Apple, Inc.
 d0:e4:0b Wearable Inc.
 c8:d7:79 QING DAO HAIER TELECOM CO.,LTD.
+1c:69:a5 BlackBerry RTS
