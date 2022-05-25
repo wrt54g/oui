@@ -2643,3 +2643,4 @@ b8:3e:59 Roku, Inc.
 6c:29:95 Intel Corporate
 1c:99:4c Murata Manufacturing Co., Ltd.
 14:4f:8a Intel Corporate
+ec:9b:f3 SAMSUNG ELECTRO-MECHANICS(THAILAND)
