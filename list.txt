@@ -2669,3 +2669,4 @@ c4:4e:ac Shenzhen Shiningworth Technology Co., Ltd.
 00:1a:79 TELECOMUNICATION TECHNOLOGIES LTD.
 cc:a4:62 ARRIS Group, Inc.
 6c:fa:a7 AMPAK Technology, Inc.
+50:65:f3 Hewlett Packard
