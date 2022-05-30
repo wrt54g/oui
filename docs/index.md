@@ -3,4 +3,4 @@ oui is a list of OUIs (MAC Address vendors). It is all added without even lookin
 ## What we're missing
 We currently don't have a lot of smartphone or computer vendors, but we do have a lot of the smart home and networking equipment vendors.
 ## How to contribute
-Before opening an issue for a missing OUI, please read our rules.
+Before opening an issue for a missing OUI, please read our [rules](https://github.com/wrt54g/oui/blob/main/RULES.md).
