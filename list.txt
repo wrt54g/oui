@@ -2653,3 +2653,4 @@ c8:d7:79 QING DAO HAIER TELECOM CO.,LTD.
 1c:69:a5 BlackBerry RTS
 18:2a:7b Nintendo Co., Ltd.
 1c:52:16 DONGGUAN HELE ELECTRONICS CO., LTD
+18:67:b0 Samsung Electronics Co.,Ltd
