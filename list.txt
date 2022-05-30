@@ -2665,3 +2665,4 @@ f0:27:2d Amazon Technologies Inc.
 ac:63:be Amazon Technologies Inc.
 c4:4e:ac Shenzhen Shiningworth Technology Co., Ltd.
 80:0a:80 IEEE Registration Authority
+00:1a:29 Johnson Outdoors Marine Electronics d/b/a Minnkota
