@@ -2668,3 +2668,4 @@ c4:4e:ac Shenzhen Shiningworth Technology Co., Ltd.
 00:1a:29 Johnson Outdoors Marine Electronics d/b/a Minnkota
 00:1a:79 TELECOMUNICATION TECHNOLOGIES LTD.
 cc:a4:62 ARRIS Group, Inc.
+6c:fa:a7 AMPAK Technology, Inc.
