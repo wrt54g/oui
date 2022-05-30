@@ -2663,3 +2663,4 @@ c8:d7:79 QING DAO HAIER TELECOM CO.,LTD.
 74:c2:46 Amazon Technologies Inc.
 f0:27:2d Amazon Technologies Inc.
 ac:63:be Amazon Technologies Inc.
+c4:4e:ac Shenzhen Shiningworth Technology Co., Ltd.
