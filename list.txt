@@ -2655,3 +2655,4 @@ c8:d7:79 QING DAO HAIER TELECOM CO.,LTD.
 1c:52:16 DONGGUAN HELE ELECTRONICS CO., LTD
 18:67:b0 Samsung Electronics Co.,Ltd
 40:b4:cd Amazon Technologies Inc.
+24:4c:e3 Amazon Technologies Inc.
