@@ -2658,3 +2658,4 @@ c8:d7:79 QING DAO HAIER TELECOM CO.,LTD.
 24:4c:e3 Amazon Technologies Inc.
 14:99:e2 Apple, Inc.
 70:56:81 Apple, Inc.
+00:21:3c AliphCom
