@@ -2719,3 +2719,4 @@ cc:3e:5f Hewlett Packard
 00:c0:26 LANS TECHNOLOGY CO., LTD.
 40:d8:55 IEEE Registration Authority
 00:19:d1 Intel Corporate
+ac:37:43 HTC Corporation
