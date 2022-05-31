@@ -2682,3 +2682,4 @@ a4:67:06 Apple, Inc.
 4c:11:bf Zhejiang Dahua Technology Co., Ltd.
 90:02:a9 Zhejiang Dahua Technology Co., Ltd.
 00:1c:c0 Intel Corporate
+00:1e:58 D-Link Corporation
