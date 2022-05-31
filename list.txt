@@ -2751,3 +2751,4 @@ bc:ad:28 Hangzhou Hikvision Digital Technology Co.,Ltd.
 b8:3a:9d Alarm.com
 78:f5:fd HUAWEI TECHNOLOGIES CO.,LTD
 00:80:c8 D-LINK SYSTEMS, INC.
+04:db:56 Apple, Inc.
