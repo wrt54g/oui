@@ -2745,3 +2745,4 @@ b4:a3:82 Hangzhou Hikvision Digital Technology Co.,Ltd.
 48:59:29 LG Electronics (Mobile Communications)
 f8:2c:18 2Wire Inc
 d8:eb:97 TRENDnet, Inc.
+00:90:e8 MOXA TECHNOLOGIES CORP., LTD.
