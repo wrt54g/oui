@@ -2701,3 +2701,4 @@ d0:73:d5 LIFI LABS MANAGEMENT PTY LTD
 00:1b:78 Hewlett Packard
 cc:3e:5f Hewlett Packard
 00:50:fc Edimax Technology Co. Ltd.
+30:a8:db Sony Corporation
