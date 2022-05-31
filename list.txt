@@ -2758,3 +2758,4 @@ c4:a8:1d D-Link International
 00:1e:81 CNB Technology Inc.
 00:1e:b1 Cryptsoft Pty Ltd
 fc:a6:67 Amazon Technologies Inc.
+74:e1:82 Texas Instruments
