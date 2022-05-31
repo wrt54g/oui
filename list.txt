@@ -2672,3 +2672,4 @@ cc:a4:62 ARRIS Group, Inc.
 50:65:f3 Hewlett Packard
 00:16:6c Samsung Electronics Co.,Ltd
 70:71:bc PEGATRON CORPORATION
+00:27:19 TP-LINK TECHNOLOGIES CO.,LTD.
