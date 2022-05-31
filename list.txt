@@ -2761,3 +2761,4 @@ fc:a6:67 Amazon Technologies Inc.
 74:e1:82 Texas Instruments
 70:2a:d5 Samsung Electronics Co.,Ltd
 08:e6:89 Apple, Inc.
+ac:fd:ec Apple, Inc.
