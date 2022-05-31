@@ -2747,3 +2747,4 @@ f8:2c:18 2Wire Inc
 d8:eb:97 TRENDnet, Inc.
 00:90:e8 MOXA TECHNOLOGIES CORP., LTD.
 bc:ad:28 Hangzhou Hikvision Digital Technology Co.,Ltd.
+00:09:18 SAMSUNG TECHWIN CO.,LTD
