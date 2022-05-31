@@ -2693,3 +2693,4 @@ d4:e0:8e ValueHD Corporation
 00:04:7d Motorola Solutions Inc.
 44:32:c8 Technicolor CH USA Inc.
 00:fc:8b Amazon Technologies Inc.
+44:00:49 Amazon Technologies Inc.
