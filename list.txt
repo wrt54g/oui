@@ -2705,3 +2705,4 @@ cc:3e:5f Hewlett Packard
 00:13:3b Speed Dragon Multimedia Limited
 88:71:e5 Amazon Technologies Inc.
 8c:f1:12 Motorola Mobility LLC, a Lenovo Company
+00:15:17 Intel Corporate
