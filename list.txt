@@ -2741,3 +2741,4 @@ b4:a3:82 Hangzhou Hikvision Digital Technology Co.,Ltd.
 00:50:c2 IEEE Registration Authority
 08:a1:89 Hangzhou Hikvision Digital Technology Co.,Ltd.
 00:01:2e PC Partner Ltd.
+4c:bc:98 IEEE Registration Authority
