@@ -2670,3 +2670,4 @@ c4:4e:ac Shenzhen Shiningworth Technology Co., Ltd.
 cc:a4:62 ARRIS Group, Inc.
 6c:fa:a7 AMPAK Technology, Inc.
 50:65:f3 Hewlett Packard
+00:16:6c Samsung Electronics Co.,Ltd
