@@ -2743,3 +2743,4 @@ b4:a3:82 Hangzhou Hikvision Digital Technology Co.,Ltd.
 00:01:2e PC Partner Ltd.
 4c:bc:98 IEEE Registration Authority
 48:59:29 LG Electronics (Mobile Communications)
+f8:2c:18 2Wire Inc
