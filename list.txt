@@ -2721,3 +2721,4 @@ cc:3e:5f Hewlett Packard
 00:19:d1 Intel Corporate
 ac:37:43 HTC Corporation
 5c:b9:01 Hewlett Packard
+8c:8e:f2 Apple, Inc.
