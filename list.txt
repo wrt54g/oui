@@ -2722,3 +2722,4 @@ cc:3e:5f Hewlett Packard
 ac:37:43 HTC Corporation
 5c:b9:01 Hewlett Packard
 8c:8e:f2 Apple, Inc.
+bc:ba:c2 Hangzhou Hikvision Digital Technology Co.,Ltd.
