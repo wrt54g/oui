@@ -2707,3 +2707,4 @@ cc:3e:5f Hewlett Packard
 8c:f1:12 Motorola Mobility LLC, a Lenovo Company
 00:15:17 Intel Corporate
 00:01:e6 Hewlett Packard
+00:80:48 COMPEX INCORPORATED
