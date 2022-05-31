@@ -2728,3 +2728,4 @@ bc:ba:c2 Hangzhou Hikvision Digital Technology Co.,Ltd.
 b4:a3:82 Hangzhou Hikvision Digital Technology Co.,Ltd.
 00:16:76 Intel Corporate
 40:bd:32 Texas Instruments
+5c:f9:38 Apple, Inc.
