@@ -2771,3 +2771,4 @@ b0:39:56 NETGEAR
 48:5d:36 Verizon
 b0:7f:b9 NETGEAR
 00:56:2b Cisco Systems, Inc
+78:2b:cb Dell Inc.
