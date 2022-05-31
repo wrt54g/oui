@@ -2684,3 +2684,4 @@ a4:67:06 Apple, Inc.
 00:1c:c0 Intel Corporate
 00:1e:58 D-Link Corporation
 50:e5:49 GIGA-BYTE TECHNOLOGY CO.,LTD.
+00:1f:d0 GIGA-BYTE TECHNOLOGY CO.,LTD.
