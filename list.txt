@@ -2676,3 +2676,4 @@ cc:a4:62 ARRIS Group, Inc.
 00:14:d1 TRENDnet, Inc.
 10:93:e9 Apple, Inc.
 b8:f6:b1 Apple, Inc.
+00:00:85 CANON INC.
