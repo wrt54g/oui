@@ -2678,3 +2678,4 @@ cc:a4:62 ARRIS Group, Inc.
 b8:f6:b1 Apple, Inc.
 00:00:85 CANON INC.
 f0:cb:a1 Apple, Inc.
+a4:67:06 Apple, Inc.
