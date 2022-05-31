@@ -2753,3 +2753,4 @@ b8:3a:9d Alarm.com
 00:80:c8 D-LINK SYSTEMS, INC.
 04:db:56 Apple, Inc.
 48:88:ca Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
+84:2e:27 Samsung Electronics Co.,Ltd
