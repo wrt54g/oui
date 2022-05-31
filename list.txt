@@ -2727,3 +2727,4 @@ bc:ba:c2 Hangzhou Hikvision Digital Technology Co.,Ltd.
 00:16:3c Rebox B.V.
 b4:a3:82 Hangzhou Hikvision Digital Technology Co.,Ltd.
 00:16:76 Intel Corporate
+40:bd:32 Texas Instruments
