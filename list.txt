@@ -2680,3 +2680,4 @@ b8:f6:b1 Apple, Inc.
 f0:cb:a1 Apple, Inc.
 a4:67:06 Apple, Inc.
 4c:11:bf Zhejiang Dahua Technology Co., Ltd.
+90:02:a9 Zhejiang Dahua Technology Co., Ltd.
