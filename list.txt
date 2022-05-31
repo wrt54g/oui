@@ -2679,3 +2679,4 @@ b8:f6:b1 Apple, Inc.
 00:00:85 CANON INC.
 f0:cb:a1 Apple, Inc.
 a4:67:06 Apple, Inc.
+4c:11:bf Zhejiang Dahua Technology Co., Ltd.
