@@ -2738,3 +2738,4 @@ b4:a3:82 Hangzhou Hikvision Digital Technology Co.,Ltd.
 5c:3a:45 CHONGQING FUGUI ELECTRONICS CO.,LTD.
 00:02:d1 Vivotek, Inc.
 18:62:2c Sagemcom Broadband SAS
+00:50:c2 IEEE Registration Authority
