@@ -2733,3 +2733,4 @@ b4:a3:82 Hangzhou Hikvision Digital Technology Co.,Ltd.
 00:1a:07 Arecont Vision
 18:68:cb Hangzhou Hikvision Digital Technology Co.,Ltd.
 00:80:f0 Panasonic Communications Co., Ltd.
+00:22:5d Digicable Network India Pvt. Ltd.
