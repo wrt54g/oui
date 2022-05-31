@@ -2772,3 +2772,4 @@ b0:39:56 NETGEAR
 b0:7f:b9 NETGEAR
 00:56:2b Cisco Systems, Inc
 78:2b:cb Dell Inc.
+18:16:c9 Samsung Electronics Co.,Ltd
