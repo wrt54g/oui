@@ -2777,3 +2777,4 @@ d8:cb:8a Micro-Star INTL CO., LTD.
 c8:9b:d7 Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 fc:a1:83 Amazon Technologies Inc.
 38:59:f9 Hon Hai Precision Ind. Co.,Ltd.
+18:cf:5e Liteon Technology Corporation
