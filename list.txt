@@ -2781,3 +2781,4 @@ fc:a1:83 Amazon Technologies Inc.
 00:13:8f Asiarock Technology Limited
 00:0e:35 Intel Corporation
 00:11:43 Dell Inc.
+00:14:a5 Gemtek Technology Co., Ltd.
