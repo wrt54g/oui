@@ -2778,3 +2778,4 @@ c8:9b:d7 Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 fc:a1:83 Amazon Technologies Inc.
 38:59:f9 Hon Hai Precision Ind. Co.,Ltd.
 18:cf:5e Liteon Technology Corporation
+00:13:8f Asiarock Technology Limited
