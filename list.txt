@@ -2790,3 +2790,4 @@ c8:09:a8 Intel Corporate
 b8:f8:be BLUECOM
 88:66:5a Apple, Inc.
 d8:d4:3c Sony Corporation
+8c:49:62 Roku, Inc
