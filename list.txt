@@ -2792,3 +2792,4 @@ b8:f8:be BLUECOM
 d8:d4:3c Sony Corporation
 8c:49:62 Roku, Inc
 78:80:38 FUNAI ELECTRIC CO., LTD.
+84:ea:ed Roku, Inc
