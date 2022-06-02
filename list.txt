@@ -2791,3 +2791,4 @@ b8:f8:be BLUECOM
 88:66:5a Apple, Inc.
 d8:d4:3c Sony Corporation
 8c:49:62 Roku, Inc
+78:80:38 FUNAI ELECTRIC CO., LTD.
