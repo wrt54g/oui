@@ -2813,3 +2813,4 @@ c4:7c:8d IEEE Registration Authority
 30:3a:64 Intel Corporate
 b8:7c:6f NXP (China) Management Ltd.
 00:1a:7d cyber-blue(HK)Ltd
+f8:24:41 Yeelink
