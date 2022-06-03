@@ -2819,3 +2819,4 @@ f8:24:41 Yeelink
 58:2d:34 Qingping Electronics (Suzhou) Co., Ltd
 30:52:cb Liteon Technology Corporation
 9c:19:c2 Dongguan Liesheng Electronic Co., Ltd.
+4c:65:a8 IEEE Registration Authority
