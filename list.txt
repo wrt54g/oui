@@ -2809,3 +2809,4 @@ dc:7b:94 Cisco Systems, Inc
 b4:52:a9 Texas Instruments
 d0:2e:ab Texas Instruments
 c4:7c:8d IEEE Registration Authority
+5c:ca:d3 CHIPSEA TECHNOLOGIES (SHENZHEN) CORP.
