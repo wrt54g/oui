@@ -2817,3 +2817,4 @@ f8:24:41 Yeelink
 5c:f3:70 CC&C Technologies, Inc
 00:e0:42 Pacom Systems Ltd.
 58:2d:34 Qingping Electronics (Suzhou) Co., Ltd
+30:52:cb Liteon Technology Corporation
