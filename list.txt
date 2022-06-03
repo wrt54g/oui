@@ -2820,3 +2820,4 @@ f8:24:41 Yeelink
 30:52:cb Liteon Technology Corporation
 9c:19:c2 Dongguan Liesheng Electronic Co., Ltd.
 4c:65:a8 IEEE Registration Authority
+54:48:e6 Beijing Xiaomi Mobile Software Co., Ltd
