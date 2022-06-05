@@ -2833,3 +2833,4 @@ ac:b5:7d Liteon Technology Corporation
 00:08:5d Mitel Corporation
 c0:9f:42 Apple, Inc.
 00:1e:4f Dell Inc.
+30:8d:99 Hewlett Packard
