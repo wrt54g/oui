@@ -2824,3 +2824,4 @@ f8:24:41 Yeelink
 00:13:1e peiker acustic GmbH
 00:0b:6b Wistron Neweb Corporation
 90:84:0d Apple, Inc.
+00:19:3c HighPoint Technologies Incorporated
