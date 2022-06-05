@@ -2823,3 +2823,4 @@ f8:24:41 Yeelink
 54:48:e6 Beijing Xiaomi Mobile Software Co., Ltd
 00:13:1e peiker acustic GmbH
 00:0b:6b Wistron Neweb Corporation
+90:84:0d Apple, Inc.
