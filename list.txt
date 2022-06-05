@@ -2837,3 +2837,4 @@ c0:9f:42 Apple, Inc.
 10:f1:f2 LG Electronics (Mobile Communications)
 a4:1f:72 Dell Inc.
 b8:d7:af Murata Manufacturing Co., Ltd.
+68:37:e9 Amazon Technologies Inc.
