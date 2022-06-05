@@ -2829,3 +2829,4 @@ f8:24:41 Yeelink
 2c:29:97 Microsoft Corporation
 00:23:14 Intel Corporate
 ac:b5:7d Liteon Technology Corporation
+54:9f:13 Apple, Inc.
