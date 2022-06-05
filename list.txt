@@ -2838,3 +2838,4 @@ c0:9f:42 Apple, Inc.
 a4:1f:72 Dell Inc.
 b8:d7:af Murata Manufacturing Co., Ltd.
 68:37:e9 Amazon Technologies Inc.
+28:39:5e Samsung Electronics Co.,Ltd
