@@ -2836,3 +2836,4 @@ c0:9f:42 Apple, Inc.
 30:8d:99 Hewlett Packard
 10:f1:f2 LG Electronics (Mobile Communications)
 a4:1f:72 Dell Inc.
+b8:d7:af Murata Manufacturing Co., Ltd.
