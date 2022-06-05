@@ -2847,3 +2847,4 @@ b8:d7:af Murata Manufacturing Co., Ltd.
 50:67:ae Cisco Systems, Inc
 64:76:ba Apple, Inc.
 e8:80:2e Apple, Inc.
+5c:da:d4 Murata Manufacturing Co., Ltd.
