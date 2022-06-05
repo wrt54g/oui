@@ -2827,3 +2827,4 @@ f8:24:41 Yeelink
 00:19:3c HighPoint Technologies Incorporated
 90:27:e4 Apple, Inc.
 2c:29:97 Microsoft Corporation
+00:23:14 Intel Corporate
