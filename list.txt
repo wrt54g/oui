@@ -2840,3 +2840,4 @@ b8:d7:af Murata Manufacturing Co., Ltd.
 68:37:e9 Amazon Technologies Inc.
 28:39:5e Samsung Electronics Co.,Ltd
 00:13:20 Intel Corporate
+00:15:c5 Dell Inc.
