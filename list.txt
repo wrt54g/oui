@@ -2831,3 +2831,4 @@ f8:24:41 Yeelink
 ac:b5:7d Liteon Technology Corporation
 54:9f:13 Apple, Inc.
 00:08:5d Mitel Corporation
+c0:9f:42 Apple, Inc.
