@@ -2860,3 +2860,4 @@ dc:91:bf Amazon Technologies Inc.
 b8:e8:56 Apple, Inc.
 48:78:5e Amazon Technologies Inc.
 a0:56:b2 Harman/Becker Automotive Systems GmbH
+34:14:b5 Texas Instruments
