@@ -2870,3 +2870,4 @@ c4:3d:c7 NETGEAR
 5c:ff:35 Wistron Corporation
 40:4e:36 HTC Corporation
 cc:2d:83 GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+5c:e0:c5 Intel Corporate
