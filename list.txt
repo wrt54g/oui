@@ -2873,3 +2873,4 @@ cc:2d:83 GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 5c:e0:c5 Intel Corporate
 8c:3a:e3 LG Electronics (Mobile Communications)
 6c:71:d9 AzureWave Technology Inc.
+f4:31:c3 Apple, Inc.
