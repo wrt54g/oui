@@ -2867,3 +2867,4 @@ c4:3d:c7 NETGEAR
 78:5d:c8 LG Electronics
 00:13:02 Intel Corporate
 24:e2:71 Qingdao Hisense Communications Co.,Ltd.
+5c:ff:35 Wistron Corporation
