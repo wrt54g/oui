@@ -2864,3 +2864,4 @@ a0:56:b2 Harman/Becker Automotive Systems GmbH
 b0:fc:0d Amazon Technologies Inc.
 c4:3d:c7 NETGEAR
 38:f7:3d Amazon Technologies Inc.
+78:5d:c8 LG Electronics
