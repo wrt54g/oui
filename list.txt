@@ -2875,3 +2875,4 @@ cc:2d:83 GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 6c:71:d9 AzureWave Technology Inc.
 f4:31:c3 Apple, Inc.
 18:59:36 Xiaomi Communications Co Ltd
+54:72:4f Apple, Inc.
