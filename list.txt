@@ -2866,3 +2866,4 @@ c4:3d:c7 NETGEAR
 38:f7:3d Amazon Technologies Inc.
 78:5d:c8 LG Electronics
 00:13:02 Intel Corporate
+24:e2:71 Qingdao Hisense Communications Co.,Ltd.
