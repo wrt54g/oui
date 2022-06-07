@@ -2930,3 +2930,4 @@ d0:7e:35 Intel Corporate
 a4:97:b1 CHONGQING FUGUI ELECTRONICS CO.,LTD.
 00:91:9e Intel Corporate
 a0:51:0b Intel Corporate
+cc:f9:e4 Intel Corporate
