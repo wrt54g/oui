@@ -2906,3 +2906,4 @@ d0:50:99 ASRock Incorporation
 54:ab:3a Quanta Computer Inc.
 c0:3e:ba Dell Inc.
 00:19:bb Hewlett Packard
+1c:69:7a EliteGroup Computer Systems Co., LTD
