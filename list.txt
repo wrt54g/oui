@@ -2911,3 +2911,4 @@ c0:3e:ba Dell Inc.
 00:23:15 Intel Corporate
 1c:3e:84 Hon Hai Precision Ind. Co.,Ltd.
 d8:f8:83 Intel Corporate
+80:56:f2 Hon Hai Precision Ind. Co.,Ltd.
