@@ -2958,3 +2958,4 @@ cc:3d:82 Intel Corporate
 f8:59:71 Intel Corporate
 58:00:e3 Liteon Technology Corporation
 d0:c6:37 Intel Corporate
+48:a4:72 Intel Corporate
