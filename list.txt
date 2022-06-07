@@ -2883,3 +2883,4 @@ f4:31:c3 Apple, Inc.
 88:6b:0f Bluegiga Technologies OY
 e4:33:ae GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 4c:4f:ee OnePlus Technology (Shenzhen) Co., Ltd
+a0:9e:1a Polar Electro Oy
