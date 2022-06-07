@@ -2956,3 +2956,4 @@ b4:b6:76 Intel Corporate
 48:51:b7 Intel Corporate
 cc:3d:82 Intel Corporate
 f8:59:71 Intel Corporate
+58:00:e3 Liteon Technology Corporation
