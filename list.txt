@@ -2995,3 +2995,4 @@ fc:f8:ae Intel Corporate
 a8:6b:ad Hon Hai Precision Ind. Co.,Ltd.
 34:de:1a Intel Corporate
 00:16:6f Intel Corporate
+9c:b6:d0 Rivet Networks
