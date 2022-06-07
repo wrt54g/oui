@@ -2910,3 +2910,4 @@ c0:3e:ba Dell Inc.
 64:d4:da Intel Corporate
 00:23:15 Intel Corporate
 1c:3e:84 Hon Hai Precision Ind. Co.,Ltd.
+d8:f8:83 Intel Corporate
