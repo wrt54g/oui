@@ -3010,3 +3010,4 @@ d4:6d:6d Intel Corporate
 00:19:26 BitsGen Co., Ltd.
 00:19:d2 Intel Corporate
 b8:ee:65 Liteon Technology Corporation
+d8:f2:ca Intel Corporate
