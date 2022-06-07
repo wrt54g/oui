@@ -2943,3 +2943,4 @@ d4:3b:04 Intel Corporate
 c8:94:02 CHONGQING FUGUI ELECTRONICS CO.,LTD.
 74:e5:43 Liteon Technology Corporation
 f0:42:1c Intel Corporate
+00:18:de Intel Corporate
