@@ -2876,3 +2876,4 @@ cc:2d:83 GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 f4:31:c3 Apple, Inc.
 18:59:36 Xiaomi Communications Co Ltd
 54:72:4f Apple, Inc.
+7c:a1:5d GN ReSound A/S
