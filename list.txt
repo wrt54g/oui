@@ -2941,3 +2941,4 @@ e4:02:9b Intel Corporate
 08:ed:b9 Hon Hai Precision Ind. Co.,Ltd.
 d4:3b:04 Intel Corporate
 c8:94:02 CHONGQING FUGUI ELECTRONICS CO.,LTD.
+74:e5:43 Liteon Technology Corporation
