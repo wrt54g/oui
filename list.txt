@@ -2904,3 +2904,4 @@ d4:5d:df PEGATRON CORPORATION
 a4:bf:01 Intel Corporate
 d0:50:99 ASRock Incorporation
 54:ab:3a Quanta Computer Inc.
+c0:3e:ba Dell Inc.
