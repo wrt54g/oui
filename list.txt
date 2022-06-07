@@ -2921,3 +2921,4 @@ a0:88:b4 Intel Corporate
 70:18:8b Hon Hai Precision Ind. Co.,Ltd.
 e0:2a:82 Universal Global Scientific Industrial Co., Ltd.
 00:16:6f Intel Corporate
+b8:86:87 Liteon Technology Corporation
