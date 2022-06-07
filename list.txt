@@ -2889,3 +2889,4 @@ a0:9e:1a Polar Electro Oy
 f4:60:77 Texas Instruments
 e4:e1:12 Texas Instruments
 ac:eb:51 Universal Electronics, Inc.
+20:e7:b6 Universal Electronics, Inc.
