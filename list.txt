@@ -2961,3 +2961,4 @@ d0:c6:37 Intel Corporate
 48:a4:72 Intel Corporate
 30:24:32 Intel Corporate
 48:45:20 Intel Corporate
+dc:8b:28 Intel Corporate
