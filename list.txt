@@ -3008,3 +3008,4 @@ d4:6d:6d Intel Corporate
 68:17:29 Intel Corporate
 00:02:2d Agere Systems
 00:19:26 BitsGen Co., Ltd.
+00:19:d2 Intel Corporate
