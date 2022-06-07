@@ -2952,3 +2952,4 @@ c4:d9:87 Intel Corporate
 90:a4:de Wistron Neweb Corporation
 b4:b6:76 Intel Corporate
 60:57:18 Intel Corporate
+00:23:4e Hon Hai Precision Ind. Co.,Ltd.
