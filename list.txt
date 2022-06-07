@@ -2919,3 +2919,4 @@ a0:88:b4 Intel Corporate
 00:1a:73 Gemtek Technology Co., Ltd.
 60:d8:19 Hon Hai Precision Ind. Co.,Ltd.
 70:18:8b Hon Hai Precision Ind. Co.,Ltd.
+e0:2a:82 Universal Global Scientific Industrial Co., Ltd.
