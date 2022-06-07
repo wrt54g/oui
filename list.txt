@@ -2976,3 +2976,4 @@ e0:94:67 Intel Corporate
 60:36:dd Intel Corporate
 0c:60:76 Hon Hai Precision Ind. Co.,Ltd.
 7c:67:a2 Intel Corporate
+00:16:ea Intel Corporate
