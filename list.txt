@@ -2894,3 +2894,4 @@ d4:9c:dd AMPAK Technology,Inc.
 60:98:66 Texas Instruments
 44:1c:a8 Hon Hai Precision Ind. Co.,Ltd.
 98:5d:ad Texas Instruments
+00:10:2f Cisco Systems, Inc
