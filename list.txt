@@ -2879,3 +2879,4 @@ f4:31:c3 Apple, Inc.
 7c:a1:5d GN ReSound A/S
 9c:8c:6e Samsung Electronics Co.,Ltd
 9c:9c:1d Starkey Labs Inc.
+40:b6:e7 Huawei Device Co., Ltd.
