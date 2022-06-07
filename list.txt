@@ -2983,3 +2983,4 @@ ac:fd:ce Intel Corporate
 74:40:bb Hon Hai Precision Ind. Co.,Ltd.
 00:1a:92 ASUSTek COMPUTER INC.
 34:68:95 Hon Hai Precision Ind. Co.,Ltd.
+90:cd:b6 Hon Hai Precision Ind. Co.,Ltd.
