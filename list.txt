@@ -2899,3 +2899,4 @@ d4:9c:dd AMPAK Technology,Inc.
 24:9f:89 Texas Instruments
 b4:b8:59 Texa Spa
 fc:4b:bc Sunplus Technology Co., Ltd.
+d4:5d:df PEGATRON CORPORATION
