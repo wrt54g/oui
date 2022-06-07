@@ -2997,3 +2997,4 @@ a8:6b:ad Hon Hai Precision Ind. Co.,Ltd.
 00:16:6f Intel Corporate
 9c:b6:d0 Rivet Networks
 00:24:d2 ASKEY COMPUTER CORP
+d4:6d:6d Intel Corporate
