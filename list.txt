@@ -2901,3 +2901,4 @@ b4:b8:59 Texa Spa
 fc:4b:bc Sunplus Technology Co., Ltd.
 d4:5d:df PEGATRON CORPORATION
 00:21:5c Intel Corporate
+a4:bf:01 Intel Corporate
