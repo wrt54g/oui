@@ -2925,3 +2925,4 @@ b8:86:87 Liteon Technology Corporation
 00:1e:64 Intel Corporate
 d0:7e:35 Intel Corporate
 84:fd:d1 Intel Corporate
+9c:fc:e8 Intel Corporate
