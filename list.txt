@@ -2886,3 +2886,4 @@ e4:33:ae GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 a0:9e:1a Polar Electro Oy
 78:02:b7 ShenZhen Ultra Easy Technology CO.,LTD
 5c:17:cf OnePlus Technology (Shenzhen) Co., Ltd
+f4:60:77 Texas Instruments
