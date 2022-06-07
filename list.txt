@@ -2964,3 +2964,4 @@ d0:c6:37 Intel Corporate
 dc:8b:28 Intel Corporate
 1c:65:9d Liteon Technology Corporation
 b0:10:41 Hon Hai Precision Ind. Co.,Ltd.
+2c:6e:85 Intel Corporate
