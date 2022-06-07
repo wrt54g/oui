@@ -2922,3 +2922,4 @@ a0:88:b4 Intel Corporate
 e0:2a:82 Universal Global Scientific Industrial Co., Ltd.
 00:16:6f Intel Corporate
 b8:86:87 Liteon Technology Corporation
+00:1e:64 Intel Corporate
