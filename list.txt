@@ -2972,3 +2972,4 @@ d4:d2:52 Intel Corporate
 a4:c4:94 Intel Corporate
 34:f3:9a Intel Corporate
 dc:a2:66 Hon Hai Precision Ind. Co.,Ltd.
+e0:94:67 Intel Corporate
