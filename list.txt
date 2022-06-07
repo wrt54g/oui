@@ -2909,3 +2909,4 @@ c0:3e:ba Dell Inc.
 1c:69:7a EliteGroup Computer Systems Co., LTD
 64:d4:da Intel Corporate
 00:23:15 Intel Corporate
+1c:3e:84 Hon Hai Precision Ind. Co.,Ltd.
