@@ -2992,3 +2992,4 @@ d8:12:65 CHONGQING FUGUI ELECTRONICS CO.,LTD.
 c4:8e:8f Hon Hai Precision Ind. Co.,Ltd.
 a8:7e:ea Intel Corporate
 fc:f8:ae Intel Corporate
+a8:6b:ad Hon Hai Precision Ind. Co.,Ltd.
