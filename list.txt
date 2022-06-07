@@ -2896,3 +2896,4 @@ d4:9c:dd AMPAK Technology,Inc.
 98:5d:ad Texas Instruments
 00:10:2f Cisco Systems, Inc
 74:d2:85 Texas Instruments
+24:9f:89 Texas Instruments
