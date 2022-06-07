@@ -2938,3 +2938,4 @@ cc:f9:e4 Intel Corporate
 e4:02:9b Intel Corporate
 74:e5:f9 Intel Corporate
 20:10:7a Gemtek Technology Co., Ltd.
+08:ed:b9 Hon Hai Precision Ind. Co.,Ltd.
