@@ -2920,3 +2920,4 @@ a0:88:b4 Intel Corporate
 60:d8:19 Hon Hai Precision Ind. Co.,Ltd.
 70:18:8b Hon Hai Precision Ind. Co.,Ltd.
 e0:2a:82 Universal Global Scientific Industrial Co., Ltd.
+00:16:6f Intel Corporate
