@@ -2888,3 +2888,4 @@ a0:9e:1a Polar Electro Oy
 5c:17:cf OnePlus Technology (Shenzhen) Co., Ltd
 f4:60:77 Texas Instruments
 e4:e1:12 Texas Instruments
+ac:eb:51 Universal Electronics, Inc.
