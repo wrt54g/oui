@@ -2946,3 +2946,4 @@ f0:42:1c Intel Corporate
 00:18:de Intel Corporate
 58:fb:84 Intel Corporate
 84:ef:18 Intel Corporate
+00:24:2b Hon Hai Precision Ind. Co.,Ltd.
