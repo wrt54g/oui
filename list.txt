@@ -2916,3 +2916,4 @@ d8:f8:83 Intel Corporate
 34:23:87 Hon Hai Precision Ind. Co.,Ltd.
 88:53:2e Intel Corporate
 a0:88:b4 Intel Corporate
+00:1a:73 Gemtek Technology Co., Ltd.
