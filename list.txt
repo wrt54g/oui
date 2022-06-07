@@ -2986,3 +2986,4 @@ ac:fd:ce Intel Corporate
 90:cd:b6 Hon Hai Precision Ind. Co.,Ltd.
 7c:b0:c2 Intel Corporate
 d8:12:65 CHONGQING FUGUI ELECTRONICS CO.,LTD.
+78:0c:b8 Intel Corporate
