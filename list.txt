@@ -3012,3 +3012,4 @@ d4:6d:6d Intel Corporate
 b8:ee:65 Liteon Technology Corporation
 d8:f2:ca Intel Corporate
 00:1d:d6 ARRIS Group, Inc.
+6c:ca:08 ARRIS Group, Inc.
