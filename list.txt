@@ -2950,3 +2950,4 @@ f0:42:1c Intel Corporate
 00:26:82 Gemtek Technology Co., Ltd.
 c4:d9:87 Intel Corporate
 90:a4:de Wistron Neweb Corporation
+b4:b6:76 Intel Corporate
