@@ -2882,3 +2882,4 @@ f4:31:c3 Apple, Inc.
 40:b6:e7 Huawei Device Co., Ltd.
 88:6b:0f Bluegiga Technologies OY
 e4:33:ae GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+4c:4f:ee OnePlus Technology (Shenzhen) Co., Ltd
