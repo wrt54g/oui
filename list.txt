@@ -3028,3 +3028,4 @@ d4:81:d7 Dell Inc.
 00:d9:d1 Sony Interactive Entertainment Inc.
 00:19:c5 Sony Interactive Entertainment Inc.
 98:b6:e9 Nintendo Co.,Ltd
+4c:7c:5f Apple, Inc.
