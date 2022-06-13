@@ -3023,3 +3023,4 @@ d4:81:d7 Dell Inc.
 20:47:47 Dell Inc.
 00:15:bc Develco
 00:1a:80 Sony Corporation
+04:20:9a Panasonic Corporation AVC Networks Company
