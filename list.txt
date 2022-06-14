@@ -3040,3 +3040,4 @@ b0:72:bf Murata Manufacturing Co., Ltd.
 ac:17:c8 Cisco Meraki
 00:fc:8d Hitron Technologies. Inc
 a0:ff:70 Technicolor CH USA Inc.
+9c:1e:95 Actiontec Electronics, Inc
