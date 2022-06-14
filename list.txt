@@ -3032,3 +3032,4 @@ d4:81:d7 Dell Inc.
 0c:fe:45 Sony Interactive Entertainment Inc.
 7c:6d:62 Apple, Inc.
 14:cb:19 HP Inc.
+a4:17:31 Hon Hai Precision Ind. Co.,Ltd.
