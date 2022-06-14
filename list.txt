@@ -3037,3 +3037,4 @@ a4:17:31 Hon Hai Precision Ind. Co.,Ltd.
 ac:bc:32 Apple, Inc.
 10:68:3f LG Electronics (Mobile Communications)
 b0:72:bf Murata Manufacturing Co., Ltd.
+ac:17:c8 Cisco Meraki
