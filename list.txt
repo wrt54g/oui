@@ -3034,3 +3034,4 @@ d4:81:d7 Dell Inc.
 14:cb:19 HP Inc.
 a4:17:31 Hon Hai Precision Ind. Co.,Ltd.
 00:1e:06 WIBRAIN
+ac:bc:32 Apple, Inc.
