@@ -3053,3 +3053,4 @@ ac:e3:42 HUAWEI TECHNOLOGIES CO.,LTD
 58:95:d8 IEEE Registration Authority
 00:02:c7 ALPSALPINE CO,.LTD
 ac:d6:18 OnePlus Technology (Shenzhen) Co., Ltd
+80:fb:f0 Quectel Wireless Solutions Co., Ltd.
