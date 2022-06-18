@@ -3065,3 +3065,4 @@ f8:bc:12 Dell Inc.
 5c:f8:a1 Murata Manufacturing Co., Ltd.
 78:45:c4 Dell Inc.
 78:a3:51 SHENZHEN ZHIBOTONG ELECTRONICS CO.,LTD
+00:19:0e Atech Technology Co., Ltd.
