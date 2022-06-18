@@ -3043,3 +3043,4 @@ a0:ff:70 Technicolor CH USA Inc.
 9c:1e:95 Actiontec Electronics, Inc
 88:9e:68 Technicolor CH USA Inc.
 38:2b:78 ECO PLUGS ENTERPRISE CO., LTD
+10:08:2c Texas Instruments
