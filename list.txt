@@ -3059,3 +3059,4 @@ ac:d6:18 OnePlus Technology (Shenzhen) Co., Ltd
 00:0d:03 Matrics, Inc.
 64:5d:86 Intel Corporate
 20:47:da Xiaomi Communications Co Ltd
+4c:49:e3 Xiaomi Communications Co Ltd
