@@ -3050,3 +3050,4 @@ f8:9e:28 Cisco Meraki
 ac:e3:42 HUAWEI TECHNOLOGIES CO.,LTD
 60:35:73 Earda Technologies co Ltd
 1c:13:38 Kimball Electronics Group, LLC
+58:95:d8 IEEE Registration Authority
