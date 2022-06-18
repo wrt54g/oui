@@ -3045,3 +3045,4 @@ a0:ff:70 Technicolor CH USA Inc.
 38:2b:78 ECO PLUGS ENTERPRISE CO., LTD
 10:08:2c Texas Instruments
 f8:9e:28 Cisco Meraki
+00:14:9a ARRIS Group, Inc.
