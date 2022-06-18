@@ -3068,3 +3068,4 @@ f8:bc:12 Dell Inc.
 00:19:0e Atech Technology Co., Ltd.
 78:ac:c0 Hewlett Packard
 1c:ab:a7 Apple, Inc.
+00:23:ae Dell Inc.
