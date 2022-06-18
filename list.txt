@@ -3067,3 +3067,4 @@ f8:bc:12 Dell Inc.
 78:a3:51 SHENZHEN ZHIBOTONG ELECTRONICS CO.,LTD
 00:19:0e Atech Technology Co., Ltd.
 78:ac:c0 Hewlett Packard
+1c:ab:a7 Apple, Inc.
