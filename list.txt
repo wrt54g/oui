@@ -3057,3 +3057,4 @@ ac:d6:18 OnePlus Technology (Shenzhen) Co., Ltd
 40:06:a0 Texas Instruments
 6c:e8:5c Apple, Inc.
 00:0d:03 Matrics, Inc.
+64:5d:86 Intel Corporate
