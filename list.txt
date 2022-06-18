@@ -3055,3 +3055,4 @@ ac:e3:42 HUAWEI TECHNOLOGIES CO.,LTD
 ac:d6:18 OnePlus Technology (Shenzhen) Co., Ltd
 80:fb:f0 Quectel Wireless Solutions Co., Ltd.
 40:06:a0 Texas Instruments
+6c:e8:5c Apple, Inc.
