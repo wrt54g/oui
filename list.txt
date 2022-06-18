@@ -3052,3 +3052,4 @@ ac:e3:42 HUAWEI TECHNOLOGIES CO.,LTD
 1c:13:38 Kimball Electronics Group, LLC
 58:95:d8 IEEE Registration Authority
 00:02:c7 ALPSALPINE CO,.LTD
+ac:d6:18 OnePlus Technology (Shenzhen) Co., Ltd
