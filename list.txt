@@ -3069,3 +3069,4 @@ f8:bc:12 Dell Inc.
 78:ac:c0 Hewlett Packard
 1c:ab:a7 Apple, Inc.
 00:23:ae Dell Inc.
+dc:41:a9 Intel Corporate
