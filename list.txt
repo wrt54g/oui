@@ -3073,3 +3073,4 @@ dc:41:a9 Intel Corporate
 34:f6:4b Intel Corporate
 1c:1b:b5 Intel Corporate
 a4:11:62 Arlo Technology
+3c:a6:2f AVM Audiovisuelles Marketing und Computersysteme GmbH
