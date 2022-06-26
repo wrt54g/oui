@@ -3072,3 +3072,4 @@ f8:bc:12 Dell Inc.
 dc:41:a9 Intel Corporate
 34:f6:4b Intel Corporate
 1c:1b:b5 Intel Corporate
+a4:11:62 Arlo Technology
