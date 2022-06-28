@@ -3076,3 +3076,4 @@ a4:11:62 Arlo Technology
 3c:a6:2f AVM Audiovisuelles Marketing und Computersysteme GmbH
 dc:39:6f AVM Audiovisuelles Marketing und Computersysteme GmbH
 34:4d:ea zte corporation
+7c:46:85 Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
