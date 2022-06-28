@@ -1,0 +1,17 @@
+name: Close OUI pull requests
+on:
+  schedule:
+    - cron: "17 06 * * *"
+
+jobs:
+  close-issues:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+      - uses: actions/stale@v5
+        with:
+          close-pr-message: "This PR is closed since PRs for OUI requests are not allowed in this repository. If you have an OUI request, please create an issue for it. If this PR is for the back-end, please comment after the closing."
+          days-before-pr-close: -1
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
