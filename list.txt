@@ -3085,3 +3085,4 @@ fc:64:ba Xiaomi Communications Co Ltd
 94:ce:2c Sony Corporation
 44:55:b1 HUAWEI TECHNOLOGIES CO.,LTD
 00:0f:55 Datawire Communication Networks Inc.
+00:0e:f3 Smartlabs, Inc.
