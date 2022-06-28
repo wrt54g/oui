@@ -3080,3 +3080,4 @@ dc:39:6f AVM Audiovisuelles Marketing und Computersysteme GmbH
 30:cd:a7 Samsung Electronics Co.,Ltd
 00:ae:fa Murata Manufacturing Co., Ltd.
 00:12:7b VIA Networking Technologies, Inc.
+98:0d:51 Huawei Device Co., Ltd.
