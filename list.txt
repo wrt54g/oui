@@ -3083,3 +3083,4 @@ dc:39:6f AVM Audiovisuelles Marketing und Computersysteme GmbH
 98:0d:51 Huawei Device Co., Ltd.
 fc:64:ba Xiaomi Communications Co Ltd
 94:ce:2c Sony Corporation
+44:55:b1 HUAWEI TECHNOLOGIES CO.,LTD
