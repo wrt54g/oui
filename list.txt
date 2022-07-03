@@ -3089,3 +3089,4 @@ fc:64:ba Xiaomi Communications Co Ltd
 3c:e1:a1 Universal Global Scientific Industrial Co., Ltd.
 54:9f:35 Dell Inc.
 cc:88:26 LG Innotek
+4c:fc:aa Tesla,Inc.
