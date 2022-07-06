@@ -3090,3 +3090,4 @@ fc:64:ba Xiaomi Communications Co Ltd
 54:9f:35 Dell Inc.
 cc:88:26 LG Innotek
 4c:fc:aa Tesla,Inc.
+94:db:c9 AzureWave Technology Inc.
