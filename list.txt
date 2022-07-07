@@ -3092,3 +3092,4 @@ cc:88:26 LG Innotek
 4c:fc:aa Tesla,Inc.
 94:db:c9 AzureWave Technology Inc.
 00:24:6d Weinzierl Engineering GmbH
+d0:76:50 IEEE Registration Authority
