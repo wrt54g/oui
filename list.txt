@@ -3096,3 +3096,4 @@ d0:76:50 IEEE Registration Authority
 cc:1b:e0 IEEE Registration Authority
 00:0a:b3 Fa. GIRA
 1c:6f:65 GIGA-BYTE TECHNOLOGY CO.,LTD.
+38:2d:d1 Samsung Electronics Co.,Ltd
