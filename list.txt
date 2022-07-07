@@ -3091,3 +3091,4 @@ fc:64:ba Xiaomi Communications Co Ltd
 cc:88:26 LG Innotek
 4c:fc:aa Tesla,Inc.
 94:db:c9 AzureWave Technology Inc.
+00:24:6d Weinzierl Engineering GmbH
