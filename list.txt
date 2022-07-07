@@ -3094,3 +3094,4 @@ cc:88:26 LG Innotek
 00:24:6d Weinzierl Engineering GmbH
 d0:76:50 IEEE Registration Authority
 cc:1b:e0 IEEE Registration Authority
+00:0a:b3 Fa. GIRA
