@@ -3101,3 +3101,4 @@ cc:1b:e0 IEEE Registration Authority
 f4:b6:88 PLANTRONICS, INC.
 70:b3:d5 IEEE Registration Authority
 1c:5a:6b Philips Electronics Nederland BV
+70:af:24 TP Vision Belgium NV
