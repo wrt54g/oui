@@ -3105,3 +3105,4 @@ f4:b6:88 PLANTRONICS, INC.
 08:eb:74 HUMAX Co., Ltd.
 94:09:37 HUMAX Co., Ltd.
 6c:b5:6b HUMAX Co., Ltd.
+90:e2:ba Intel Corporate
