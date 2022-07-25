@@ -3110,3 +3110,4 @@ e0:f6:b5 Nintendo Co.,Ltd
 e0:99:71 Samsung Electronics Co.,Ltd
 cc:f4:11 Google, Inc.
 44:6d:7f Amazon Technologies Inc.
+74:d6:37 Amazon Technologies Inc.
