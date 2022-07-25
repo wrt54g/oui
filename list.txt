@@ -3116,3 +3116,4 @@ cc:f4:11 Google, Inc.
 50:1e:2d StreamUnlimited Engineering GmbH
 c0:ee:40 Laird Connectivity
 00:17:10 Casa Systems Inc.
+f8:e4:3b ASIX Electronics Corporation
