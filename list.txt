@@ -3120,3 +3120,4 @@ f8:e4:3b ASIX Electronics Corporation
 6c:29:90 WiZ Connected Lighting Company Limited
 b4:b0:24 TP-Link Corporation Limited
 98:ee:cb Wistron Infocomm (Zhongshan) Corporation
+80:8a:bd Samsung Electronics Co.,Ltd
