@@ -3117,3 +3117,4 @@ cc:f4:11 Google, Inc.
 c0:ee:40 Laird Connectivity
 00:17:10 Casa Systems Inc.
 f8:e4:3b ASIX Electronics Corporation
+6c:29:90 WiZ Connected Lighting Company Limited
